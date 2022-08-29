@@ -68,7 +68,7 @@ public class SectionLActivity extends AppCompatActivity {
         if (updateDB()) {
             finish();
             startActivity(new Intent(this, !selectedChild.equals("") ? SectionIMAActivity.class :
-                    !selectedAdol.equals("") || MainApp.familyList.get(Integer.parseInt(selectedMWRA) - 1).getIndexed().equals("3") ? SectionAH1Activity.class
+                    !selectedAdol.equals("") || MainApp.familyList.get(Integer.parseInt(selectedMWRA) - 1).getIndexed().equals("3") ? SectionN1Activity.class
                             : SectionMActivity.class));
         } else {
             Toast.makeText(this, R.string.fail_db_upd, Toast.LENGTH_SHORT).show();

@@ -36,13 +36,13 @@ import edu.aku.imranahmed.vasa2022.ui.lists.FormsReportCluster;
 import edu.aku.imranahmed.vasa2022.ui.lists.FormsReportDate;
 import edu.aku.imranahmed.vasa2022.ui.lists.FormsReportPending;
 import edu.aku.imranahmed.vasa2022.ui.sections.ConsentActivity;
-import edu.aku.imranahmed.vasa2022.ui.sections.SectionAH1Activity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionDActivity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionE1AActivity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionF1Activity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionGActivity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionH1AActivity;
 import edu.aku.imranahmed.vasa2022.ui.sections.SectionIMAActivity;
+import edu.aku.imranahmed.vasa2022.ui.sections.SectionN1Activity;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -139,7 +139,7 @@ public class MainActivity extends AppCompatActivity {
                 break;
             case R.id.seca1:
                 MainApp.form = new Forms();
-                startActivity(new Intent(this, SectionAH1Activity.class));
+                startActivity(new Intent(this, SectionN1Activity.class));
                 break;
             case R.id.secri:
                 MainApp.form = new Forms();

@@ -20,14 +20,14 @@ import edu.aku.imranahmed.vasa2022.R;
 import edu.aku.imranahmed.vasa2022.contracts.TableContracts;
 import edu.aku.imranahmed.vasa2022.core.MainApp;
 import edu.aku.imranahmed.vasa2022.database.DatabaseHelper;
-import edu.aku.imranahmed.vasa2022.databinding.ActivitySectionAh1Binding;
+import edu.aku.imranahmed.vasa2022.databinding.ActivitySectionN1Binding;
 import edu.aku.imranahmed.vasa2022.ui.EndingActivity;
 
 
-public class SectionAH1Activity extends AppCompatActivity {
+public class SectionN1Activity extends AppCompatActivity {
 
     private static final String TAG = "SectionAH1Activity";
-    ActivitySectionAh1Binding bi;
+    ActivitySectionN1Binding bi;
     private DatabaseHelper db;
 
 
@@ -35,7 +35,7 @@ public class SectionAH1Activity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setTheme(MainApp.langRTL ? R.style.AppThemeSindhi : R.style.AppThemeEnglish1);
-        bi = DataBindingUtil.setContentView(this, R.layout.activity_section_ah1);
+        bi = DataBindingUtil.setContentView(this, R.layout.activity_section_n1);
         setSupportActionBar(bi.toolbar);
         db = MainApp.appInfo.dbHelper;
         bi.sno.setText(familyList.get(Integer.parseInt(selectedAdol.isEmpty() ? selectedMWRA : selectedAdol) - 1).getD101());
