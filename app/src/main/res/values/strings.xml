@@ -491,35 +491,110 @@
 
     <string name="Q_n053">n053</string>
     <string name="n053">Whom did (you / she) see ?</string>
-    <string name="n053a">Doctor </string>
-    <string name="n053b">Nurse / Midwife </string>
-    <string name="n053c">Auxiliary Midwife </string>
+    <string name="n053a">Doctor</string>
+    <string name="n053b">Nurse / Midwife</string>
+    <string name="n053c">Auxiliary Midwife</string>
     <string name="n053d">Other Person:</string>
-    <string name="n053e">Traditional Birth Attendant </string>
-    <string name="n053f">Community Health Worker </string>
-    <string name="n05396">Other (Specify) </string>
+    <string name="n053e">Traditional Birth Attendant</string>
+    <string name="n053f">Community Health Worker</string>
+    <string name="n05396">Other (Specify)</string>
     <string name="n05398">Don’t Know</string>
 
-    <string name="n2054">N2054:	How many times did (you / the mother) receive antenatal care during this pregnancy?	</string>
-    <string name="n2055">N2055:	During which month of the pregnancy did (you / the mother) first receive antenatal care?	</string>
-    <string name="n2056">N2056:	During which month of the pregnancy did (you / the mother) last receive antenatal care?	</string>
-    <string name="n2057">N2057:	As part of (your / the mother’s) antenatal care during this pregnancy, were any of the following done at least once:	</string>
+    <string name="Q_n054">n054</string>
+    <string name="n054">How many times did (you / the mother) receive antenatal care during this pregnancy ?</string>
+    <string name="n054a">Times</string>
 
-    <string name="n2057_1">N2057_1: Was your blood pressure measured?</string>
-    <string name="n2057_2">N2057_2: Did you give a urine sample?</string>
-    <string name="n2057_3">N2057_3: Did you give a blood sample?</string>
-    <string name="n2057_4">N2057_4: Did the provider tell (you / her) to eat more high energy foods like (HIGH ENERGY FOODS) and high protein foods like (HIGH PROTEIN FOODS) than when not pregnant?</string>
-    <string name="n2057_5">N2057_5: Did the provider tell (you / her) about the danger signs during pregnancy?</string>
-    <string name="n2057_6">N2057_6: Did the provider tell (you / her) where to go if (you / she) had any danger signs?</string>
+    <string name="Q_n055">n055</string>
+    <string name="n055">During which month of the pregnancy did (you / the mother) first receive antenatal care ?</string>
+    <string name="n055a">Pregnancy Month</string>
 
-    <string name="n2058">N2058:	Please tell me the danger signs during pregnancy or labor and delivery that you should seek care for immediately.	</string>
-    <string name="n2059">N2059:	During this pregnancy, (were you / was the mother) given an injection in the arm to prevent the baby from getting tetanus, that is, convulsions after birth?	</string>
-    <string name="n2060">N2060:	During this pregnancy, how many times did (you / she) get this injection?	</string>
-    <string name="n2061">N2061:	At any time before this pregnancy, did (you / the mother) receive any tetanus injection, either to protect yourself or another baby?	</string>
-    <string name="n2062">N2062:	Before this pregnancy, how many other times did (you / she) receive a tetanus injection?	</string>
-    <string name="n2063">N2063:	During this pregnancy, did (you / the mother) sleep under an insecticide treated bed net?	</string>
-    <string name="n2064">N2064:	During this pregnancy, did (you / the mother) take any drug such as \'MOH RECOMMENDED DRUGS\' to prevent (you / her) from getting malaria?	</string>
-    <string name="n2065">N2065:	During this pregnancy, how many times did (you / she) take this drug?	</string>
+    <string name="Q_n056">n056</string>
+    <string name="n056">During which month of the pregnancy did (you / the mother) last receive antenatal care ?</string>
+    <string name="n056a">Pregnancy Month</string>
+
+    <string name="Q_n057">n057</string>
+    <string name="n057">As part of (your / the mother’s) antenatal care during this pregnancy, were any of the following done at least once:</string>
+    <string name="Q_n0571">n0571</string>
+    <string name="n0571">Was your blood pressure measured ?</string>
+    <string name="n0571a">Yes</string>
+    <string name="n0571b">No</string>
+    <string name="n057198">Don’t Know</string>
+    <string name="Q_n0572">n0572</string>
+    <string name="n0572">Did you give a urine sample ?</string>
+    <string name="n0572a">Yes</string>
+    <string name="n0572b">No</string>
+    <string name="n057298">Don’t Know</string>
+    <string name="Q_n0573">n0573</string>
+    <string name="n0573">Did you give a blood sample ?</string>
+    <string name="n0573a">Yes</string>
+    <string name="n0573b">No</string>
+    <string name="n057398">Don’t Know</string>
+    <string name="Q_n0574">n0574</string>
+    <string name="n0574">Did the provider tell (you / her) to eat more high energy foods like (HIGH ENERGY FOODS) and high protein foods like (HIGH PROTEIN FOODS) than when not pregnant ?</string>
+    <string name="n0574a">Yes</string>
+    <string name="n0574b">No</string>
+    <string name="n057498">Don’t Know</string>
+    <string name="Q_n0575">n0575</string>
+    <string name="n0575">Did the provider tell (you / her) about the danger signs during pregnancy ?</string>
+    <string name="n0575a">Yes</string>
+    <string name="n0575b">No</string>
+    <string name="n057598">Don’t Know</string>
+    <string name="Q_n0576">n0576</string>
+    <string name="n0576">Did the provider tell (you / her) where to go if (you / she) had any danger signs ?</string>
+    <string name="n0576a">Yes</string>
+    <string name="n0576b">No</string>
+    <string name="n057698">Don’t Know</string>
+
+    <string name="Q_n058">n058</string>
+    <string name="n058">Please tell me the danger signs during pregnancy or labor and delivery that you should seek care for immediately ?</string>
+    <string name="n058a">Vaginal Bleeding </string>
+    <string name="n058b">Convulsions / Fits </string>
+    <string name="n058c">Severe headache with blurred vision </string>
+    <string name="n058d">Fever and too weak to get out of bed </string>
+    <string name="n058e">Severe abdominal pain </string>
+    <string name="n058f">Fast or difficult breathing </string>
+    <string name="n058g">Painful contractions every 20 minutes or less for 12 hours or more </string>
+    <string name="n058h">Broken water for 12 hours or more </string>
+    <string name="n058i">Bloody, sticky discharge 12 hrs or more </string>
+    <string name="n058j">No immediate danger sign mentioned </string>
+
+    <string name="Q_n059">n059</string>
+    <string name="n059">During this pregnancy, (were you / was the mother) given an injection in the arm to prevent the baby from getting tetanus, that is, convulsions after birth ?</string>
+    <string name="n059a">Yes</string>
+    <string name="n059b">No</string>
+    <string name="n05998">Don’t Know</string>
+
+    <string name="Q_n060">n060</string>
+    <string name="n060">During this pregnancy, how many times did (you / she) get this injection ?</string>
+    <string name="n060a">Time(s)</string>
+
+    <string name="Q_n061">n061</string>
+    <string name="n061">At any time before this pregnancy, did (you / the mother) receive any tetanus injection, either to protect yourself or another baby ?</string>
+    <string name="n061a">Yes</string>
+    <string name="n061b">No</string>
+    <string name="n06198">Don’t Know</string>
+
+    <string name="Q_n062">n062</string>
+    <string name="n062">Before this pregnancy, how many other times did (you / she) receive a tetanus injection ?</string>
+    <string name="n062a">Time(s)</string>
+
+    <string name="Q_n063">n063</string>
+    <string name="n063">During this pregnancy, did (you / the mother) sleep under an insecticide treated bed net ?</string>
+    <string name="n063a">Yes, usually or always</string>
+    <string name="n063b">Yes, sometimes</string>
+    <string name="n063c">Never</string>
+    <string name="n06398">Don’t Know</string>
+
+    <string name="Q_n064">n064</string>
+    <string name="n064">During this pregnancy, did (you / the mother) take any drug such as \'MOH RECOMMENDED DRUGS\' to prevent (you / her) from getting malaria ?</string>
+    <string name="n064a">Yes</string>
+    <string name="n064b">No</string>
+    <string name="n06498">Don’t Know</string>
+
+    <string name="Q_n065">n065</string>
+    <string name="n065">During this pregnancy, how many times did (you / she) take this drug ?</string>
+    <string name="n065a">Time(s)</string>
+
     <string name="n2066">N2066:	Was the baby born more than one month early?	</string>
     <string name="n2067">N2067:	How many months long was the pregnancy before the child was born? 	</string>
     <string name="n2068">N2068:	How many hours did the labor and delivery take?	</string>
@@ -625,47 +700,6 @@
 
 
     <!-- Responces starts  -->
-    <string name="rb_N2057_1_1">Yes</string>
-    <string name="rb_N2057_1_2">No</string>
-    <string name="rb_N2057_1_DK">Don’t know</string>
-    <string name="rb_N2057_2_1">Yes</string>
-    <string name="rb_N2057_2_2">No</string>
-    <string name="rb_N2057_2_DK">Don’t know</string>
-    <string name="rb_N2057_3_1">Yes</string>
-    <string name="rb_N2057_3_2">No</string>
-    <string name="rb_N2057_3_DK">Don’t know</string>
-    <string name="rb_N2057_4_1">Yes</string>
-    <string name="rb_N2057_4_2">No</string>
-    <string name="rb_N2057_4_DK">Don’t know</string>
-    <string name="rb_N2057_5_1">Yes</string>
-    <string name="rb_N2057_5_2">No</string>
-    <string name="rb_N2057_5_DK">Don’t know</string>
-    <string name="rb_N2057_6_1">Yes</string>
-    <string name="rb_N2057_6_2">No</string>
-    <string name="rb_N2057_6_DK">Don’t know</string>
-    <string name="cb_N2058_1">Vaginal bleeding </string>
-    <string name="cb_N2058_2">Convulsions/fits </string>
-    <string name="cb_N2058_3">Severe headache with blurred vision </string>
-    <string name="cb_N2058_4">Fever and too weak to get out of bed </string>
-    <string name="cb_N2058_5">Severe abdominal pain </string>
-    <string name="cb_N2058_6">Fast or difficult breathing </string>
-    <string name="cb_N2058_7">Painful contractions every 20 minutes or less for 12 hours or more </string>
-    <string name="cb_N2058_8">Broken water for 12 hours or more </string>
-    <string name="cb_N2058_9">Bloody, sticky discharge 12 hrs or more </string>
-    <string name="cb_N2058_10">No immediate danger sign mentioned </string>
-    <string name="rb_N2059_1">Yes</string>
-    <string name="rb_N2059_2">No</string>
-    <string name="rb_N2059_DK">Don’t know</string>
-    <string name="rb_N2061_1">Yes</string>
-    <string name="rb_N2061_2">No</string>
-    <string name="rb_N2061_DK">Don’t know</string>
-    <string name="rb_N2063_1">Yes, usually or always</string>
-    <string name="rb_N2063_2">Yes, sometimes</string>
-    <string name="rb_N2063_3">Never</string>
-    <string name="rb_N2063_DK">Don’t know</string>
-    <string name="rb_N2064_1">Yes</string>
-    <string name="rb_N2064_2">No</string>
-    <string name="rb_N2064_DK">Don’t know</string>
     <string name="rb_N2066_1">Yes</string>
     <string name="rb_N2066_2">No</string>
     <string name="rb_N2066_DK">Don’t know</string>
