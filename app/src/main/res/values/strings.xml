@@ -882,34 +882,142 @@
     <string name="n08696">Other (Specify) </string>
     <string name="n08698">Don’t Know</string>
 
-    <string name="n2087">N2087: (Were you / Was the mother) admitted to hospital for (any of) the symptom(s) that started before labor?	</string>
+    <string name="Q_n087">n087</string>
+    <string name="n087">(Were you / Was the mother) admitted to hospital for (any of) the symptom(s) that started before labor ?</string>
+    <string name="n087a">Yes</string>
+    <string name="n087b">No</string>
+    <string name="n08798">Don’t Know</string>
 
 
-    <string name="n2088">N2088: Now I’d like to ask you about any symptoms (you / the mother) might have had during labor or delivery. Did (you / the mother) have any of the following symptoms during labor or delivery?"></string>
-    <string name="N2088_h">N2088_h: جواب دہندہ ، پڑہیں:  اگر "ماں" نہیں ہے۔ جواب دہندہ کو یاد دلائیں کہ لیبر(زچگی )  شروع ہوتی ہے جب درد زہ کی وجہ سے اینٹھن کی لہریں ہر  20 منٹ   یا اس سے کم وقت میں   اٹھتی ہیں۔."></string>
+    <string name="Q_n088">n088</string>
+    <string name="n088">Now I’d like to ask you about any symptoms (you / the mother) might have had during labor or delivery. Did (you / the mother) have any of the following symptoms during labor or delivery ?"</string>
+    <string name="n088info"> جواب دہندہ ، پڑہیں:  اگر "ماں" نہیں ہے۔ جواب دہندہ کو یاد دلائیں کہ لیبر(زچگی )  شروع ہوتی ہے جب درد زہ کی وجہ سے اینٹھن کی لہریں ہر  20 منٹ   یا اس سے کم وقت میں   اٹھتی ہیں۔</string>
+    <string name="n088a">Convulsions</string>
+    <string name="n088aa">Yes</string>
+    <string name="n088ab">No</string>
+    <string name="n088a98">Don’t Know</string>
+    <string name="n088a99">Refused to Answer</string>
 
-    <string name="n2088_1">N2088_1: Convulsions</string>
-    <string name="n2088_2">N2088_2: High blood pressure</string>
-    <string name="n2088_3">N2088_3: Severe anemia or pallor and shortness of breath</string>
-    <string name="n2088_4">N2088_4: Severe headache</string>
-    <string name="n2088_5">N2088_5: Blurred vision</string>
+    <string name="n088b">High Blood Pressure</string>
+    <string name="n088ba">Yes</string>
+    <string name="n088bb">No</string>
+    <string name="n088b98">Don’t Know</string>
+    <string name="n088b99">Refused to Answer</string>
+
+    <string name="n088c">Severe Anemia or Pallor and Shortness of Breath</string>
+    <string name="n088ca">Yes</string>
+    <string name="n088cb">No</string>
+    <string name="n088c98">Don’t Know</string>
+    <string name="n088c99">Refused to Answer</string>
+
+    <string name="n088d">Severe Headache</string>
+    <string name="n088da">Yes</string>
+    <string name="n088db">No</string>
+    <string name="n088d98">Don’t Know</string>
+    <string name="n088d99">Refused to Answer</string>
+
+    <string name="n088e">Blurred vision</string>
+    <string name="n088ea">Yes</string>
+    <string name="n088eb">No</string>
+    <string name="n088e98">Don’t Know</string>
+    <string name="n088e99">Refused to Answer</string>
+
     <string name="n2088_6">N2088_6: Too weak to get out of bed</string>
-    <string name="n2088_7">N2088_7: Severe abdominal pain? (not labor pain, between contractions</string>
-    <string name="n2088_8">N2088_8: Fast or difficult breathing</string>
-    <string name="n2088_9">N2088_9: Puffy face</string>
-    <string name="n2088_10">N2088_10: Excessive bleeding during labor or delivery</string>
-    <string name="n2088_11">N2088_11: Fever</string>
-    <string name="n2088_12">N2088_12: Foul smelling vaginal discharge</string>
-    <string name="n2088_13">N2088_13: Early/preterm labor (before 9 months</string>
-    <string name="n2088_14">N2088_14: Labor that lasted 12 hours or more</string>
-    <string name="n2088_15">N2088_15: Baby’s bottom, feet, arm or hand delivered before its head</string>
-    <string name="n2088_16">N2088_16: The umbilical cord delivered first</string>
-    <string name="n2088_17">N2088_17: The umbilical cord wrapped more than once around the neck of the child at birth</string>
-    <string name="n2088_18">N2088_18: Any other symptom?</string>
-    <string name="n2088_19">N2088_19: No symptoms during labor/delivery</string>
+    <string name="n088fa">Yes</string>
+    <string name="n088fb">No</string>
+    <string name="n088f98">Don’t Know</string>
+    <string name="n088f99">Refused to Answer</string>
 
-    <string name="n2089">N2089:	Where (were you / was the mother) when (this / the first) symptom began?	</string>
-    <string name="n2090">N2090:	Did (you / she) ever receive or seek any care or treatment for (any of) the labor or delivery symptom(s) including any care or treatment at home?	</string>
+    <string name="n2088_7">N2088_7: Severe abdominal pain? (not labor pain, between contractions</string>
+    <string name="n088ga">Yes</string>
+    <string name="n088gb">No</string>
+    <string name="n088g98">Don’t Know</string>
+    <string name="n088g99">Refused to Answer</string>
+
+    <string name="n2088_8">N2088_8: Fast or difficult breathing</string>
+    <string name="n088ha">Yes</string>
+    <string name="n088hb">No</string>
+    <string name="n088h98">Don’t Know</string>
+    <string name="n088h99">Refused to Answer</string>
+
+    <string name="n2088_9">N2088_9: Puffy face</string>
+    <string name="n088ia">Yes</string>
+    <string name="n088ib">No</string>
+    <string name="n088i98">Don’t Know</string>
+    <string name="n088i99">Refused to Answer</string>
+
+    <string name="n2088_10">N2088_10: Excessive bleeding during labor or delivery</string>
+    <string name="n088ja">Yes</string>
+    <string name="n088jb">No</string>
+    <string name="n088j98">Don’t Know</string>
+    <string name="n088j99">Refused to Answer</string>
+
+    <string name="n2088_11">N2088_11: Fever</string>
+    <string name="n088ka">Yes</string>
+    <string name="n088kb">No</string>
+    <string name="n088k98">Don’t Know</string>
+    <string name="n088k99">Refused to Answer</string>
+
+    <string name="n2088_12">N2088_12: Foul smelling vaginal discharge</string>
+    <string name="n088la">Yes</string>
+    <string name="n088lb">No</string>
+    <string name="n088l98">Don’t Know</string>
+    <string name="n088l99">Refused to Answer</string>
+
+    <string name="n2088_13">N2088_13: Early/preterm labor (before 9 months</string>
+    <string name="n088ma">Yes</string>
+    <string name="n088mb">No</string>
+    <string name="n088m98">Don’t Know</string>
+    <string name="n088m99">Refused to Answer</string>
+
+    <string name="n2088_14">N2088_14: Labor that lasted 12 hours or more</string>
+    <string name="n088na">Yes</string>
+    <string name="n088nb">No</string>
+    <string name="n088n98">Don’t Know</string>
+    <string name="n088n99">Refused to Answer</string>
+
+    <string name="n2088_15">N2088_15: Baby’s bottom, feet, arm or hand delivered before its head</string>
+    <string name="n088oa">Yes</string>
+    <string name="n088ob">No</string>
+    <string name="n088o98">Don’t Know</string>
+    <string name="n088o99">Refused to Answer</string>
+
+    <string name="n2088_16">N2088_16: The umbilical cord delivered first</string>
+    <string name="n088pa">Yes</string>
+    <string name="n088pb">No</string>
+    <string name="n088p98">Don’t Know</string>
+    <string name="n088p99">Refused to Answer</string>
+
+    <string name="n2088_17">N2088_17: The umbilical cord wrapped more than once around the neck of the child at birth</string>
+    <string name="n088qa">Yes</string>
+    <string name="n088qb">No</string>
+    <string name="n088q98">Don’t Know</string>
+    <string name="n088q99">Refused to Answer</string>
+
+    <string name="n2088_18">N2088_18: Any other symptom?</string>
+    <string name="n088ra">Yes</string>
+    <string name="n088rb">No</string>
+    <string name="n088r98">Don’t Know</string>
+    <string name="n088r99">Refused to Answer</string>
+
+    <string name="n088s">No Symptoms During Labor / Delivery</string>
+    <string name="n088sa">Yes</string>
+    <string name="n088sb">No</string>
+    <string name="n088s98">Don’t Know</string>
+    <string name="n088s99">Refused to Answer</string>
+
+    <string name="n089">Where (were you / was the mother) when (this / the first) symptom began ?</string>
+    <string name="n089a">Home (without a trained community nurse or midwife)</string>
+    <string name="n089b">On route to a health provider or facility</string>
+    <string name="n089c">At home with a trained community nurse or midwife who came to attend her normal labor, or at the health provider or facility where she went for normal labor</string>
+    <string name="n08996">Other (specify) </string>
+    <string name="n08998">Don’t Know</string>
+
+    <string name="n090">Did (you / she) ever receive or seek any care or treatment for (any of) the labor or delivery symptom(s) including any care or treatment at home ?</string>
+    <string name="n090a">Yes</string>
+    <string name="n090b">No</string>
+    <string name="n09098">Don’t Know</string>
+
     <string name="n2091">N2091:	Where did (you / she) receive or seek this care or treatment?	</string>
     <string name="n2092">N2092:	Who decided that seeing a health provider was the right thing to do?	</string>
     <string name="n2093">N2093:	Refer to N2006 and N2008 to determine the delivery place and attendant. Discuss with respondent to confirm or correct the delivery place and attendant. Use option 3 or 4 if the woman delivered at home (N2006=1, 2) with a trained nurse or midwife (N2008=2, 3). 	</string>
@@ -942,95 +1050,6 @@
 
 
     <!-- Responces starts  -->
-    <string name="rb_N2087_1">Yes</string>
-    <string name="rb_N2087_2">No</string>
-    <string name="rb_N2087_DK">Don’t know</string>
-
-    <string name="rb_N2088_1_1">Yes</string>
-    <string name="rb_N2088_1_2">No</string>
-    <string name="rb_N2088_1_DK">Don’t know</string>
-    <string name="rb_N2088_1_RA">Refused to Answer</string>
-    <string name="rb_N2088_2_1">Yes</string>
-    <string name="rb_N2088_2_2">No</string>
-    <string name="rb_N2088_2_DK">Don’t know</string>
-    <string name="rb_N2088_2_RA">Refused to Answer</string>
-    <string name="rb_N2088_3_1">Yes</string>
-    <string name="rb_N2088_3_2">No</string>
-    <string name="rb_N2088_3_DK">Don’t know</string>
-    <string name="rb_N2088_3_RA">Refused to Answer</string>
-    <string name="rb_N2088_4_1">Yes</string>
-    <string name="rb_N2088_4_2">No</string>
-    <string name="rb_N2088_4_DK">Don’t know</string>
-    <string name="rb_N2088_4_RA">Refused to Answer</string>
-    <string name="rb_N2088_5_1">Yes</string>
-    <string name="rb_N2088_5_2">No</string>
-    <string name="rb_N2088_5_DK">Don’t know</string>
-    <string name="rb_N2088_5_RA">Refused to Answer</string>
-    <string name="rb_N2088_6_1">Yes</string>
-    <string name="rb_N2088_6_2">No</string>
-    <string name="rb_N2088_6_DK">Don’t know</string>
-    <string name="rb_N2088_6_RA">Refused to Answer</string>
-    <string name="rb_N2088_7_1">Yes</string>
-    <string name="rb_N2088_7_2">No</string>
-    <string name="rb_N2088_7_DK">Don’t know</string>
-    <string name="rb_N2088_7_RA">Refused to Answer</string>
-    <string name="rb_N2088_8_1">Yes</string>
-    <string name="rb_N2088_8_2">No</string>
-    <string name="rb_N2088_8_DK">Don’t know</string>
-    <string name="rb_N2088_8_RA">Refused to Answer</string>
-    <string name="rb_N2088_9_1">Yes</string>
-    <string name="rb_N2088_9_2">No</string>
-    <string name="rb_N2088_9_DK">Don’t know</string>
-    <string name="rb_N2088_9_RA">Refused to Answer</string>
-    <string name="rb_N2088_10_1">Yes</string>
-    <string name="rb_N2088_10_2">No</string>
-    <string name="rb_N2088_10_DK">Don’t know</string>
-    <string name="rb_N2088_10_RA">Refused to Answer</string>
-    <string name="rb_N2088_11_1">Yes</string>
-    <string name="rb_N2088_11_2">No</string>
-    <string name="rb_N2088_11_DK">Don’t know</string>
-    <string name="rb_N2088_11_RA">Refused to Answer</string>
-    <string name="rb_N2088_12_1">Yes</string>
-    <string name="rb_N2088_12_2">No</string>
-    <string name="rb_N2088_12_DK">Don’t know</string>
-    <string name="rb_N2088_12_RA">Refused to Answer</string>
-    <string name="rb_N2088_13_1">Yes</string>
-    <string name="rb_N2088_13_2">No</string>
-    <string name="rb_N2088_13_DK">Don’t know</string>
-    <string name="rb_N2088_13_RA">Refused to Answer</string>
-    <string name="rb_N2088_14_1">Yes</string>
-    <string name="rb_N2088_14_2">No</string>
-    <string name="rb_N2088_14_DK">Don’t know</string>
-    <string name="rb_N2088_14_RA">Refused to Answer</string>
-    <string name="rb_N2088_15_1">Yes</string>
-    <string name="rb_N2088_15_2">No</string>
-    <string name="rb_N2088_15_DK">Don’t know</string>
-    <string name="rb_N2088_15_RA">Refused to Answer</string>
-    <string name="rb_N2088_16_1">Yes</string>
-    <string name="rb_N2088_16_2">No</string>
-    <string name="rb_N2088_16_DK">Don’t know</string>
-    <string name="rb_N2088_16_RA">Refused to Answer</string>
-    <string name="rb_N2088_17_1">Yes</string>
-    <string name="rb_N2088_17_2">No</string>
-    <string name="rb_N2088_17_DK">Don’t know</string>
-    <string name="rb_N2088_17_RA">Refused to Answer</string>
-    <string name="rb_N2088_18_1">Yes</string>
-    <string name="rb_N2088_18_2">No</string>
-    <string name="rb_N2088_18_DK">Don’t know</string>
-    <string name="rb_N2088_18_RA">Refused to Answer</string>
-    <string name="rb_N2088_19_1">Yes</string>
-    <string name="rb_N2088_19_2">No</string>
-    <string name="rb_N2088_19_DK">Don’t know</string>
-    <string name="rb_N2088_19_RA">Refused to Answer</string>
-
-    <string name="rb_N2089_1">Home (without a trained community nurse or midwife)</string>
-    <string name="rb_N2089_2">On route to a health provider or facility</string>
-    <string name="rb_N2089_3">At home with a trained community nurse or midwife who came to attend her normal labor, or at the health provider or facility where she went for normal labor</string>
-    <string name="rb_N2089_OT">Other (specify) </string>
-    <string name="rb_N2089_DK">Don’t know</string>
-    <string name="rb_N2090_1">Yes</string>
-    <string name="rb_N2090_2">No</string>
-    <string name="rb_N2090_DK">Don’t know</string>
     <string name="cb_N2091_1">Hospital </string>
     <string name="cb_N2091_2">NGO or government clinic </string>
     <string name="cb_N2091_3">Private doctor/clinic </string>
