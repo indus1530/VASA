@@ -1,17 +1,41 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!--<color name="colorPrimary">#718355</color>
-    <color name="colorPrimaryLight">#b5c99a</color>
-    <color name="colorPrimaryDark">#87986a</color>
-    <color name="colorAccent">#cfe1b9</color>
-    <color name="colorAccentLight">#e9f5db</color>-->
+    <color name="colorPrimary">#455A64</color>
+    <color name="colorPrimaryLight">#607D8B</color>
+    <color name="colorPrimaryDark">#37474F</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorAccentLight">#FFFF00</color>
 
-    <color name="colorPrimary">#303F9F</color>
+    <!--<color name="colorPrimary">#CFD8DC</color>
+    <color name="colorPrimaryLight">#ECEFF1</color>
+    <color name="colorPrimaryDark">#B0BEC5</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorAccentLight">#FFFF00</color>-->
+
+    <!--<color name="colorPrimary">#616161</color>
+    <color name="colorPrimaryLight">#9E9E9E</color>
+    <color name="colorPrimaryDark">#424242</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorAccentLight">#FFFF00</color>-->
+
+    <!--<color name="colorPrimary">#5D4037</color>
+    <color name="colorPrimaryLight">#8D6E63</color>
+    <color name="colorPrimaryDark">#3E2723</color>
+    <color name="colorAccent">#FFEB3B</color>
+    <color name="colorAccentLight">#FFFF00</color>-->
+
+    <!-- <color name="colorPrimary">#00796B</color>
+     <color name="colorPrimaryLight">#26A69A</color>
+     <color name="colorPrimaryDark">#004D40</color>
+     <color name="colorAccent">#FFD740</color>
+     <color name="colorAccentLight">#FFFF00</color>-->
+
+    <!--<color name="colorPrimary">#303F9F</color>
     <color name="colorPrimaryLight">#7986CB</color>
     <color name="colorPrimaryDark">#1A237E</color>
     <color name="colorAccent">#00E676</color>
-    <color name="colorAccentLight">#69F0AE</color>
+    <color name="colorAccentLight">#69F0AE</color>-->
 
 
     <color name="colorPrimaryOverlay">#7f303F9F</color>
@@ -33,6 +57,7 @@
     <color name="redLight">#d6ef0000</color>
     <color name="green">#009900</color>
     <color name="black">#FF000000</color>
+    <color name="blackGray">#212121</color>
     <color name="white">#FFFFFFFF</color>
     <color name="redOverlay">#7fef7f7f</color>
     <color name="greenOverlay">#7f009900</color>

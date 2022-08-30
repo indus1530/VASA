@@ -155,7 +155,7 @@
     <!--HEADINGS-->
 
     <!--Neonates-->
-    <string name="n1">Neonate</string>
+    <string name="n1">NEONATE</string>
     <string name="n2">SECTION 2: BACKGROUND</string>
     <string name="n21">GENERAL DELIVERY CONTEXT (for 0–27 day olds) </string>
     <string name="n22">STILLBIRTH / NEONATAL DEATH DETERMINATION (for 0–27 day olds) </string>
@@ -595,51 +595,293 @@
     <string name="n065">During this pregnancy, how many times did (you / she) take this drug ?</string>
     <string name="n065a">Time(s)</string>
 
-    <string name="n2066">N2066:	Was the baby born more than one month early?	</string>
-    <string name="n2067">N2067:	How many months long was the pregnancy before the child was born? 	</string>
-    <string name="n2068">N2068:	How many hours did the labor and delivery take?	</string>
-    <string name="n2069_1">N2069_1:	Was the delivery normal vaginal, without forceps or vacuum?	</string>
-    <string name="n2069_2">N2069_2:	Was the delivery vaginal, with forceps or vacuum?	</string>
-    <string name="n2069_3">N2069_3:	Was the delivery performed by C-section?	</string>
-    <string name="n2070">N2070:	During labor but before delivery, did (you / the mother) receive any kind of injection?	</string>
-    <string name="n2071">N2071:	Did the water break before labor or during labor?	</string>
-    <string name="n2072">N2072:	How many hours before labor did the water break?	</string>
-    <string name="n2073">N2073:	Was the baby born 24 hours or more after the water broke?	</string>
-    <string name="n2074">N2074:	What was the color of the liquor when the water broke?	</string>
-    <string name="n2075">N2075:	Was the liquor foul smelling?	</string>
-    <string name="n2076">N2076:	Earlier, you told me that the baby was delivered at \'DELIVERY PLACE\'. Who decided that (this / a health provider or facility) was the right place to deliver the baby?	</string>
-    <string name="n2077">N2077:	If she did not deliver or try to deliver with a health provider or facility (N2006=12 or N2006=1-2 and N2008≠1-3), ask: Did (you / the mother) have any concerns or problems that kept (you / her) from delivering with a health provider or facility?	</string>
-    <string name="n2078">N2078:	What concerns or problems did (you / she) have?	</string>
+    <string name="Q_n066">n066</string>
+    <string name="n066">Was the baby born more than one month early ?</string>
+    <string name="n066a">Yes</string>
+    <string name="n066b">No</string>
+    <string name="n06698">Don’t Know</string>
+    <string name="n06699">Refused to Answer</string>
+
+    <string name="Q_n067">n067</string>
+    <string name="n067">How many months long was the pregnancy before the child was born ?</string>
+    <string name="n067a">Month(s)</string>
+
+    <string name="Q_n068">n068</string>
+    <string name="n068">How many hours did the labor and delivery take ?</string>
+    <string name="n068a">Hour(s)</string>
+
+    <string name="Q_n0691">n0691</string>
+    <string name="n0691">Was the delivery normal vaginal, without forceps or vacuum ?</string>
+    <string name="n0691a">Yes</string>
+    <string name="n0691b">No</string>
+    <string name="n069198">Don’t Know</string>
+    <string name="n069199">Refused to Answer</string>
+
+    <string name="Q_n0692">n0692</string>
+    <string name="n0692">Was the delivery vaginal, with forceps or vacuum ?</string>
+    <string name="n0692a">Yes</string>
+    <string name="n0692b">No</string>
+    <string name="n069298">Don’t Know</string>
+    <string name="n069299">Refused to Answer</string>
+
+    <string name="Q_n0693">n0693</string>
+    <string name="n0693">Was the delivery performed by C-section ?</string>
+    <string name="n0693a">Yes</string>
+    <string name="n0693b">No</string>
+    <string name="n069398">Don’t Know</string>
+    <string name="n069399">Refused to Answer</string>
+
+    <string name="Q_n070">n070</string>
+    <string name="n070">During labor but before delivery, did (you / the mother) receive any kind of injection ?</string>
+    <string name="n070a">Yes</string>
+    <string name="n070b">No</string>
+    <string name="n07098">Don’t Know</string>
+    <string name="n07099">Refused to Answer</string>
+
+    <string name="Q_n071">n071</string>
+    <string name="n071">Did the water break before labor or during labor ?</string>
+    <string name="n071a">Before</string>
+    <string name="n071b">During</string>
+    <string name="n07198">Don’t Know</string>
+    <string name="n07199">Refused to Answer</string>
+
+    <string name="Q_n072">n072</string>
+    <string name="n072">How many hours before labor did the water break ?</string>
+    <string name="n072a">Hour(s)</string>
+
+    <string name="Q_n073">n073</string>
+    <string name="n073">Was the baby born 24 hours or more after the water broke ?</string>
+    <string name="n073a">Yes</string>
+    <string name="n073b">No</string>
+    <string name="n07398">Don’t Know</string>
+    <string name="n07399">Refused to Answer</string>
+
+    <string name="Q_n074">n074</string>
+    <string name="n074">What was the color of the liquor when the water broke ?</string>
+    <string name="n074a">Green or brown</string>
+    <string name="n074b">Clear (normal)</string>
+    <string name="n07496">Other (specify) </string>
+    <string name="n07498">Don’t Know</string>
+    <string name="n07499">Refused to Answer</string>
+
+    <string name="Q_n075">n075</string>
+    <string name="n075">Was the liquor foul smelling ?</string>
+    <string name="n075a">Yes</string>
+    <string name="n075b">No</string>
+    <string name="n07598">Don’t Know</string>
+    <string name="n07599">Refused to Answer</string>
+
+    <string name="Q_n076">n076</string>
+    <string name="n076">Earlier, you told me that the baby was delivered at \'DELIVERY PLACE\'. Who decided that (this / a health provider or facility) was the right place to deliver the baby ?</string>
+    <string name="n076a">The Woman, Herself </string>
+    <string name="n076b">Her Husband / Partner </string>
+    <string name="n076c">The Woman &amp; Her Husband / Partner Jointly</string>
+    <string name="n076d">The Woman’s Mother</string>
+    <string name="n076e">The Woman’s Mother-in-law</string>
+    <string name="n076f">Someone Else (Specify)</string>
+    <string name="n07698">Don’t Know</string>
+
+    <string name="Q_n077">n077</string>
+    <string name="n077">If she did not deliver or try to deliver with a health provider or facility (N2006=12 or N2006=1–2 and N2008≠1–3), ask: Did (you / the mother) have any concerns or problems that kept (you / her) from delivering with a health provider or facility ?</string>
+    <string name="n077a">Yes</string>
+    <string name="n077b">No</string>
+    <string name="n07798">Don’t Know</string>
+
+    <string name="Q_n078">n078</string>
+    <string name="n078">What concerns or problems did (you / she) have ?</string>
+    <string name="n078a">Did not think she was sick enough to need health care </string>
+    <string name="n078b">No one available to go with her </string>
+    <string name="n078c">Too much time from her regular duties </string>
+    <string name="n078d">Someone else had to decide (specify) </string>
+    <string name="n078e">Too far to travel </string>
+    <string name="n078f">No transportation available </string>
+    <string name="n078g">Cost (transport, health care, other) </string>
+    <string name="n078h">Not satisfied with available health care </string>
+    <string name="n078i">Symptom(s) required traditional care </string>
+    <string name="n078j">Thought she was too sick to travel</string>
+    <string name="n078k">Thought she will die despite care </string>
+    <string name="n078l">Was late at night (transportation or provider not available) </string>
+    <string name="n078m">Fears exposure to male health provider</string>
+    <string name="n07896">Other (specify) </string>
+    <string name="n07898">Don’t know </string>
 
 
-    <string name="n2080">N2080: Now I’d like to ask you about any symptoms (you / the mother) might have had during the late part of the pregnancy. Were the last 3 months of the pregnancy complicated by any of the following symptoms that started before labor?"></string>
+    <string name="n080">Now I’d like to ask you about any symptoms (you / the mother) might have had during the late part of the pregnancy. Were the last 3 months of the pregnancy complicated by any of the following symptoms that started before labor?"></string>
+    <string name="Q_n080a">n080a</string>
+    <string name="n080a">Convulsions ?</string>
+    <string name="n080aa">Yes</string>
+    <string name="n080ab">No</string>
+    <string name="n080a98">Don’t Know</string>
+    <string name="n080a99">Refused to Answer</string>
 
-    <string name="n2080_1">N2080_1: Convulsions?</string>
-    <string name="n2080_2">N2080_2: High blood pressure?</string>
-    <string name="n2080_3">N2080_3: Severe anemia or pallor and shortness of breath?</string>
-    <string name="n2080_4">N2080_4: Diabetes mellitus?</string>
-    <string name="n2080_5">N2080_5: Severe headache?</string>
-    <string name="n2080_6">N2080_6: Blurred vision?</string>
-    <string name="n2080_7">N2080_7: Too weak to get out of bed?</string>
-    <string name="n2080_8">N2080_8: Severe abdominal pain? (before labor, not labor pain)?</string>
-    <string name="n2080_9">N2080_9: Fast or difficult breathing?</string>
-    <string name="n2080_10">N2080_10: Puffy face?</string>
-    <string name="n2080_11">N2080_11: Any vaginal bleeding before labor?</string>
-    <string name="n2080_12">N2080_12: Fever?</string>
-    <string name="n2080_13">N2080_13: Foul smelling vaginal discharge?</string>
-    <string name="n2080_14">N2080_14: Water broke 6 hours or more before labor?</string>
-    <string name="n2080_15">N2080_15: Any Other?</string>
-    <string name="n2080_16">N2080_16: No symptoms before labor that started before labor? </string>
+    <string name="Q_n080b">n080b</string>
+    <string name="n080b">High Blood Pressure ?</string>
+    <string name="n080ba">Yes</string>
+    <string name="n080bb">No</string>
+    <string name="n080b98">Don’t Know</string>
+    <string name="n080b99">Refused to Answer</string>
 
-    <string name="n2081">N2081: Did (you / the mother) seek care from any person or health facility for (any of) the pregnancy symptom(s) that started before labor?	</string>
-    <string name="n2082">N2082: Where did (you / she) seek this care?	</string>
-    <string name="n2083">N2083: If more than one symptom started before labor and she sought care from a health provider (Q4003 = 1-4), ask:	</string>
-    <string name="n2084">N2084: For which symptom(s) did (you / she) go?	</string>
-    <string name="n2085">N2085: If she never went to a health provider (Q4002 = 2 or Q4003 = only 5-7) for any of the pregnancy symptoms, ask: Did (you / the mother) have any concerns or problems that kept (you / her) from going to a health provider or facility for the problem(s) that started before labor?	</string>
+    <string name="Q_n080c">n080c</string>
+    <string name="n080c">Severe Anemia or Pallor and Shortness of Breath ?</string>
+    <string name="n080ca">Yes</string>
+    <string name="n080cb">No</string>
+    <string name="n080c98">Don’t Know</string>
+    <string name="n080c99">Refused to Answer</string>
+
+    <string name="Q_n080d">n080d</string>
+    <string name="n080d">Diabetes Mellitus ?</string>
+    <string name="n080da">Yes</string>
+    <string name="n080db">No</string>
+    <string name="n080d98">Don’t Know</string>
+    <string name="n080d99">Refused to Answer</string>
+
+    <string name="Q_n080e">n080e</string>
+    <string name="n080e">Severe Headache ?</string>
+    <string name="n080ea">Yes</string>
+    <string name="n080eb">No</string>
+    <string name="n080e98">Don’t Know</string>
+    <string name="n080e99">Refused to Answer</string>
+
+    <string name="Q_n080f">n080f</string>
+    <string name="n080f">Blurred Vision ?</string>
+    <string name="n080fa">Yes</string>
+    <string name="n080fb">No</string>
+    <string name="n080f98">Don’t Know</string>
+    <string name="n080f99">Refused to Answer</string>
+
+    <string name="Q_n080g">n080g</string>
+    <string name="n080g">Too weak to get out of bed ?</string>
+    <string name="n080ga">Yes</string>
+    <string name="n080gb">No</string>
+    <string name="n080g98">Don’t Know</string>
+    <string name="n080g99">Refused to Answer</string>
+
+    <string name="Q_n080h">n080h</string>
+    <string name="n080h">Severe Abdominal Pain ? (before labor, not labor pain)</string>
+    <string name="n080ha">Yes</string>
+    <string name="n080hb">No</string>
+    <string name="n080h98">Don’t Know</string>
+    <string name="n080h99">Refused to Answer</string>
+
+    <string name="Q_n080i">n080i</string>
+    <string name="n080i">Fast or Difficult Breathing ?</string>
+    <string name="n080ia">Yes</string>
+    <string name="n080ib">No</string>
+    <string name="n080i98">Don’t Know</string>
+    <string name="n080i99">Refused to Answer</string>
+
+    <string name="Q_n080j">n080j</string>
+    <string name="n080j">Puffy Face ?</string>
+    <string name="n080ja">Yes</string>
+    <string name="n080jb">No</string>
+    <string name="n080j98">Don’t Know</string>
+    <string name="n080j99">Refused to Answer</string>
+
+    <string name="Q_n080k">n080k</string>
+    <string name="n080k">Any Vaginal Bleeding Before Labor ?</string>
+    <string name="n080ka">Yes</string>
+    <string name="n080kb">No</string>
+    <string name="n080k98">Don’t Know</string>
+    <string name="n080k99">Refused to Answer</string>
+
+    <string name="Q_n080l">n080l</string>
+    <string name="n080l">Fever ?</string>
+    <string name="n080la">Yes</string>
+    <string name="n080lb">No</string>
+    <string name="n080l98">Don’t Know</string>
+    <string name="n080l99">Refused to Answer</string>
+
+    <string name="Q_n080m">n080m</string>
+    <string name="n080m">Foul Smelling Vaginal Discharge ?</string>
+    <string name="n080ma">Yes</string>
+    <string name="n080mb">No</string>
+    <string name="n080m98">Don’t Know</string>
+    <string name="n080m99">Refused to Answer</string>
+
+    <string name="Q_n080n">n080n</string>
+    <string name="n080n">Water Broke 6 Hours or More Before Labor ?</string>
+    <string name="n080na">Yes</string>
+    <string name="n080nb">No</string>
+    <string name="n080n98">Don’t Know</string>
+    <string name="n080n99">Refused to Answer</string>
+
+    <string name="Q_n080o">n080o</string>
+    <string name="n080o">Any Other ?</string>
+    <string name="n080oa">Yes</string>
+    <string name="n080ob">No</string>
+    <string name="n080o98">Don’t Know</string>
+    <string name="n080o99">Refused to Answer</string>
+
+    <string name="Q_n080p">n080p</string>
+    <string name="n080p">No Symptoms Before Labor That Started Before Labor ?</string>
+
+    <string name="Q_n081">n081</string>
+    <string name="n081">Did (you / the mother) seek care from any person or health facility for (any of) the pregnancy symptom(s) that started before labor ?</string>
+    <string name="n081a">Yes</string>
+    <string name="n081b">No</string>
+    <string name="n08198">Don’t Know</string>
+
+    <string name="Q_n082">n082</string>
+    <string name="n082">Where did (you / she) seek this care ?</string>
+    <string name="n082a">Hospital </string>
+    <string name="n082b">NGO or Government Clinic</string>
+    <string name="n082c">Private Doctor / Clinic</string>
+    <string name="n082d">Trained Community Nurse or Midwife (Outside of a Health Facility)</string>
+    <string name="n082e">TBA / Village Doctor / Quack / Other non-formal or traditional provider</string>
+    <string name="n082f">Relative, Neighbor, Friend</string>
+    <string name="n08296">Other (Specify)</string>
+    <string name="n08298">Don’t Know</string>
+
+    <string name="Q_n083">n083</string>
+    <string name="n083">If more than one symptom started before labor and she sought care from a health provider (Q4003 = 1–4), ask:	</string>
+    <string name="n083a">Yes</string>
+    <string name="n083b">No</string>
+    <string name="n08398">Don’t Know</string>
+
+    <string name="Q_n084">n084</string>
+    <string name="n084">For which symptom(s) did (you / she) go ?</string>
+    <string name="n084a">Convulsions</string>
+    <string name="n084b">High blood pressure</string>
+    <string name="n084c">Severe anemia or (pallor and SOB)</string>
+    <string name="n084d">Diabetes</string>
+    <string name="n084e">Severe headache</string>
+    <string name="n084f">Blurred vision</string>
+    <string name="n084g">Too weak to get out of bed</string>
+    <string name="n084h">Severe abdominal (not labor) pain</string>
+    <string name="n084i">Fast or difficult breathing</string>
+    <string name="n084j">Puffy face</string>
+    <string name="n084k">Any bleeding before labor</string>
+    <string name="n084l">Fever</string>
+    <string name="n084m">Smelly vaginal discharge</string>
+    <string name="n084n">Water broke > 6 hrs bfr. labor</string>
+    <string name="n08496">Other (Please Specify)</string>
+
+    <string name="Q_n085">n085</string>
+    <string name="n085">If she never went to a health provider (Q4002 = 2 or Q4003 = only 5–7) for any of the pregnancy symptoms, ask: Did (you / the mother) have any concerns or problems that kept (you / her) from going to a health provider or facility for the problem(s) that started before labor?	</string>
+    <string name="n085a">Yes</string>
+    <string name="n085b">No</string>
+    <string name="n08598">Don’t Know</string>
+
     <string name="n2085_h2">	کیا    (آپ/ ماں(         کوڈلیوری یا زچگی   پہلے شروع  ہونے  والے   مسا ئل کے حوالے سے  صحت مہیا کرنے والے یا  مرکز صحت کے بارے میں جو تشویش/ مسئلہ تھے وہ حل ہوچکے تھے  ؟	:	N2085	</string>
     <string name="N2085_h2" translatable="false">	اگر  وہ   حمل کی علامات کے حوالے سے صحت مہیا کرنے والے   کے پاس گئی  تھی تو پوچھو   : (Q4003 = 1-4) 	:	N2085	</string>
 
-    <string name="n2086">N2086: What concerns or problems did (you / she) have?	</string>
+    <string name="Q_n086">n086</string>
+    <string name="n086">What concerns or problems did (you / she) have ?</string>
+    <string name="n086a">Did not think was sick enough to need health care</string>
+    <string name="n086b">No one available to go with her </string>
+    <string name="n086c">Too much time from her regular duties </string>
+    <string name="n086d">Someone else (specify) had to decide </string>
+    <string name="n086e">Too far to travel </string>
+    <string name="n086f">No transportation available </string>
+    <string name="n086g">Cost (transport, health care, other) </string>
+    <string name="n086h">Not satisfied with available health care </string>
+    <string name="n086i">Symptom(s) required traditional care </string>
+    <string name="n086j">Thought she was too sick to travel </string>
+    <string name="n086k">Thought she will die despite care </string>
+    <string name="n086l">Fears exposure to male health provider</string>
+    <string name="n08696">Other (Specify) </string>
+    <string name="n08698">Don’t Know</string>
+
     <string name="n2087">N2087: (Were you / Was the mother) admitted to hospital for (any of) the symptom(s) that started before labor?	</string>
 
 
@@ -700,180 +942,6 @@
 
 
     <!-- Responces starts  -->
-    <string name="rb_N2066_1">Yes</string>
-    <string name="rb_N2066_2">No</string>
-    <string name="rb_N2066_DK">Don’t know</string>
-    <string name="rb_N2066_RA">Refused to Answer</string>
-    <string name="rb_N2069_1_1">Yes</string>
-    <string name="rb_N2069_1_2">No</string>
-    <string name="rb_N2069_1_DK">Don’t know</string>
-    <string name="rb_N2069_1_RA">Refused to Answer</string>
-    <string name="rb_N2069_2_1">Yes</string>
-    <string name="rb_N2069_2_2">No</string>
-    <string name="rb_N2069_2_DK">Don’t know</string>
-    <string name="rb_N2069_2_RA">Refused to Answer</string>
-    <string name="rb_N2069_3_1">Yes</string>
-    <string name="rb_N2069_3_2">No</string>
-    <string name="rb_N2069_3_DK">Don’t know</string>
-    <string name="rb_N2069_3_RA">Refused to Answer</string>
-    <string name="rb_N2070_1">Yes</string>
-    <string name="rb_N2070_2">No</string>
-    <string name="rb_N2070_DK">Don’t know</string>
-    <string name="rb_N2070_RA">Refused to Answer</string>
-    <string name="rb_N2071_1">Before</string>
-    <string name="rb_N2071_2">During</string>
-    <string name="rb_N2071_DK"> Don’t know</string>
-    <string name="rb_N2071_RA">Refused to Answer</string>
-    <string name="rb_N2073_1">Yes</string>
-    <string name="rb_N2073_2">No</string>
-    <string name="rb_N2073_DK">Don’t know</string>
-    <string name="rb_N2073_RA">Refused to Answer</string>
-    <string name="rb_N2074_1">Green or brown</string>
-    <string name="rb_N2074_2">Clear (normal)</string>
-    <string name="rb_N2074_Ot">Other (specify) </string>
-    <string name="rb_N2074_DK">Don’t know</string>
-    <string name="rb_N2074_RA">Refused to Answer</string>
-    <string name="rb_N2075_1">Yes</string>
-    <string name="rb_N2075_2">No</string>
-    <string name="rb_N2075_DK">Don’t know</string>
-    <string name="rb_N2075_RA">Refused to Answer</string>
-    <string name="rb_N2076_1">The woman, herself </string>
-    <string name="rb_N2076_2">Her husband/partner </string>
-    <string name="rb_N2076_3">The woman and her husband/partner    jointly</string>
-    <string name="rb_N2076_4">The woman’s mother</string>
-    <string name="rb_N2076_5">The woman’s mother-in-law</string>
-    <string name="rb_N2076_6">Someone else (specify)</string>
-    <string name="rb_N2076_DK">Don’t know</string>
-    <string name="rb_N2077_1">Yes</string>
-    <string name="rb_N2077_2">No</string>
-    <string name="rb_N2077_DK">Don’t know</string>
-    <string name="cb_N2078_1">Did not think she was sick enough to need health care </string>
-    <string name="cb_N2078_2">No one available to go with her </string>
-    <string name="cb_N2078_3">Too much time from her regular duties </string>
-    <string name="cb_N2078_4">Someone else had to decide (specify) </string>
-    <string name="cb_N2078_5">Too far to travel </string>
-    <string name="cb_N2078_6">No transportation available </string>
-    <string name="cb_N2078_7">Cost (transport, health care, other) </string>
-    <string name="cb_N2078_8">Not satisfied with available health care </string>
-    <string name="cb_N2078_9">Symptom(s) required traditional care </string>
-    <string name="cb_N2078_10">Thought she was too sick to travel</string>
-    <string name="cb_N2078_11">Thought she will die despite care </string>
-    <string name="cb_N2078_12">Was late at night (transportation or provider not available) </string>
-    <string name="cb_N2078_13">Fears exposure to male health provider</string>
-    <string name="cb_N2078_OT">Other (specify) </string>
-    <string name="cb_N2078_DK">Don’t know </string>
-
-    <string name="rb_N2080_1_1">Yes</string>
-    <string name="rb_N2080_1_2">No</string>
-    <string name="rb_N2080_1_DK">Don’t know</string>
-    <string name="rb_N2080_1_RA">Refused to Answer</string>
-    <string name="rb_N2080_2_1">Yes</string>
-    <string name="rb_N2080_2_2">No</string>
-    <string name="rb_N2080_2_DK">Don’t know</string>
-    <string name="rb_N2080_2_RA">Refused to Answer</string>
-    <string name="rb_N2080_3_1">Yes</string>
-    <string name="rb_N2080_3_2">No</string>
-    <string name="rb_N2080_3_DK">Don’t know</string>
-    <string name="rb_N2080_3_RA">Refused to Answer</string>
-    <string name="rb_N2080_4_1">Yes</string>
-    <string name="rb_N2080_4_2">No</string>
-    <string name="rb_N2080_4_DK">Don’t know</string>
-    <string name="rb_N2080_4_RA">Refused to Answer</string>
-    <string name="rb_N2080_5_1">Yes</string>
-    <string name="rb_N2080_5_2">No</string>
-    <string name="rb_N2080_5_DK">Don’t know</string>
-    <string name="rb_N2080_5_RA">Refused to Answer</string>
-    <string name="rb_N2080_6_1">Yes</string>
-    <string name="rb_N2080_6_2">No</string>
-    <string name="rb_N2080_6_DK">Don’t know</string>
-    <string name="rb_N2080_6_RA">Refused to Answer</string>
-    <string name="rb_N2080_7_1">Yes</string>
-    <string name="rb_N2080_7_2">No</string>
-    <string name="rb_N2080_7_DK">Don’t know</string>
-    <string name="rb_N2080_7_RA">Refused to Answer</string>
-    <string name="rb_N2080_8_1">Yes</string>
-    <string name="rb_N2080_8_2">No</string>
-    <string name="rb_N2080_8_DK">Don’t know</string>
-    <string name="rb_N2080_8_RA">Refused to Answer</string>
-    <string name="rb_N2080_9_1">Yes</string>
-    <string name="rb_N2080_9_2">No</string>
-    <string name="rb_N2080_9_DK">Don’t know</string>
-    <string name="rb_N2080_9_RA">Refused to Answer</string>
-    <string name="rb_N2080_10_1">Yes</string>
-    <string name="rb_N2080_10_2">No</string>
-    <string name="rb_N2080_10_DK">Don’t know</string>
-    <string name="rb_N2080_10_RA">Refused to Answer</string>
-    <string name="rb_N2080_11_1">Yes</string>
-    <string name="rb_N2080_11_2">No</string>
-    <string name="rb_N2080_11_DK">Don’t know</string>
-    <string name="rb_N2080_11_RA">Refused to Answer</string>
-    <string name="rb_N2080_12_1">Yes</string>
-    <string name="rb_N2080_12_2">No</string>
-    <string name="rb_N2080_12_DK">Don’t know</string>
-    <string name="rb_N2080_12_RA">Refused to Answer</string>
-    <string name="rb_N2080_13_1">Yes</string>
-    <string name="rb_N2080_13_2">No</string>
-    <string name="rb_N2080_13_DK">Don’t know</string>
-    <string name="rb_N2080_13_RA">Refused to Answer</string>
-    <string name="rb_N2080_14_1">Yes</string>
-    <string name="rb_N2080_14_2">No</string>
-    <string name="rb_N2080_14_DK">Don’t know</string>
-    <string name="rb_N2080_14_RA">Refused to Answer</string>
-    <string name="rb_N2080_15_1">Yes</string>
-    <string name="rb_N2080_15_2">No</string>
-    <string name="rb_N2080_15_DK">Don’t know</string>
-    <string name="rb_N2080_15_RA">Refused to Answer</string>
-    <string name="rb_N2080_16_1">Yes</string>
-    <string name="rb_N2080_16_2">No</string>
-    <string name="rb_N2080_16_DK">Don’t know</string>
-    <string name="rb_N2080_16_RA">Refused to Answer</string>
-
-    <string name="rb_N2081_1">Yes</string>
-    <string name="rb_N2081_2">No</string>
-    <string name="rb_N2081_DK">Don’t know</string>
-    <string name="cb_N2082_1">Hospital </string>
-    <string name="cb_N2082_2">NGO or government clinic </string>
-    <string name="cb_N2082_3">Private doctor/clinic </string>
-    <string name="cb_N2082_4">Trained community nurse or midwife (outside of a health facility) </string>
-    <string name="cb_N2082_5">TBA/village doctor/quack/other non-formal or traditional provider </string>
-    <string name="cb_N2082_6">Relative, neighbor, friend </string>
-    <string name="cb_N2082_OT">Other (specify) </string>
-    <string name="cb_N2082_DK">Don’t know </string>
-    <string name="rb_N2083_1">Yes</string>
-    <string name="rb_N2083_2">No</string>
-    <string name="rb_N2083_DK">Don’t know</string>
-    <string name="rb_N2084_1">Convulsions</string>
-    <string name="rb_N2084_2">High blood pressure</string>
-    <string name="rb_N2084_3">Severe anemia or (pallor and SOB)</string>
-    <string name="rb_N2084_4">Diabetes</string>
-    <string name="rb_N2084_5">Severe headache</string>
-    <string name="rb_N2084_6">Blurred vision</string>
-    <string name="rb_N2084_7">Too weak to get out of bed</string>
-    <string name="rb_N2084_8">Severe abdominal (not labor) pain</string>
-    <string name="rb_N2084_9">Fast or difficult breathing</string>
-    <string name="rb_N2084_10">Puffy face</string>
-    <string name="rb_N2084_11">Any bleeding before labor</string>
-    <string name="rb_N2084_12">Fever</string>
-    <string name="rb_N2084_13">Smelly vaginal discharge</string>
-    <string name="rb_N2084_14">Water broke >6 hrs bfr. labor</string>
-
-    <string name="rb_N2085_1">Yes</string>
-    <string name="rb_N2085_2">No</string>
-    <string name="rb_N2085_DK">Don’t know</string>
-    <string name="cb_N2086_1">Did not think was sick enough to need health care </string>
-    <string name="cb_N2086_2">No one available to go with her </string>
-    <string name="cb_N2086_3">Too much time from her regular duties </string>
-    <string name="cb_N2086_4">Someone else (specify) had to decide </string>
-    <string name="cb_N2086_5">Too far to travel </string>
-    <string name="cb_N2086_6">No transportation available </string>
-    <string name="cb_N2086_7">Cost (transport, health care, other) </string>
-    <string name="cb_N2086_8">Not satisfied with available health care </string>
-    <string name="cb_N2086_9">Symptom(s) required traditional care </string>
-    <string name="cb_N2086_10">Thought she was too sick to travel </string>
-    <string name="cb_N2086_11">Thought she will die despite care </string>
-    <string name="cb_N2086_12">Fears exposure to male health provider</string>
-    <string name="cb_N2086_OT">Other (specify) </string>
-    <string name="cb_N2086_DK">Don’t know </string>
     <string name="rb_N2087_1">Yes</string>
     <string name="rb_N2087_2">No</string>
     <string name="rb_N2087_DK">Don’t know</string>
