@@ -95,7 +95,7 @@ public class NeonateBActivity extends AppCompatActivity {
         if (!formValidation()) return;
         if (MainApp.adol.getUid().equals("") ? insertNewRecord() : updateDB()) {
             finish();
-            startActivity(new Intent(this, SectionAH2Activity.class));
+            startActivity(new Intent(this, NeonateCActivity.class));
         } else {
             Toast.makeText(this, R.string.fail_db_upd, Toast.LENGTH_SHORT).show();
         }

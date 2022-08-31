@@ -45,7 +45,7 @@
             android:windowSoftInputMode="adjustResize|stateHidden" />
 
         <activity
-            android:name="edu.aku.imranahmed.vasa2022.ui.sections.SectionAH2Activity"
+            android:name="edu.aku.imranahmed.vasa2022.ui.sections.NeonateCActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeEnglish1"
