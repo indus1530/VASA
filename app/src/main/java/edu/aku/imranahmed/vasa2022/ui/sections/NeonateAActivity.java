@@ -1,6 +1,6 @@
 package edu.aku.imranahmed.vasa2022.ui.sections;
 
-import static edu.aku.imranahmed.vasa2022.core.MainApp.form;
+import static edu.aku.imranahmed.vasa2022.core.MainApp.adol;
 
 import android.content.Intent;
 import android.os.Bundle;
@@ -18,14 +18,14 @@ import edu.aku.imranahmed.vasa2022.R;
 import edu.aku.imranahmed.vasa2022.contracts.TableContracts;
 import edu.aku.imranahmed.vasa2022.core.MainApp;
 import edu.aku.imranahmed.vasa2022.database.DatabaseHelper;
-import edu.aku.imranahmed.vasa2022.databinding.ActivitySectionNBinding;
+import edu.aku.imranahmed.vasa2022.databinding.ActivityNeonateABinding;
 import edu.aku.imranahmed.vasa2022.ui.EndingActivity;
 
 
-public class SectionNActivity extends AppCompatActivity {
+public class NeonateAActivity extends AppCompatActivity {
 
-    private static final String TAG = "SectionNActivity";
-    ActivitySectionNBinding bi;
+    private static final String TAG = "NeonateAActivity";
+    ActivityNeonateABinding bi;
     private DatabaseHelper db;
 
 
@@ -33,8 +33,8 @@ public class SectionNActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setTheme(MainApp.langRTL ? R.style.AppThemeSindhi : R.style.AppThemeEnglish1);
-        bi = DataBindingUtil.setContentView(this, R.layout.activity_section_n);
-        bi.setForm(form);
+        bi = DataBindingUtil.setContentView(this, R.layout.activity_neonate_a);
+        bi.setForm(adol);
         setSupportActionBar(bi.toolbar);
         db = MainApp.appInfo.dbHelper;
     }

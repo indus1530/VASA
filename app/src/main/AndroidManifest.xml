@@ -38,7 +38,7 @@
             android:windowSoftInputMode="adjustResize" />
 
         <activity
-            android:name="edu.aku.imranahmed.vasa2022.ui.sections.SectionN1Activity"
+            android:name="edu.aku.imranahmed.vasa2022.ui.sections.NeonateBActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeEnglish1"
@@ -199,7 +199,7 @@
             android:windowSoftInputMode="adjustResize|stateHidden" />
 
         <activity
-            android:name="edu.aku.imranahmed.vasa2022.ui.sections.SectionNActivity"
+            android:name="edu.aku.imranahmed.vasa2022.ui.sections.NeonateAActivity"
             android:exported="false"
             android:screenOrientation="portrait"
             android:theme="@style/AppThemeEnglish1"

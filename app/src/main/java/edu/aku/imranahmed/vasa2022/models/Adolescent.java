@@ -204,6 +204,7 @@ public class Adolescent extends BaseObservable implements Observable {
     private String n084m = _EMPTY_;
     private String n084n = _EMPTY_;
     private String n08496 = _EMPTY_;
+    private String n08496x = _EMPTY_;
     private String n085 = _EMPTY_;
     private String n086a = _EMPTY_;
     private String n086b = _EMPTY_;

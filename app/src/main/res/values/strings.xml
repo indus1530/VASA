@@ -922,79 +922,79 @@
     <string name="n088e98">Don’t Know</string>
     <string name="n088e99">Refused to Answer</string>
 
-    <string name="n2088_6">N2088_6: Too weak to get out of bed</string>
+    <string name="n2088f">Too weak to get out of bed</string>
     <string name="n088fa">Yes</string>
     <string name="n088fb">No</string>
     <string name="n088f98">Don’t Know</string>
     <string name="n088f99">Refused to Answer</string>
 
-    <string name="n2088_7">N2088_7: Severe abdominal pain? (not labor pain, between contractions</string>
+    <string name="n2088g">Severe abdominal pain? (not labor pain, between contractions</string>
     <string name="n088ga">Yes</string>
     <string name="n088gb">No</string>
     <string name="n088g98">Don’t Know</string>
     <string name="n088g99">Refused to Answer</string>
 
-    <string name="n2088_8">N2088_8: Fast or difficult breathing</string>
+    <string name="n2088h">Fast or difficult breathing</string>
     <string name="n088ha">Yes</string>
     <string name="n088hb">No</string>
     <string name="n088h98">Don’t Know</string>
     <string name="n088h99">Refused to Answer</string>
 
-    <string name="n2088_9">N2088_9: Puffy face</string>
+    <string name="n2088i">Puffy face</string>
     <string name="n088ia">Yes</string>
     <string name="n088ib">No</string>
     <string name="n088i98">Don’t Know</string>
     <string name="n088i99">Refused to Answer</string>
 
-    <string name="n2088_10">N2088_10: Excessive bleeding during labor or delivery</string>
+    <string name="n2088j">Excessive bleeding during labor or delivery</string>
     <string name="n088ja">Yes</string>
     <string name="n088jb">No</string>
     <string name="n088j98">Don’t Know</string>
     <string name="n088j99">Refused to Answer</string>
 
-    <string name="n2088_11">N2088_11: Fever</string>
+    <string name="n2088k">Fever</string>
     <string name="n088ka">Yes</string>
     <string name="n088kb">No</string>
     <string name="n088k98">Don’t Know</string>
     <string name="n088k99">Refused to Answer</string>
 
-    <string name="n2088_12">N2088_12: Foul smelling vaginal discharge</string>
+    <string name="n2088l">Foul Smelling Vaginal Discharge</string>
     <string name="n088la">Yes</string>
     <string name="n088lb">No</string>
     <string name="n088l98">Don’t Know</string>
     <string name="n088l99">Refused to Answer</string>
 
-    <string name="n2088_13">N2088_13: Early/preterm labor (before 9 months</string>
+    <string name="n2088m">Early/preterm labor (before 9 months</string>
     <string name="n088ma">Yes</string>
     <string name="n088mb">No</string>
     <string name="n088m98">Don’t Know</string>
     <string name="n088m99">Refused to Answer</string>
 
-    <string name="n2088_14">N2088_14: Labor that lasted 12 hours or more</string>
+    <string name="n2088n">Labor that lasted 12 hours or more</string>
     <string name="n088na">Yes</string>
     <string name="n088nb">No</string>
     <string name="n088n98">Don’t Know</string>
     <string name="n088n99">Refused to Answer</string>
 
-    <string name="n2088_15">N2088_15: Baby’s bottom, feet, arm or hand delivered before its head</string>
+    <string name="n2088o">Baby’s bottom, feet, arm or hand delivered before its head</string>
     <string name="n088oa">Yes</string>
     <string name="n088ob">No</string>
     <string name="n088o98">Don’t Know</string>
     <string name="n088o99">Refused to Answer</string>
 
-    <string name="n2088_16">N2088_16: The umbilical cord delivered first</string>
+    <string name="n2088p">The umbilical cord delivered first</string>
     <string name="n088pa">Yes</string>
     <string name="n088pb">No</string>
     <string name="n088p98">Don’t Know</string>
     <string name="n088p99">Refused to Answer</string>
 
-    <string name="n2088_17">N2088_17: The umbilical cord wrapped more than once around the neck of the child at birth</string>
+    <string name="n2088q">The umbilical cord wrapped more than once around the neck of the child at birth</string>
     <string name="n088qa">Yes</string>
     <string name="n088qb">No</string>
     <string name="n088q98">Don’t Know</string>
     <string name="n088q99">Refused to Answer</string>
 
-    <string name="n2088_18">N2088_18: Any other symptom?</string>
+    <string name="n2088r">Any other symptom ?</string>
     <string name="n088ra">Yes</string>
     <string name="n088rb">No</string>
     <string name="n088r98">Don’t Know</string>
@@ -1006,6 +1006,7 @@
     <string name="n088s98">Don’t Know</string>
     <string name="n088s99">Refused to Answer</string>
 
+    <string name="Q_n089">n089</string>
     <string name="n089">Where (were you / was the mother) when (this / the first) symptom began ?</string>
     <string name="n089a">Home (without a trained community nurse or midwife)</string>
     <string name="n089b">On route to a health provider or facility</string>
@@ -1013,33 +1014,123 @@
     <string name="n08996">Other (specify) </string>
     <string name="n08998">Don’t Know</string>
 
+    <string name="Q_n090">n090</string>
     <string name="n090">Did (you / she) ever receive or seek any care or treatment for (any of) the labor or delivery symptom(s) including any care or treatment at home ?</string>
     <string name="n090a">Yes</string>
     <string name="n090b">No</string>
     <string name="n09098">Don’t Know</string>
 
-    <string name="n2091">N2091:	Where did (you / she) receive or seek this care or treatment?	</string>
-    <string name="n2092">N2092:	Who decided that seeing a health provider was the right thing to do?	</string>
-    <string name="n2093">N2093:	Refer to N2006 and N2008 to determine the delivery place and attendant. Discuss with respondent to confirm or correct the delivery place and attendant. Use option 3 or 4 if the woman delivered at home (N2006=1, 2) with a trained nurse or midwife (N2008=2, 3). 	</string>
-    <string name="n2094">N2094:	So, including where (you / the mother) received or sought care for the labor or delivery symptom(s) and for the delivery, how many health providers or facilities did (you / she) go to?	</string>
-    <string name="n2094_h">	سوال نمبر(N2091)    میں صحت فراہم  کرنے والے اورصحت کی سہولتوں(4-1)   کو  شامل کریں  جہاں لیبر اور زچگی کی علامات کی دیکھ بھال کی گئی تھی۔ اس کے ساتھ ہی  سوال نمبر(N2093)    میں زچگی کی جگہ/   زچگی میں مدد کرنے والے   (13-3) کو بھی شامل کریں ۔ اس بات کی یقین دہانی کریں  کہ  #13     جواب  سوال نمبر(N2093) میں ہے، اگر عورت کی زچگی صحت فراہم کرنے والے  یا صحت کی سہولت کے راستے میں ہوئی  . دو بار گنتی نہ کریں:   صحت فراہم کرنے والے /صحت کی سہولت   جو(سN2091) اور (سN2093) میں موجود  ہوں تو ان کی دو بار   نہ گنیں ۔   	:	N2094	</string>
+    <!--checkBox-->
+    <string name="Q_n091">n091</string>
+    <string name="n091">Where did (you / she) receive or seek this care or treatment ?</string>
+    <string name="n091a">Hospital </string>
+    <string name="n091b">NGO or government clinic </string>
+    <string name="n091c">Private doctor/clinic </string>
+    <string name="n091d">Trained community nurse or midwife (outside a health facility) </string>
+    <string name="n091e">TBA / Village Doctor / Quack / Other non-formal or traditional provider </string>
+    <string name="n091f">Relative, Neighbor, Friend</string>
+    <string name="n09196">Other (Specify) </string>
+    <string name="n09198">Don’t Know</string>
 
-    <string name="n2095">N2095:	Was there any particular symptom or symptoms for which (you / the mother) went to the (first) health provider?	</string>
-    <string name="n2095_h">	پڑھیں :   "پہلا صحت فراہم کنندہ "  اگر  وہ   ایک سے زیادہ  صحت فراہم کنندہ کے پاس گئی تھی	:	N2095	</string>
+    <string name="Q_n092">n092</string>
+    <string name="n092">Who decided that seeing a health provider was the right thing to do ?</string>
+    <string name="n092a">The Woman, Herself</string>
+    <string name="n092b">Her Husband / Partner </string>
+    <string name="n092c">The Woman &amp; Her Husband / Partner Jointly</string>
+    <string name="n092d">The Woman’s Mother</string>
+    <string name="n092e">The Woman’s Mother-in-Law</string>
+    <string name="n092f">Someone Else (Specify)</string>
+    <string name="n09298">Don’t Know</string>
 
-    <string name="n2096">N2096:	For which symptom(s) did (you / she) go?	</string>
-    <string name="n2097">N2097:	How long after the labor or delivery symptom(s) began was it decided to go to the (first) health provider?	</string>
-    <string name="n2098">N2098:	If she delivered at or was on the way to deliver at a health provider or facility (N2006=3-11 or N2006=1-2 and N2008=1-3), read: Earlier you said that (you / the mother) delivered at \'DELIVERY PLACE\'. (Confirm N2006 delivery place and N2008 birth attendant if at home.)	</string>
-    <string name="n2099">N2099:	Did (you / the mother) have to pay any money to travel to this provider?	</string>
-    <string name="n2100">N2100:	How did (you / the mother) arrange for the money to travel?	</string>
-    <string name="n2101">N2101:	What transportation method was used to go there?	</string>
-    <string name="n2102">N2102:	Did (you / the mother) reach the \'HEALTH PROVIDER\' before delivering the baby?	</string>
-    <string name="n2103">N2103:	After deciding to seek care for (the labor or delivery symptoms / the delivery), how long did it take ((you / the mother) to reach the \'LAST HEALTH PROVIDER\' / for the \'LAST HEALTH PROVIDER\' to reach (you / the mother))?">	</string>
-    <string name="n2103_h">	پڑھیں :    "صحت فراہم کنندہ کا  (آپ /ماں)  تک پہنچنا"  اگر  صحت فراہم کرنے والے نے   ماں کو گھر پر یا مرکز صحت کے باہر کسی اور جگہ دیکھا  	:	N2103	</string>
+    <string name="Q_n093">n093</string>
+    <string name="n093">Refer to N2006 and N2008 to determine the delivery place and attendant. Discuss with respondent to confirm or correct the delivery place and attendant. Use option 3 or 4 if the woman delivered at home (N2006=1, 2) with a trained nurse or midwife (N2008=2, 3).</string>
+    <string name="n093a">Respondent’s Home</string>
+    <string name="n093b">Other home</string>
+    <string name="n093c">Respondent’s home</string>
+    <string name="n093d">Other home</string>
+    <string name="n093e">Government hospital</string>
+    <string name="n093f">Government clinic/health center</string>
+    <string name="n093g">Government health post</string>
+    <string name="n093h">Other public sector (specify) </string>
+    <string name="n093i">Private hospital</string>
+    <string name="n093j">Private clinic</string>
+    <string name="n093k">Private maternity home</string>
+    <string name="n093l">Other private medical (specify) </string>
+    <string name="n093m">On route to a health provider or facility</string>
+    <string name="n09396">Other (Specify)</string>
+    <string name="n09398">Don’t Know</string>
 
-    <string name="n2104">N2104:	(Were you / Was the mother) admitted to the hospital?	</string>
-    <string name="n2105">N2105:	Did the \'LAST HEALTH PROVIDER\' refer (you / the mother) to another health provider or facility?	</string>
-    <string name="n2106">N2106:	Was the baby delivered by the \'LAST HEALTH PROVIDER\'?	</string>
+    <string name="Q_n094">n094</string>
+    <string name="n094">So, including where (you / the mother) received or sought care for the labor or delivery symptom(s) and for the delivery, how many health providers or facilities did (you / she) go to ?</string>
+    <string name="n094info">	سوال نمبر(N2091)    میں صحت فراہم  کرنے والے اورصحت کی سہولتوں(4-1)   کو  شامل کریں  جہاں لیبر اور زچگی کی علامات کی دیکھ بھال کی گئی تھی۔ اس کے ساتھ ہی  سوال نمبر(N2093)    میں زچگی کی جگہ/   زچگی میں مدد کرنے والے   (13-3) کو بھی شامل کریں ۔ اس بات کی یقین دہانی کریں  کہ  #13     جواب  سوال نمبر(N2093) میں ہے، اگر عورت کی زچگی صحت فراہم کرنے والے  یا صحت کی سہولت کے راستے میں ہوئی  . دو بار گنتی نہ کریں:   صحت فراہم کرنے والے /صحت کی سہولت   جو(سN2091) اور (سN2093) میں موجود  ہوں تو ان کی دو بار   نہ گنیں ۔   	:	N2094	</string>
+    <string name="n094a">How Many Health Providers or Facilities</string>
+
+    <string name="Q_n095">n095</string>
+    <string name="n095">Was there any particular symptom or symptoms for which (you / the mother) went to the (first) health provider ?</string>
+    <string name="n095info">پڑھیں: "پہلا صحت فراہم کنندہ" اگر وہ ایک سے زیادہ صحت فراہم کنندہ کے پاس گئی تھی</string>
+    <string name="n095a">Yes</string>
+    <string name="n095b">No</string>
+    <string name="n09598">Don’t Know</string>
+
+    <!--CheckBox-->
+    <string name="Q_n096">n096</string>
+    <string name="n096">For which symptom(s) did (you / she) go ?</string>
+    <string name="n096a">Convulsions</string>
+    <string name="n096b">High blood pressure</string>
+    <string name="n096c">Severe anemia or (pallor and SOB)</string>
+    <string name="n096d">Severe headache</string>
+    <string name="n096e">Blurred vision</string>
+    <string name="n096f">Too weak to get out of bed</string>
+    <string name="n096g">Severe abdominal (not labor) pain</string>
+    <string name="n096h">Fast or difficult breathing</string>
+    <string name="n096i">Puffy face</string>
+    <string name="n096j">Excess bleed during L or D</string>
+    <string name="n096k">Fever</string>
+    <string name="n096l">Smelly vaginal discharge</string>
+    <string name="n096m">Early/preterm labor ( less then 9 mnth)</string>
+    <string name="n096n">Labor for 12 hours or more</string>
+    <string name="n096o">Part other than baby’s head coming out first</string>
+    <string name="n096p">Cord delivered first</string>
+    <string name="n096q">Cord around child’s neck more than once</string>
+    <string name="n096r">Other (specified in N2088)</string>
+
+    <string name="Q_n097">n097</string>
+    <string name="n097">How long after the labor or delivery symptom(s) began was it decided to go to the (first) health provider ?</string>
+    <string name="n097m">Minute(s)</string>
+    <string name="n097h">Hour(s)</string>
+    <string name="n097d">Day(s)</string>
+
+    <string name="Q_n098">n098</string>
+    <string name="n098">If she delivered at or was on the way to deliver at a health provider or facility (N2006=3–11 or N2006=1–2 and N2008=1–3), read: Earlier you said that (you / the mother) delivered at \'DELIVERY PLACE\'. (Confirm N2006 delivery place and N2008 birth attendant if at home.)	</string>
+    <string name="n098a">Her own home with a doctor, nurse, midwife or auxiliary midwife</string>
+    <string name="n098b">Another home with a doctor, nurse, midwife or auxiliary midwife</string>
+    <string name="n098c">Government hospital</string>
+    <string name="n098d">Government Clinic / Health Center</string>
+    <string name="n098e">Government Health Post</string>
+    <string name="n098f">Other Public (Specify)</string>
+    <string name="n098g">Private Hospital</string>
+    <string name="n098h">Private Clinic</string>
+    <string name="n098i">Private Maternity Home</string>
+    <string name="n098j">Other Private Medical (Specify) </string>
+    <string name="n098k">On route to a health provider or facility</string>
+    <string name="n09896">Other (Specify)</string>
+    <string name="n09898">Don’t Know</string>
+
+    <string name="Q_n099">n099</string>
+    <string name="n099">Did (you / the mother) have to pay any money to travel to this provider ?</string>
+    <string name="n099a">Yes</string>
+    <string name="n099b">No</string>
+    <string name="n09998">Don’t Know</string>
+
+    <string name="n100">How did (you / the mother) arrange for the money to travel ?</string>
+    <string name="n101">What transportation method was used to go there ?</string>
+    <string name="n102">Did (you / the mother) reach the \'HEALTH PROVIDER\' before delivering the baby ?</string>
+    <string name="n103">After deciding to seek care for (the labor or delivery symptoms / the delivery), how long did it take ((you / the mother) to reach the \'LAST HEALTH PROVIDER\' / for the \'LAST HEALTH PROVIDER\' to reach (you / the mother)) ?">	</string>
+    <string name="n103info">پڑھیں: "صحت فراہم کنندہ کا (آپ / ماں) تک پہنچنا" اگر صحت فراہم کرنے والے نے ماں کو گھر پر یا مرکز صحت کے باہر کسی اور جگہ دیکھا</string>
+
+    <string name="n104">(Were you / Was the mother) admitted to the hospital ?</string>
+    <string name="n105">Did the \'LAST HEALTH PROVIDER\' refer (you / the mother) to another health provider or facility ?</string>
+    <string name="n106">Was the baby delivered by the \'LAST HEALTH PROVIDER\' ?</string>
 
 
     <string name="n2107">N2107: Now, I’d like to ask about symptoms after the delivery of the baby. Did (you / the mother) have any of the following symptoms that started within 6 weeks after the delivery?"></string>
@@ -1050,73 +1141,6 @@
 
 
     <!-- Responces starts  -->
-    <string name="cb_N2091_1">Hospital </string>
-    <string name="cb_N2091_2">NGO or government clinic </string>
-    <string name="cb_N2091_3">Private doctor/clinic </string>
-    <string name="cb_N2091_4">Trained community nurse or midwife (outside a health facility) </string>
-    <string name="cb_N2091_5">TBA/village doctor/quack/other non-formal or traditional provider </string>
-    <string name="cb_N2091_6">Relative, neighbor, friend </string>
-    <string name="cb_N2091_OT">Other (specify) </string>
-    <string name="cb_N2091_DK">Don’t know </string>
-    <string name="rb_N2092_1">The woman, herself </string>
-    <string name="rb_N2092_2">Her husband/partner </string>
-    <string name="rb_N2092_3">The woman and her husband/partner    jointly</string>
-    <string name="rb_N2092_4">The woman’s mother</string>
-    <string name="rb_N2092_5">The woman’s mother-in-law</string>
-    <string name="rb_N2092_6">Someone else (specify) </string>
-    <string name="rb_N2092_DK">Don’t know</string>
-    <string name="rb_N2093_1">Respondent’s home</string>
-    <string name="rb_N2093_2">Other home</string>
-    <string name="rb_N2093_3">Respondent’s home</string>
-    <string name="rb_N2093_4">Other home</string>
-    <string name="rb_N2093_5">Government hospital</string>
-    <string name="rb_N2093_6">Government clinic/health center</string>
-    <string name="rb_N2093_7">Government health post</string>
-    <string name="rb_N2093_8">Other public sector (specify) </string>
-    <string name="rb_N2093_9">Private hospital</string>
-    <string name="rb_N2093_10">Private clinic</string>
-    <string name="rb_N2093_11">Private maternity home</string>
-    <string name="rb_N2093_12">Other private medical (specify) </string>
-    <string name="rb_N2093_13">On route to a health provider or facility</string>
-    <string name="rb_N2093_OT">Other (specify) </string>
-    <string name="rb_N2093_DK">Don’t know</string>
-    <string name="rb_N2095_1">Yes</string>
-    <string name="rb_N2095_2">No</string>
-    <string name="rb_N2095_DK">Don’t know</string>
-    <string name="cb_N2096_1">Convulsions</string>
-    <string name="cb_N2096_2">High blood pressure</string>
-    <string name="cb_N2096_3">Severe anemia or (pallor and SOB)</string>
-    <string name="cb_N2096_4">Severe headache</string>
-    <string name="cb_N2096_5">Blurred vision</string>
-    <string name="cb_N2096_6">Too weak to get out of bed</string>
-    <string name="cb_N2096_7">Severe abdominal (not labor) pain</string>
-    <string name="cb_N2096_8">Fast or difficult breathing</string>
-    <string name="cb_N2096_9">Puffy face</string>
-    <string name="cb_N2096_10">Excess bleed during L or D</string>
-    <string name="cb_N2096_11">Fever</string>
-    <string name="cb_N2096_12">Smelly vaginal discharge</string>
-    <string name="cb_N2096_13">Early/preterm labor ( less then 9 mnth)</string>
-    <string name="cb_N2096_14">Labor for 12 hours or more</string>
-    <string name="cb_N2096_15">Part other than baby’s head coming out first</string>
-    <string name="cb_N2096_16">Cord delivered first</string>
-    <string name="cb_N2096_17">Cord around child’s neck more than once</string>
-    <string name="cb_N2096_18">Other (specified in N2088)</string>
-    <string name="rb_N2098_1">Her own home with a doctor, nurse, midwife or auxiliary midwife</string>
-    <string name="rb_N2098_2">Another home with a doctor, nurse, midwife or auxiliary midwife</string>
-    <string name="rb_N2098_3">Government hospital</string>
-    <string name="rb_N2098_4">Government clinic/health center</string>
-    <string name="rb_N2098_5">Government health post</string>
-    <string name="rb_N2098_6">Other public (specify)</string>
-    <string name="rb_N2098_7">Private hospital</string>
-    <string name="rb_N2098_8">Private clinic</string>
-    <string name="rb_N2098_9">Private maternity home</string>
-    <string name="rb_N2098_10">Other private medical (specify) </string>
-    <string name="rb_N2098_11">On route to a health provider or facility</string>
-    <string name="rb_N2098_OT">Other (specify) </string>
-    <string name="rb_N2098_DK">Don’t know</string>
-    <string name="rb_N2099_1">Yes</string>
-    <string name="rb_N2099_2">No</string>
-    <string name="rb_N2099_DK">Don’t know</string>
     <string name="cb_N2100_1">Had available </string>
     <string name="cb_N2100_2">Borrowed </string>
     <string name="cb_N2100_3">Sold assets </string>
