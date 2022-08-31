@@ -221,6 +221,91 @@ public class Adolescent extends BaseObservable implements Observable {
     private String n08698 = _EMPTY_;
     private String n08696 = _EMPTY_;
     private String n08696x = _EMPTY_;
+    private String n087 = _EMPTY_;
+    private String n088a = _EMPTY_;
+    private String n088b = _EMPTY_;
+    private String n088c = _EMPTY_;
+    private String n088d = _EMPTY_;
+    private String n088e = _EMPTY_;
+    private String n088f = _EMPTY_;
+    private String n088g = _EMPTY_;
+    private String n088h = _EMPTY_;
+    private String n088i = _EMPTY_;
+    private String n088j = _EMPTY_;
+    private String n088k = _EMPTY_;
+    private String n088l = _EMPTY_;
+    private String n088m = _EMPTY_;
+    private String n088n = _EMPTY_;
+    private String n088o = _EMPTY_;
+    private String n088p = _EMPTY_;
+    private String n088q = _EMPTY_;
+    private String n088r = _EMPTY_;
+    private String n088rx = _EMPTY_;
+    private String n088s = _EMPTY_;
+    private String n089 = _EMPTY_;
+    private String n08996x = _EMPTY_;
+    private String n090 = _EMPTY_;
+    private String n091a = _EMPTY_;
+    private String n091b = _EMPTY_;
+    private String n091c = _EMPTY_;
+    private String n091d = _EMPTY_;
+    private String n091e = _EMPTY_;
+    private String n091f = _EMPTY_;
+    private String n09198 = _EMPTY_;
+    private String n09196 = _EMPTY_;
+    private String n09196x = _EMPTY_;
+    private String n092 = _EMPTY_;
+    private String n092fx = _EMPTY_;
+    private String n093 = _EMPTY_;
+    private String n093fx = _EMPTY_;
+    private String n093jx = _EMPTY_;
+    private String n09396x = _EMPTY_;
+    private String n094 = _EMPTY_;
+    private String n095 = _EMPTY_;
+    private String n096a = _EMPTY_;
+    private String n096b = _EMPTY_;
+    private String n096c = _EMPTY_;
+    private String n096d = _EMPTY_;
+    private String n096e = _EMPTY_;
+    private String n096f = _EMPTY_;
+    private String n096g = _EMPTY_;
+    private String n096h = _EMPTY_;
+    private String n096i = _EMPTY_;
+    private String n096j = _EMPTY_;
+    private String n096k = _EMPTY_;
+    private String n096l = _EMPTY_;
+    private String n096m = _EMPTY_;
+    private String n096n = _EMPTY_;
+    private String n096o = _EMPTY_;
+    private String n096p = _EMPTY_;
+    private String n096q = _EMPTY_;
+    private String n096r = _EMPTY_;
+    private String n097m = _EMPTY_;
+    private String n097h = _EMPTY_;
+    private String n097d = _EMPTY_;
+    private String n098 = _EMPTY_;
+    private String n09896x = _EMPTY_;
+    private String n099 = _EMPTY_;
+    private String n100a = _EMPTY_;
+    private String n100b = _EMPTY_;
+    private String n100c = _EMPTY_;
+    private String n100d = _EMPTY_;
+    private String n100e = _EMPTY_;
+    private String n100f = _EMPTY_;
+    private String n10098 = _EMPTY_;
+    private String n10096 = _EMPTY_;
+    private String n10096x = _EMPTY_;
+    private String n101a = _EMPTY_;
+    private String n101b = _EMPTY_;
+    private String n101c = _EMPTY_;
+    private String n101d = _EMPTY_;
+    private String n101e = _EMPTY_;
+    private String n101f = _EMPTY_;
+    private String n10198 = _EMPTY_;
+    private String n10196 = _EMPTY_;
+    private String n10196x = _EMPTY_;
+    private String n102 = _EMPTY_;
+    private String n103 = _EMPTY_;
 
 
     // Field Variables
@@ -2587,6 +2672,954 @@ public class Adolescent extends BaseObservable implements Observable {
     public void setN08696x(String n08696x) {
         this.n08696x = n08696x;
         notifyPropertyChanged(BR.n08696x);
+    }
+
+    @Bindable
+    public String getN087() {
+        return n087;
+    }
+
+    public void setN087(String n087) {
+        this.n087 = n087;
+        notifyPropertyChanged(BR.n087);
+    }
+
+
+    @Bindable
+    public String getN088a() {
+        return n088a;
+    }
+
+    public void setN088a(String n088a) {
+        this.n088a = n088a;
+        notifyPropertyChanged(BR.n088a);
+    }
+
+    @Bindable
+    public String getN088b() {
+        return n088b;
+    }
+
+    public void setN088b(String n088b) {
+        this.n088b = n088b;
+        notifyPropertyChanged(BR.n088b);
+    }
+
+    @Bindable
+    public String getN088c() {
+        return n088c;
+    }
+
+    public void setN088c(String n088c) {
+        this.n088c = n088c;
+        notifyPropertyChanged(BR.n088c);
+    }
+
+    @Bindable
+    public String getN088d() {
+        return n088d;
+    }
+
+    public void setN088d(String n088d) {
+        this.n088d = n088d;
+        notifyPropertyChanged(BR.n088d);
+    }
+
+    @Bindable
+    public String getN088e() {
+        return n088e;
+    }
+
+    public void setN088e(String n088e) {
+        this.n088e = n088e;
+        notifyPropertyChanged(BR.n088e);
+    }
+
+    @Bindable
+    public String getN088f() {
+        return n088f;
+    }
+
+    public void setN088f(String n088f) {
+        this.n088f = n088f;
+        notifyPropertyChanged(BR.n088f);
+    }
+
+    @Bindable
+    public String getN088g() {
+        return n088g;
+    }
+
+    public void setN088g(String n088g) {
+        this.n088g = n088g;
+        notifyPropertyChanged(BR.n088g);
+    }
+
+    @Bindable
+    public String getN088h() {
+        return n088h;
+    }
+
+    public void setN088h(String n088h) {
+        this.n088h = n088h;
+        notifyPropertyChanged(BR.n088h);
+    }
+
+    @Bindable
+    public String getN088i() {
+        return n088i;
+    }
+
+    public void setN088i(String n088i) {
+        this.n088i = n088i;
+        notifyPropertyChanged(BR.n088i);
+    }
+
+    @Bindable
+    public String getN088j() {
+        return n088j;
+    }
+
+    public void setN088j(String n088j) {
+        this.n088j = n088j;
+        notifyPropertyChanged(BR.n088j);
+    }
+
+    @Bindable
+    public String getN088k() {
+        return n088k;
+    }
+
+    public void setN088k(String n088k) {
+        this.n088k = n088k;
+        notifyPropertyChanged(BR.n088k);
+    }
+
+    @Bindable
+    public String getN088l() {
+        return n088l;
+    }
+
+    public void setN088l(String n088l) {
+        this.n088l = n088l;
+        notifyPropertyChanged(BR.n088l);
+    }
+
+    @Bindable
+    public String getN088m() {
+        return n088m;
+    }
+
+    public void setN088m(String n088m) {
+        this.n088m = n088m;
+        notifyPropertyChanged(BR.n088m);
+    }
+
+    @Bindable
+    public String getN088n() {
+        return n088n;
+    }
+
+    public void setN088n(String n088n) {
+        this.n088n = n088n;
+        notifyPropertyChanged(BR.n088n);
+    }
+
+    @Bindable
+    public String getN088o() {
+        return n088o;
+    }
+
+    public void setN088o(String n088o) {
+        this.n088o = n088o;
+        notifyPropertyChanged(BR.n088o);
+    }
+
+    @Bindable
+    public String getN088p() {
+        return n088p;
+    }
+
+    public void setN088p(String n088p) {
+        this.n088p = n088p;
+        notifyPropertyChanged(BR.n088p);
+    }
+
+    @Bindable
+    public String getN088q() {
+        return n088q;
+    }
+
+    public void setN088q(String n088q) {
+        this.n088q = n088q;
+        notifyPropertyChanged(BR.n088q);
+    }
+
+    @Bindable
+    public String getN088r() {
+        return n088r;
+    }
+
+    public void setN088r(String n088r) {
+        this.n088r = n088r;
+        setN088rx(n088r.equals("1") ? this.n088rx : "");
+        notifyPropertyChanged(BR.n088r);
+    }
+
+    @Bindable
+    public String getN088rx() {
+        return n088rx;
+    }
+
+    public void setN088rx(String n088rx) {
+        this.n088rx = n088rx;
+        notifyPropertyChanged(BR.n088rx);
+    }
+
+    @Bindable
+    public String getN088s() {
+        return n088s;
+    }
+
+    public void setN088s(String n088s) {
+        if (this.n088s.equals(n088s)) return;
+        this.n088s = n088s;
+        setN088a(n088s.equals("19") ? "" : this.n088a);
+        setN088b(n088s.equals("19") ? "" : this.n088b);
+        setN088c(n088s.equals("19") ? "" : this.n088c);
+        setN088d(n088s.equals("19") ? "" : this.n088d);
+        setN088e(n088s.equals("19") ? "" : this.n088e);
+        setN088f(n088s.equals("19") ? "" : this.n088f);
+        setN088g(n088s.equals("19") ? "" : this.n088g);
+        setN088h(n088s.equals("19") ? "" : this.n088h);
+        setN088i(n088s.equals("19") ? "" : this.n088i);
+        setN088j(n088s.equals("19") ? "" : this.n088j);
+        setN088k(n088s.equals("19") ? "" : this.n088k);
+        setN088l(n088s.equals("19") ? "" : this.n088l);
+        setN088m(n088s.equals("19") ? "" : this.n088m);
+        setN088n(n088s.equals("19") ? "" : this.n088n);
+        setN088o(n088s.equals("19") ? "" : this.n088o);
+        setN088p(n088s.equals("19") ? "" : this.n088p);
+        setN088q(n088s.equals("19") ? "" : this.n088q);
+        setN088r(n088s.equals("19") ? "" : this.n088r);
+        notifyPropertyChanged(BR.n088s);
+    }
+
+
+    @Bindable
+    public String getN089() {
+        return n089;
+    }
+
+    public void setN089(String n089) {
+        this.n089 = n089;
+        setN08996x(n089.equals("96") ? this.n08996x : "");
+        notifyPropertyChanged(BR.n089);
+    }
+
+    @Bindable
+    public String getN08996x() {
+        return n08996x;
+    }
+
+    public void setN08996x(String n08996x) {
+        this.n08996x = n08996x;
+        notifyPropertyChanged(BR.n08996x);
+    }
+
+    @Bindable
+    public String getN090() {
+        return n090;
+    }
+
+    public void setN090(String n090) {
+        this.n090 = n090;
+        notifyPropertyChanged(BR.n090);
+    }
+
+
+    @Bindable
+    public String getN091a() {
+        return n091a;
+    }
+
+    public void setN091a(String n091a) {
+        if (this.n091a.equals(n091a)) return;
+        this.n091a = n091a;
+        notifyPropertyChanged(BR.n091a);
+    }
+
+    @Bindable
+    public String getN091b() {
+        return n091b;
+    }
+
+    public void setN091b(String n091b) {
+        if (this.n091b.equals(n091b)) return;
+        this.n091b = n091b;
+        notifyPropertyChanged(BR.n091b);
+    }
+
+    @Bindable
+    public String getN091c() {
+        return n091c;
+    }
+
+    public void setN091c(String n091c) {
+        if (this.n091c.equals(n091c)) return;
+        this.n091c = n091c;
+        notifyPropertyChanged(BR.n091c);
+    }
+
+    @Bindable
+    public String getN091d() {
+        return n091d;
+    }
+
+    public void setN091d(String n091d) {
+        if (this.n091d.equals(n091d)) return;
+        this.n091d = n091d;
+        notifyPropertyChanged(BR.n091d);
+    }
+
+    @Bindable
+    public String getN091e() {
+        return n091e;
+    }
+
+    public void setN091e(String n091e) {
+        if (this.n091e.equals(n091e)) return;
+        this.n091e = n091e;
+        notifyPropertyChanged(BR.n091e);
+    }
+
+    @Bindable
+    public String getN091f() {
+        return n091f;
+    }
+
+    public void setN091f(String n091f) {
+        if (this.n091f.equals(n091f)) return;
+        this.n091f = n091f;
+        notifyPropertyChanged(BR.n091f);
+    }
+
+    @Bindable
+    public String getN09198() {
+        return n09198;
+    }
+
+    public void setN09198(String n09198) {
+        if (this.n09198.equals(n09198)) return;
+        this.n09198 = n09198;
+        setN091a(n09198.equals("98") ? "" : this.n091a);
+        setN091b(n09198.equals("98") ? "" : this.n091b);
+        setN091c(n09198.equals("98") ? "" : this.n091c);
+        setN091d(n09198.equals("98") ? "" : this.n091d);
+        setN091e(n09198.equals("98") ? "" : this.n091e);
+        setN091f(n09198.equals("98") ? "" : this.n091f);
+        setN09196(n09198.equals("98") ? "" : this.n09196);
+        notifyPropertyChanged(BR.n09198);
+    }
+
+    @Bindable
+    public String getN09196() {
+        return n09196;
+    }
+
+    public void setN09196(String n09196) {
+        if (this.n09196.equals(n09196)) return;
+        this.n09196 = n09196;
+        setN09196x(n09196.equals("96") ? this.n09196x : "");
+        notifyPropertyChanged(BR.n09196);
+    }
+
+    @Bindable
+    public String getN09196x() {
+        return n09196x;
+    }
+
+    public void setN09196x(String n09196x) {
+        this.n09196x = n09196x;
+        notifyPropertyChanged(BR.n09196x);
+    }
+
+    @Bindable
+    public String getN092() {
+        return n092;
+    }
+
+    public void setN092(String n092) {
+        this.n092 = n092;
+        setN092fx(n092.equals("6") ? this.n092fx : "");
+        notifyPropertyChanged(BR.n092);
+    }
+
+    @Bindable
+    public String getN092fx() {
+        return n092fx;
+    }
+
+    public void setN092fx(String n092fx) {
+        this.n092fx = n092fx;
+        notifyPropertyChanged(BR.n092fx);
+    }
+
+    @Bindable
+    public String getN093() {
+        return n093;
+    }
+
+    public void setN093(String n093) {
+        this.n093 = n093;
+        setN093fx(n093.equals("6") ? this.n093fx : "");
+        setN093jx(n093.equals("10") ? this.n093jx : "");
+        setN09396x(n093.equals("96") ? this.n09396x : "");
+        notifyPropertyChanged(BR.n093);
+    }
+
+    @Bindable
+    public String getN093fx() {
+        return n093fx;
+    }
+
+    public void setN093fx(String n093fx) {
+        this.n093fx = n093fx;
+        notifyPropertyChanged(BR.n093fx);
+    }
+
+    @Bindable
+    public String getN093jx() {
+        return n093jx;
+    }
+
+    public void setN093jx(String n093jx) {
+        this.n093jx = n093jx;
+        notifyPropertyChanged(BR.n093jx);
+    }
+
+    @Bindable
+    public String getN09396x() {
+        return n09396x;
+    }
+
+    public void setN09396x(String n09396x) {
+        this.n09396x = n09396x;
+        notifyPropertyChanged(BR.n09396x);
+    }
+
+    @Bindable
+    public String getN094() {
+        return n094;
+    }
+
+    public void setN094(String n094) {
+        this.n094 = n094;
+        notifyPropertyChanged(BR.n094);
+    }
+
+    @Bindable
+    public String getN095() {
+        return n095;
+    }
+
+    public void setN095(String n095) {
+        this.n095 = n095;
+        notifyPropertyChanged(BR.n095);
+    }
+
+    @Bindable
+    public String getN096a() {
+        return n096a;
+    }
+
+    public void setN096a(String n096a) {
+        if (this.n096a.equals(n096a)) return;
+        this.n096a = n096a;
+        notifyPropertyChanged(BR.n096a);
+    }
+
+    @Bindable
+    public String getN096b() {
+        return n096b;
+    }
+
+    public void setN096b(String n096b) {
+        if (this.n096b.equals(n096b)) return;
+        this.n096b = n096b;
+        notifyPropertyChanged(BR.n096b);
+    }
+
+    @Bindable
+    public String getN096c() {
+        return n096c;
+    }
+
+    public void setN096c(String n096c) {
+        if (this.n096c.equals(n096c)) return;
+        this.n096c = n096c;
+        notifyPropertyChanged(BR.n096c);
+    }
+
+    @Bindable
+    public String getN096d() {
+        return n096d;
+    }
+
+    public void setN096d(String n096d) {
+        if (this.n096d.equals(n096d)) return;
+        this.n096d = n096d;
+        notifyPropertyChanged(BR.n096d);
+    }
+
+    @Bindable
+    public String getN096e() {
+        return n096e;
+    }
+
+    public void setN096e(String n096e) {
+        if (this.n096e.equals(n096e)) return;
+        this.n096e = n096e;
+        notifyPropertyChanged(BR.n096e);
+    }
+
+    @Bindable
+    public String getN096f() {
+        return n096f;
+    }
+
+    public void setN096f(String n096f) {
+        if (this.n096f.equals(n096f)) return;
+        this.n096f = n096f;
+        notifyPropertyChanged(BR.n096f);
+    }
+
+    @Bindable
+    public String getN096g() {
+        return n096g;
+    }
+
+    public void setN096g(String n096g) {
+        if (this.n096g.equals(n096g)) return;
+        this.n096g = n096g;
+        notifyPropertyChanged(BR.n096g);
+    }
+
+    @Bindable
+    public String getN096h() {
+        return n096h;
+    }
+
+    public void setN096h(String n096h) {
+        if (this.n096h.equals(n096h)) return;
+        this.n096h = n096h;
+        notifyPropertyChanged(BR.n096h);
+    }
+
+    @Bindable
+    public String getN096i() {
+        return n096i;
+    }
+
+    public void setN096i(String n096i) {
+        if (this.n096i.equals(n096i)) return;
+        this.n096i = n096i;
+        notifyPropertyChanged(BR.n096i);
+    }
+
+    @Bindable
+    public String getN096j() {
+        return n096j;
+    }
+
+    public void setN096j(String n096j) {
+        if (this.n096j.equals(n096j)) return;
+        this.n096j = n096j;
+        notifyPropertyChanged(BR.n096j);
+    }
+
+    @Bindable
+    public String getN096k() {
+        return n096k;
+    }
+
+    public void setN096k(String n096k) {
+        if (this.n096k.equals(n096k)) return;
+        this.n096k = n096k;
+        notifyPropertyChanged(BR.n096k);
+    }
+
+    @Bindable
+    public String getN096l() {
+        return n096l;
+    }
+
+    public void setN096l(String n096l) {
+        if (this.n096l.equals(n096l)) return;
+        this.n096l = n096l;
+        notifyPropertyChanged(BR.n096l);
+    }
+
+    @Bindable
+    public String getN096m() {
+        return n096m;
+    }
+
+    public void setN096m(String n096m) {
+        if (this.n096m.equals(n096m)) return;
+        this.n096m = n096m;
+        notifyPropertyChanged(BR.n096m);
+    }
+
+    @Bindable
+    public String getN096n() {
+        return n096n;
+    }
+
+    public void setN096n(String n096n) {
+        if (this.n096n.equals(n096n)) return;
+        this.n096n = n096n;
+        notifyPropertyChanged(BR.n096n);
+    }
+
+    @Bindable
+    public String getN096o() {
+        return n096o;
+    }
+
+    public void setN096o(String n096o) {
+        if (this.n096o.equals(n096o)) return;
+        this.n096o = n096o;
+        notifyPropertyChanged(BR.n096o);
+    }
+
+    @Bindable
+    public String getN096p() {
+        return n096p;
+    }
+
+    public void setN096p(String n096p) {
+        if (this.n096p.equals(n096p)) return;
+        this.n096p = n096p;
+        notifyPropertyChanged(BR.n096p);
+    }
+
+    @Bindable
+    public String getN096q() {
+        return n096q;
+    }
+
+    public void setN096q(String n096q) {
+        if (this.n096q.equals(n096q)) return;
+        this.n096q = n096q;
+        notifyPropertyChanged(BR.n096q);
+    }
+
+    @Bindable
+    public String getN096r() {
+        return n096r;
+    }
+
+    public void setN096r(String n096r) {
+        if (this.n096r.equals(n096r)) return;
+        this.n096r = n096r;
+        notifyPropertyChanged(BR.n096r);
+    }
+
+    @Bindable
+    public String getN097m() {
+        return n097m;
+    }
+
+    public void setN097m(String n097m) {
+        this.n097m = n097m;
+        notifyPropertyChanged(BR.n097m);
+    }
+
+    @Bindable
+    public String getN097h() {
+        return n097h;
+    }
+
+    public void setN097h(String n097h) {
+        this.n097h = n097h;
+        notifyPropertyChanged(BR.n097h);
+    }
+
+    @Bindable
+    public String getN097d() {
+        return n097d;
+    }
+
+    public void setN097d(String n097d) {
+        this.n097d = n097d;
+        notifyPropertyChanged(BR.n097d);
+    }
+
+
+    @Bindable
+    public String getN098() {
+        return n098;
+    }
+
+    public void setN098(String n098) {
+        this.n098 = n098;
+        setN09896x(n098.equals("96") ? this.n09896x : "");
+        notifyPropertyChanged(BR.n098);
+    }
+
+    @Bindable
+    public String getN09896x() {
+        return n09896x;
+    }
+
+    public void setN09896x(String n09896x) {
+        this.n09896x = n09896x;
+        notifyPropertyChanged(BR.n09896x);
+    }
+
+    @Bindable
+    public String getN099() {
+        return n099;
+    }
+
+    public void setN099(String n099) {
+        this.n099 = n099;
+        notifyPropertyChanged(BR.n099);
+    }
+
+
+    @Bindable
+    public String getN100a() {
+        return n100a;
+    }
+
+    public void setN100a(String n100a) {
+        if (this.n100a.equals(n100a)) return;
+        this.n100a = n100a;
+        notifyPropertyChanged(BR.n100a);
+    }
+
+    @Bindable
+    public String getN100b() {
+        return n100b;
+    }
+
+    public void setN100b(String n100b) {
+        if (this.n100b.equals(n100b)) return;
+        this.n100b = n100b;
+        notifyPropertyChanged(BR.n100b);
+    }
+
+    @Bindable
+    public String getN100c() {
+        return n100c;
+    }
+
+    public void setN100c(String n100c) {
+        if (this.n100c.equals(n100c)) return;
+        this.n100c = n100c;
+        notifyPropertyChanged(BR.n100c);
+    }
+
+    @Bindable
+    public String getN100d() {
+        return n100d;
+    }
+
+    public void setN100d(String n100d) {
+        if (this.n100d.equals(n100d)) return;
+        this.n100d = n100d;
+        notifyPropertyChanged(BR.n100d);
+    }
+
+    @Bindable
+    public String getN100e() {
+        return n100e;
+    }
+
+    public void setN100e(String n100e) {
+        if (this.n100e.equals(n100e)) return;
+        this.n100e = n100e;
+        notifyPropertyChanged(BR.n100e);
+    }
+
+    @Bindable
+    public String getN100f() {
+        return n100f;
+    }
+
+    public void setN100f(String n100f) {
+        if (this.n100f.equals(n100f)) return;
+        this.n100f = n100f;
+        notifyPropertyChanged(BR.n100f);
+    }
+
+    @Bindable
+    public String getN10098() {
+        return n10098;
+    }
+
+    public void setN10098(String n10098) {
+        if (this.n10098.equals(n10098)) return;
+        this.n10098 = n10098;
+        setN100a(n10098.equals("98") ? "" : this.n100a);
+        setN100b(n10098.equals("98") ? "" : this.n100b);
+        setN100c(n10098.equals("98") ? "" : this.n100c);
+        setN100d(n10098.equals("98") ? "" : this.n100d);
+        setN100e(n10098.equals("98") ? "" : this.n100e);
+        setN100f(n10098.equals("98") ? "" : this.n100f);
+        setN10096(n10098.equals("98") ? "" : this.n10096);
+        notifyPropertyChanged(BR.n10098);
+    }
+
+    @Bindable
+    public String getN10096() {
+        return n10096;
+    }
+
+    public void setN10096(String n10096) {
+        if (this.n10096.equals(n10096)) return;
+        this.n10096 = n10096;
+        setN10096x(n10096.equals("96") ? this.n10096x : "");
+        notifyPropertyChanged(BR.n10096);
+    }
+
+    @Bindable
+    public String getN10096x() {
+        return n10096x;
+    }
+
+    public void setN10096x(String n10096x) {
+        this.n10096x = n10096x;
+        notifyPropertyChanged(BR.n10096x);
+    }
+
+
+    @Bindable
+    public String getN101a() {
+        return n101a;
+    }
+
+    public void setN101a(String n101a) {
+        if (this.n101a.equals(n101a)) return;
+        this.n101a = n101a;
+        notifyPropertyChanged(BR.n101a);
+    }
+
+    @Bindable
+    public String getN101b() {
+        return n101b;
+    }
+
+    public void setN101b(String n101b) {
+        if (this.n101b.equals(n101b)) return;
+        this.n101b = n101b;
+        notifyPropertyChanged(BR.n101b);
+    }
+
+    @Bindable
+    public String getN101c() {
+        return n101c;
+    }
+
+    public void setN101c(String n101c) {
+        if (this.n101c.equals(n101c)) return;
+        this.n101c = n101c;
+        notifyPropertyChanged(BR.n101c);
+    }
+
+    @Bindable
+    public String getN101d() {
+        return n101d;
+    }
+
+    public void setN101d(String n101d) {
+        if (this.n101d.equals(n101d)) return;
+        this.n101d = n101d;
+        notifyPropertyChanged(BR.n101d);
+    }
+
+    @Bindable
+    public String getN101e() {
+        return n101e;
+    }
+
+    public void setN101e(String n101e) {
+        if (this.n101e.equals(n101e)) return;
+        this.n101e = n101e;
+        notifyPropertyChanged(BR.n101e);
+    }
+
+    @Bindable
+    public String getN101f() {
+        return n101f;
+    }
+
+    public void setN101f(String n101f) {
+        if (this.n101f.equals(n101f)) return;
+        this.n101f = n101f;
+        notifyPropertyChanged(BR.n101f);
+    }
+
+    @Bindable
+    public String getN10198() {
+        return n10198;
+    }
+
+    public void setN10198(String n10198) {
+        if (this.n10198.equals(n10198)) return;
+        this.n10198 = n10198;
+        setN101a(n10198.equals("98") ? "" : this.n101a);
+        setN101b(n10198.equals("98") ? "" : this.n101b);
+        setN101c(n10198.equals("98") ? "" : this.n101c);
+        setN101d(n10198.equals("98") ? "" : this.n101d);
+        setN101e(n10198.equals("98") ? "" : this.n101e);
+        setN101f(n10198.equals("98") ? "" : this.n101f);
+        setN10196(n10198.equals("98") ? "" : this.n10196);
+        notifyPropertyChanged(BR.n10198);
+    }
+
+    @Bindable
+    public String getN10196() {
+        return n10196;
+    }
+
+    public void setN10196(String n10196) {
+        if (this.n10196.equals(n10196)) return;
+        this.n10196 = n10196;
+        setN10196x(n10196.equals("96") ? this.n10196x : "");
+        notifyPropertyChanged(BR.n10196);
+    }
+
+    @Bindable
+    public String getN10196x() {
+        return n10196x;
+    }
+
+    public void setN10196x(String n10196x) {
+        this.n10196x = n10196x;
+        notifyPropertyChanged(BR.n10196x);
+    }
+
+    @Bindable
+    public String getN102() {
+        return n102;
+    }
+
+    public void setN102(String n102) {
+        this.n102 = n102;
+        notifyPropertyChanged(BR.n102);
+    }
+
+    @Bindable
+    public String getN103() {
+        return n103;
+    }
+
+    public void setN103(String n103) {
+        this.n103 = n103;
+        notifyPropertyChanged(BR.n103);
     }
 
 

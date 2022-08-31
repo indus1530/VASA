@@ -70,7 +70,7 @@ public class NeonateCActivity extends AppCompatActivity {
         saveDraft();
         if (updateDB()) {
             finish();
-            startActivity(new Intent(this, SectionAH3Activity.class));
+            startActivity(new Intent(this, NeonateDActivity.class));
         } else {
             Toast.makeText(this, R.string.fail_db_upd, Toast.LENGTH_SHORT).show();
         }

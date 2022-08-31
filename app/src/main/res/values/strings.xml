@@ -707,7 +707,7 @@
 
 
     <string name="n080">Now I’d like to ask you about any symptoms (you / the mother) might have had during the late part of the pregnancy. Were the last 3 months of the pregnancy complicated by any of the following symptoms that started before labor?"></string>
-    <string name="Q_n080a">n080a</string>
+    <string name="Q_n080">n080</string>
     <string name="n080a">Convulsions ?</string>
     <string name="n080aa">Yes</string>
     <string name="n080ab">No</string>
@@ -890,6 +890,7 @@
 
 
     <string name="Q_n088">n088</string>
+    <string name="n088s">No Symptoms During Labor / Delivery</string>
     <string name="n088">Now I’d like to ask you about any symptoms (you / the mother) might have had during labor or delivery. Did (you / the mother) have any of the following symptoms during labor or delivery ?"</string>
     <string name="n088info"> جواب دہندہ ، پڑہیں:  اگر "ماں" نہیں ہے۔ جواب دہندہ کو یاد دلائیں کہ لیبر(زچگی )  شروع ہوتی ہے جب درد زہ کی وجہ سے اینٹھن کی لہریں ہر  20 منٹ   یا اس سے کم وقت میں   اٹھتی ہیں۔</string>
     <string name="n088a">Convulsions</string>
@@ -922,96 +923,90 @@
     <string name="n088e98">Don’t Know</string>
     <string name="n088e99">Refused to Answer</string>
 
-    <string name="n2088f">Too weak to get out of bed</string>
+    <string name="n088f">Too weak to get out of bed</string>
     <string name="n088fa">Yes</string>
     <string name="n088fb">No</string>
     <string name="n088f98">Don’t Know</string>
     <string name="n088f99">Refused to Answer</string>
 
-    <string name="n2088g">Severe abdominal pain? (not labor pain, between contractions</string>
+    <string name="n088g">Severe abdominal pain? (not labor pain, between contractions</string>
     <string name="n088ga">Yes</string>
     <string name="n088gb">No</string>
     <string name="n088g98">Don’t Know</string>
     <string name="n088g99">Refused to Answer</string>
 
-    <string name="n2088h">Fast or difficult breathing</string>
+    <string name="n088h">Fast or difficult breathing</string>
     <string name="n088ha">Yes</string>
     <string name="n088hb">No</string>
     <string name="n088h98">Don’t Know</string>
     <string name="n088h99">Refused to Answer</string>
 
-    <string name="n2088i">Puffy face</string>
+    <string name="n088i">Puffy face</string>
     <string name="n088ia">Yes</string>
     <string name="n088ib">No</string>
     <string name="n088i98">Don’t Know</string>
     <string name="n088i99">Refused to Answer</string>
 
-    <string name="n2088j">Excessive bleeding during labor or delivery</string>
+    <string name="n088j">Excessive bleeding during labor or delivery</string>
     <string name="n088ja">Yes</string>
     <string name="n088jb">No</string>
     <string name="n088j98">Don’t Know</string>
     <string name="n088j99">Refused to Answer</string>
 
-    <string name="n2088k">Fever</string>
+    <string name="n088k">Fever</string>
     <string name="n088ka">Yes</string>
     <string name="n088kb">No</string>
     <string name="n088k98">Don’t Know</string>
     <string name="n088k99">Refused to Answer</string>
 
-    <string name="n2088l">Foul Smelling Vaginal Discharge</string>
+    <string name="n088l">Foul Smelling Vaginal Discharge</string>
     <string name="n088la">Yes</string>
     <string name="n088lb">No</string>
     <string name="n088l98">Don’t Know</string>
     <string name="n088l99">Refused to Answer</string>
 
-    <string name="n2088m">Early/preterm labor (before 9 months</string>
+    <string name="n088m">Early/preterm labor (before 9 months</string>
     <string name="n088ma">Yes</string>
     <string name="n088mb">No</string>
     <string name="n088m98">Don’t Know</string>
     <string name="n088m99">Refused to Answer</string>
 
-    <string name="n2088n">Labor that lasted 12 hours or more</string>
+    <string name="n088n">Labor that lasted 12 hours or more</string>
     <string name="n088na">Yes</string>
     <string name="n088nb">No</string>
     <string name="n088n98">Don’t Know</string>
     <string name="n088n99">Refused to Answer</string>
 
-    <string name="n2088o">Baby’s bottom, feet, arm or hand delivered before its head</string>
+    <string name="n088o">Baby’s bottom, feet, arm or hand delivered before its head</string>
     <string name="n088oa">Yes</string>
     <string name="n088ob">No</string>
     <string name="n088o98">Don’t Know</string>
     <string name="n088o99">Refused to Answer</string>
 
-    <string name="n2088p">The umbilical cord delivered first</string>
+    <string name="n088p">The umbilical cord delivered first</string>
     <string name="n088pa">Yes</string>
     <string name="n088pb">No</string>
     <string name="n088p98">Don’t Know</string>
     <string name="n088p99">Refused to Answer</string>
 
-    <string name="n2088q">The umbilical cord wrapped more than once around the neck of the child at birth</string>
+    <string name="n088q">The umbilical cord wrapped more than once around the neck of the child at birth</string>
     <string name="n088qa">Yes</string>
     <string name="n088qb">No</string>
     <string name="n088q98">Don’t Know</string>
     <string name="n088q99">Refused to Answer</string>
 
-    <string name="n2088r">Any other symptom ?</string>
+    <string name="n088r">Any other symptom ?</string>
     <string name="n088ra">Yes</string>
     <string name="n088rb">No</string>
     <string name="n088r98">Don’t Know</string>
     <string name="n088r99">Refused to Answer</string>
-
-    <string name="n088s">No Symptoms During Labor / Delivery</string>
-    <string name="n088sa">Yes</string>
-    <string name="n088sb">No</string>
-    <string name="n088s98">Don’t Know</string>
-    <string name="n088s99">Refused to Answer</string>
 
     <string name="Q_n089">n089</string>
     <string name="n089">Where (were you / was the mother) when (this / the first) symptom began ?</string>
     <string name="n089a">Home (without a trained community nurse or midwife)</string>
     <string name="n089b">On route to a health provider or facility</string>
     <string name="n089c">At home with a trained community nurse or midwife who came to attend her normal labor, or at the health provider or facility where she went for normal labor</string>
-    <string name="n08996">Other (specify) </string>
+    <string name="n08996">Other (Specify)</string>
     <string name="n08998">Don’t Know</string>
 
     <string name="Q_n090">n090</string>
@@ -1046,17 +1041,15 @@
     <string name="n093">Refer to N2006 and N2008 to determine the delivery place and attendant. Discuss with respondent to confirm or correct the delivery place and attendant. Use option 3 or 4 if the woman delivered at home (N2006=1, 2) with a trained nurse or midwife (N2008=2, 3).</string>
     <string name="n093a">Respondent’s Home</string>
     <string name="n093b">Other home</string>
-    <string name="n093c">Respondent’s home</string>
-    <string name="n093d">Other home</string>
-    <string name="n093e">Government hospital</string>
-    <string name="n093f">Government clinic/health center</string>
-    <string name="n093g">Government health post</string>
-    <string name="n093h">Other public sector (specify) </string>
-    <string name="n093i">Private hospital</string>
-    <string name="n093j">Private clinic</string>
-    <string name="n093k">Private maternity home</string>
-    <string name="n093l">Other private medical (specify) </string>
-    <string name="n093m">On route to a health provider or facility</string>
+    <string name="n093c">Government hospital</string>
+    <string name="n093d">Government clinic/health center</string>
+    <string name="n093e">Government health post</string>
+    <string name="n093f">Other public sector (specify) </string>
+    <string name="n093g">Private hospital</string>
+    <string name="n093h">Private clinic</string>
+    <string name="n093i">Private maternity home</string>
+    <string name="n093j">Other private medical (specify) </string>
+    <string name="n093k">On route to a health provider or facility</string>
     <string name="n09396">Other (Specify)</string>
     <string name="n09398">Don’t Know</string>
 
@@ -1122,69 +1115,80 @@
     <string name="n099b">No</string>
     <string name="n09998">Don’t Know</string>
 
+    <!--CheckBox-->
+    <string name="Q_n100">n100</string>
     <string name="n100">How did (you / the mother) arrange for the money to travel ?</string>
+    <string name="n100a">Had available </string>
+    <string name="n100b">Borrowed </string>
+    <string name="n100c">Sold assets </string>
+    <string name="n100d">Help from kin/relatives </string>
+    <string name="n100e">Community fund </string>
+    <string name="n100f">Government scheme </string>
+    <string name="n10096">Other</string>
+    <string name="n10098">Don’t Know</string>
+
+    <!--CheckBox-->
+    <string name="Q_n101">n101</string>
     <string name="n101">What transportation method was used to go there ?</string>
+    <string name="n101a">Walk</string>
+    <string name="n101b">Bicycle / Animal / Cart / Boat</string>
+    <string name="n101c">Bus</string>
+    <string name="n101d">Taxi / Auto / Trecker / Motorcycle</string>
+    <string name="n101e">Ambulance</string>
+    <string name="n101f">Could Not Arrange Transport</string>
+    <string name="n10196">Other</string>
+    <string name="n10198">Don’t Know</string>
+
+    <string name="Q_n102">n102</string>
     <string name="n102">Did (you / the mother) reach the \'HEALTH PROVIDER\' before delivering the baby ?</string>
+    <string name="n102a">Yes, reached before delivering</string>
+    <string name="n102b">No, delivered on route to the last provider / before the last provider reached the mother</string>
+    <string name="n102c">No, could not reach the last provider, so returned home and delivered without a health provider</string>
+    <string name="n10298">Don’t Know</string>
+
+    <string name="Q_n103">n103</string>
     <string name="n103">After deciding to seek care for (the labor or delivery symptoms / the delivery), how long did it take ((you / the mother) to reach the \'LAST HEALTH PROVIDER\' / for the \'LAST HEALTH PROVIDER\' to reach (you / the mother)) ?">	</string>
     <string name="n103info">پڑھیں: "صحت فراہم کنندہ کا (آپ / ماں) تک پہنچنا" اگر صحت فراہم کرنے والے نے ماں کو گھر پر یا مرکز صحت کے باہر کسی اور جگہ دیکھا</string>
+    <string name="n103a">Minute(s)</string>
 
-    <string name="n104">(Were you / Was the mother) admitted to the hospital ?</string>
+    <string name="Q_n104">n104</string>
+    <string name="n104">(Were you / Was the mother) Admitted To The Hospital ?</string>
+    <string name="n104a">Yes</string>
+    <string name="n104b">No</string>
+    <string name="n10498">Don’t Know</string>
+
+    <string name="Q_n105">n105</string>
     <string name="n105">Did the \'LAST HEALTH PROVIDER\' refer (you / the mother) to another health provider or facility ?</string>
+    <string name="n105a">Yes</string>
+    <string name="n105b">No</string>
+    <string name="n10598">Don’t Know</string>
+
+    <string name="Q_n106">n106</string>
     <string name="n106">Was the baby delivered by the \'LAST HEALTH PROVIDER\' ?</string>
+    <string name="n106a">Yes</string>
+    <string name="n106b">No</string>
+    <string name="n10698">Don’t Know</string>
 
+    <string name="Q_n107">n107</string>
+    <string name="n107">Now, I’d like to ask about symptoms after the delivery of the baby. Did (you / the mother) have any of the following symptoms that started within 6 weeks after the delivery?"></string>
+    <string name="n1071">Convulsions ?</string>
+    <string name="n1071a">Yes</string>
+    <string name="n1071b">No</string>
+    <string name="n107198">Don’t Know</string>
+    <string name="n107199">Refused to Answer</string>
 
-    <string name="n2107">N2107: Now, I’d like to ask about symptoms after the delivery of the baby. Did (you / the mother) have any of the following symptoms that started within 6 weeks after the delivery?"></string>
+    <string name="n1072">Heavy Bleeding ?</string>
+    <string name="n1072a">Yes</string>
+    <string name="n1072b">No</string>
+    <string name="n107298">Don’t Know</string>
+    <string name="n107299">Refused to Answer</string>
 
-    <string name="n2107_1">N2107_1: Convulsions?</string>
-    <string name="n2107_2">N2107_2: Heavy bleeding?</string>
-    <string name="n2107_3">N2107_3: Fever with smelly vaginal discharge or abdominal pain?</string>
+    <string name="n1073">Fever With Smelly Vaginal Discharge or Abdominal Pain ?</string>
+    <string name="n1073a">Yes</string>
+    <string name="n1073b">No</string>
+    <string name="n107398">Don’t Know</string>
+    <string name="n107399">Refused to Answer</string>
 
-
-    <!-- Responces starts  -->
-    <string name="cb_N2100_1">Had available </string>
-    <string name="cb_N2100_2">Borrowed </string>
-    <string name="cb_N2100_3">Sold assets </string>
-    <string name="cb_N2100_4">Help from kin/relatives </string>
-    <string name="cb_N2100_5">Community fund </string>
-    <string name="cb_N2100_6">Government scheme </string>
-    <string name="cb_N2100_OT">Other </string>
-    <string name="cb_N2100_DK">Don’t know </string>
-    <string name="cb_N2101_1">Walk </string>
-    <string name="cb_N2101_2">Bicycle/animal/cart/boat </string>
-    <string name="cb_N2101_3">Bus </string>
-    <string name="cb_N2101_4">Taxi/auto/trecker/motorcycle </string>
-    <string name="cb_N2101_5">Ambulance </string>
-    <string name="cb_N2101_OT">Other </string>
-    <string name="cb_N2101_7">Could not arrange transport </string>
-    <string name="cb_N2101_DK">Don’t know </string>
-    <string name="rb_N2102_1">Yes, reached before delivering</string>
-    <string name="rb_N2102_2">No, delivered on route to the last provider / before the last provider reached the mother</string>
-    <string name="rb_N2102_3">No, could not reach the last provider, so returned home and delivered without a health provider</string>
-    <string name="rb_N2102_DK">Don’t know</string>
-    <string name="rb_N2104_1">Yes</string>
-    <string name="rb_N2104_2">No</string>
-    <string name="rb_N2104_DK">Don’t know</string>
-    <string name="rb_N2105_1">Yes</string>
-    <string name="rb_N2105_2">No</string>
-    <string name="rb_N2105_DK">Don’t know</string>
-    <string name="rb_N2106_1">Yes</string>
-    <string name="rb_N2106_2">No</string>
-    <string name="rb_N2106_DK">Don’t know</string>
-
-    <string name="rb_N2107_1_1">Yes</string>
-    <string name="rb_N2107_1_2">No</string>
-    <string name="rb_N2107_1_DK">Don’t know</string>
-    <string name="rb_N2107_1_RA">Refused to Answer</string>
-    <string name="rb_N2107_2_1">Yes</string>
-    <string name="rb_N2107_2_2">No</string>
-    <string name="rb_N2107_2_DK">Don’t know</string>
-    <string name="rb_N2107_2_RA">Refused to Answer</string>
-    <string name="rb_N2107_3_1">Yes</string>
-    <string name="rb_N2107_3_2">No</string>
-    <string name="rb_N2107_3_DK">Don’t know</string>
-
-
-    <!-- Questions starts  .....................  -->
 
     <string name="n2251">N2251:	Did ?NAME? receive any treatment for the illness that led to death?	</string>
     <string name="n2252_1">N222_1: Did (s)he receive oral rehydration salts?	</string>
