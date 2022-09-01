@@ -306,6 +306,12 @@ public class Adolescent extends BaseObservable implements Observable {
     private String n10196x = _EMPTY_;
     private String n102 = _EMPTY_;
     private String n103 = _EMPTY_;
+    private String n104 = _EMPTY_;
+    private String n105 = _EMPTY_;
+    private String n106 = _EMPTY_;
+    private String n1071 = _EMPTY_;
+    private String n1072 = _EMPTY_;
+    private String n1073 = _EMPTY_;
 
 
     // Field Variables
@@ -3620,6 +3626,66 @@ public class Adolescent extends BaseObservable implements Observable {
     public void setN103(String n103) {
         this.n103 = n103;
         notifyPropertyChanged(BR.n103);
+    }
+
+    @Bindable
+    public String getN104() {
+        return n104;
+    }
+
+    public void setN104(String n104) {
+        this.n104 = n104;
+        notifyPropertyChanged(BR.n104);
+    }
+
+    @Bindable
+    public String getN105() {
+        return n105;
+    }
+
+    public void setN105(String n105) {
+        this.n105 = n105;
+        notifyPropertyChanged(BR.n105);
+    }
+
+    @Bindable
+    public String getN106() {
+        return n106;
+    }
+
+    public void setN106(String n106) {
+        this.n106 = n106;
+        notifyPropertyChanged(BR.n106);
+    }
+
+    @Bindable
+    public String getN1071() {
+        return n1071;
+    }
+
+    public void setN1071(String n1071) {
+        this.n1071 = n1071;
+        notifyPropertyChanged(BR.n1071);
+    }
+
+    @Bindable
+    public String getN1072() {
+        return n1072;
+    }
+
+    public void setN1072(String n1072) {
+        this.n1072 = n1072;
+        notifyPropertyChanged(BR.n1072);
+    }
+
+    @Bindable
+    public String getN1073() {
+        return n1073;
+    }
+
+    public void setN1073(String n1073) {
+        this.n1073 = n1073;
+        notifyPropertyChanged(BR.n1073);
     }
 
 

@@ -1176,94 +1176,296 @@
     <string name="n1071b">No</string>
     <string name="n107198">Don’t Know</string>
     <string name="n107199">Refused to Answer</string>
-
     <string name="n1072">Heavy Bleeding ?</string>
     <string name="n1072a">Yes</string>
     <string name="n1072b">No</string>
     <string name="n107298">Don’t Know</string>
     <string name="n107299">Refused to Answer</string>
-
     <string name="n1073">Fever With Smelly Vaginal Discharge or Abdominal Pain ?</string>
     <string name="n1073a">Yes</string>
     <string name="n1073b">No</string>
     <string name="n107398">Don’t Know</string>
     <string name="n107399">Refused to Answer</string>
 
+    <string name="Q_n251">n251</string>
+    <string name="n251">Did (NAME) receive any treatment for the illness that led to death ?</string>
+    <string name="n251a">Yes</string>
+    <string name="n251b">No</string>
+    <string name="n25198">Don’t Know</string>
+    <string name="n25199">Refused to Answer</string>
 
-    <string name="n2251">N2251:	Did ?NAME? receive any treatment for the illness that led to death?	</string>
-    <string name="n2252_1">N222_1: Did (s)he receive oral rehydration salts?	</string>
-    <string name="n2252_2">N222_2: Did (s)he receive intravenous fluids (drip) treatment?	</string>
-    <string name="n2252_3">N222_3: Did (s)he receive a blood transfusion?	</string>
-    <string name="n2252_4">N222_4: Did (s)he receive treatment/food through a tube passed through the nose?	</string>
-    <string name="n2252_5">N222_5: Did (s)he receive injectable antibiotics?	</string>
-    <string name="n2252_6">N222_6: Did (s)he receive antiretroviral therapy (ART)?	</string>
-    <string name="n2252_7">N222_7: Did (s)he have an operation for the illness?	</string>
-    <string name="n2253">N2253:	Do you have any health care records that belonged to the deceased?	</string>
-    <string name="n2254">N2254:	Can I see the health records?	</string>
-    <string name="n2255_1check">N2255_1check: Is the date of the most recent (last) visit available?	</string>
-    <string name="n2255_1">N2255_1: Record the date of the most recent (last) visit	</string>
-    <string name="n2255_2check">N2255_2check: Is the date of the second most recent visit available?	</string>
-    <string name="n2255_2">N2255_2:	Record the date of the second most recent visit	</string>
-    <string name="n2256">N2256:	Record the date of the last note on the health records	</string>
-    <string name="n2257">N2257:	Record the weight (in kilograms) written at the most recent (last) visit	</string>
-    <string name="n2258">N2258:	Transcribe the last note on the health record	</string>
-    <string name="n2259">N2259:	Did a health care worker tell you the cause of death?	</string>
-    <string name="n2260">N2260:	What did the health worker say?	</string>
-    <string name="n2271">N2271:	Was a death certificate issued?	</string>
-    <string name="n2272">N2272:	Can I see the death certificate?	</string>
-    <string name="n2273">N2273:	Record the immediate cause of death from the death certificate	</string>
-    <string name="n2274">N2274:	Duration (1a)	</string>
-    <string name="n2275">N2275:	Record the first underlying cause of death from the death certificate	</string>
-    <string name="n2276">N2276:	Duration (1b)	</string>
-    <string name="n2277">N2277:	Record the second underlying cause of death from the death certificate	</string>
-    <string name="n2278">N2278:	Duration (1c)	</string>
-    <string name="n2283">N2283:	Was the death registered?	</string>
-    <string name="n2284">N2284:	Record the death registration number	</string>
-    <string name="n2291">N2291:	How old (is the child’s mother / was the child’s mother when she died)?	</string>
-    <string name="n2292">N2292:	Did the child’s mother ever attend school?	</string>
-    <string name="n2293">N2293:	What is the highest level of school she attended: primary, secondary, or higher?	</string>
-    <string name="n2294">N2294:	What is the highest [GRADE/YEAR] she completed at that level?	</string>
-    <string name="n2295">N2295:	At the time of the child’s death, (were you / was the child’s mother) married or living together with a man as if married?	</string>
-    <string name="n2296">N2296:	How old (were you when you / was she when she) first married (or lived with a man)?	</string>
-    <string name="n2297">N2297:	Did (your / the mother’s) (husband/partner) ever attend school?	</string>
-    <string name="n2298">N2298:	What was the highest level of school he attended: primary, secondary, or higher?	</string>
-    <string name="n2299">N2299:	What was the highest [GRADE/FORM/YEAR] he completed at that level? 	</string>
-    <string name="n2300">N2300:	Is this the house (where we are now) where (you / the mother) stayed during the (last days of the pregnancy )?	</string>
-    <string name="n2301">N2301:	Where did (you / the mother) stay at that time?	</string>
-    <string name="n2302">N2302:	What is the address of the place where (you / she) stayed?	</string>
-    <string name="n2303">N2303:	At the time of the illness events, how long had (you / the mother / your \'RELATIVES\' / the mother’s \'RELATIVES\') been living continuously in (this / that) community?	</string>
-    <string name="n2304">N2304:	In an emergency, how long would it take to reach the nearest health facility from (this / that) location?	</string>
+    <string name="Q_n2521">n2521</string>
+    <string name="n2521">Did (S)He Receive Oral Rehydration Salts ?</string>
+    <string name="n2521a">Yes</string>
+    <string name="n2521b">No</string>
+    <string name="n252198">Don’t Know</string>
+    <string name="n252199">Refused to Answer</string>
 
+    <string name="Q_n2522">n2522</string>
+    <string name="n2522">Did (s)he receive intravenous fluids (drip) treatment ?</string>
+    <string name="n2522a">Yes</string>
+    <string name="n2522b">No</string>
+    <string name="n252298">Don’t Know</string>
+    <string name="n252299">Refused to Answer</string>
 
-    <string name="n2311">N2311: In the 12 months before (s) death, did the people in the (village / neighborhood) work together on any of the following issues that affect the entire community or part of the community?</string>
+    <string name="Q_n2523">n2523</string>
+    <string name="n2523">Did (s)he receive a blood transfusion ?</string>
+    <string name="n2523a">Yes</string>
+    <string name="n2523b">No</string>
+    <string name="n252398">Don’t Know</string>
+    <string name="n252399">Refused to Answer</string>
 
+    <string name="Q_n2524">n2524</string>
+    <string name="n22524">Did (s)he receive treatment/food through a tube passed through the nose ?	</string>
+    <string name="n2524a">Yes</string>
+    <string name="n2524b">No</string>
+    <string name="n252498">Don’t Know</string>
+    <string name="n252499">Refused to Answer</string>
 
-    <string name="n2311_1">N2311_1: Education/schools?</string>
-    <string name="n2311_2">N2311_2: Health services/clinics?</string>
-    <string name="n2311_3">N2311_3: Paid job opportunities?</string>
-    <string name="n2311_4">N2311_4: Credit/finance?</string>
-    <string name="n2311_5">N2311_5: Roads?</string>
-    <string name="n2311_6">N2311_6: Public transportation?</string>
-    <string name="n2311_7">N2311_7: Water distribution?</string>
-    <string name="n2311_8">N2311_8: Sanitation services?</string>
-    <string name="n2311_9">N2311_9: Agriculture?</string>
-    <string name="n2311_10">N2311_10: Justice/conflict resolution?</string>
-    <string name="n2311_11">N2311_11: Security/police services?</string>
-    <string name="n2311_12">N2311_12: Mosque/church/temple?</string>
-    <string name="n2311_OT">N2311_OT: Other (specify)?</string>
-    <string name="n2311_14">N2311_14: Any of the following issues that affect the entire community or part of the community?</string>
+    <string name="Q_n2525">n2525</string>
+    <string name="n22525">Did (s)he receive injectable antibiotics ?</string>
+    <string name="n2525a">Yes</string>
+    <string name="n2525b">No</string>
+    <string name="n252598">Don’t Know</string>
+    <string name="n252599">Refused to Answer</string>
 
+    <string name="Q_n2526">n2526</string>
+    <string name="n22526">=Did (s)he receive antiretroviral therapy (ART) ?</string>
+    <string name="n2526a">Yes</string>
+    <string name="n2526b">No</string>
+    <string name="n252698">Don’t Know</string>
+    <string name="n252699">Refused to Answer</string>
 
-    <string name="n2312_1">N2312_1: Vocational training group?</string>
-    <string name="n2312_2">N2312_2: Savings group or microcredit program?</string>
-    <string name="n2312_3">N2312_3: Community cooperative, such as an agricultural cooperative?</string>
-    <string name="n2312_4">N2312_4: Political group?</string>
-    <string name="n2312_5">N2312_5: Religious group?</string>
-    <string name="n2312_6">N2312_6: Sports club?</string>
-    <string name="n2312_7">N2312_7: Youth / student club?</string>
-    <string name="n2312_8">N2312_8: Women’s group?</string>
-    <string name="n2312_OT">N2312_OT: Other (specify)?</string>
-    <string name="n2312_10">N2312_10: Any of the following issues that affect the entire community or part of the community?</string>
+    <string name="Q_n2527">n2527</string>
+    <string name="n22527">Did (s)he have an operation for the illness ?</string>
+    <string name="n2527a">Yes</string>
+    <string name="n2527b">No</string>
+    <string name="n252798">Don’t Know</string>
+    <string name="n252799">Refused to Answer</string>
+
+    <string name="Q_n253">n253</string>
+    <string name="n253">Do you have any health care records that belonged to the deceased ?</string>
+    <string name="n253a">Yes</string>
+    <string name="n253b">No</string>
+    <string name="n25398">Don’t Know</string>
+    <string name="n25399">Refused to Answer</string>
+
+    <string name="Q_n254">n254</string>
+    <string name="n254">Can I see the health records ?</string>
+    <string name="n254a">Yes</string>
+    <string name="n254b">No</string>
+
+    <string name="Q_n2551">n2551</string>
+    <string name="n2551">Is the date of the most recent (last) visit available ?</string>
+    <string name="n2551a">Yes</string>
+    <string name="n2551ax">Record the Date</string>
+    <string name="n2551b">No</string>
+
+    <string name="Q_n2552">n2552</string>
+    <string name="n2552">Is the date of the second most recent visit available ?</string>
+    <string name="n2552a">Yes</string>
+    <string name="n2552ax">Record the Date</string>
+    <string name="n2552b">No</string>
+
+    <string name="Q_n256">n256</string>
+    <string name="n256">Record the date of the last note on the health records	</string>
+
+    <string name="Q_n257">n257</string>
+    <string name="n257">Record the weight (in kilograms) written at the most recent (last) visit	</string>
+
+    <string name="Q_n258">n258</string>
+    <string name="n258">Transcribe the last note on the health record</string>
+
+    <string name="Q_n259">n259</string>
+    <string name="n259">Did a health care worker tell you the cause of death ?</string>
+    <string name="n259a">Yes</string>
+    <string name="n259b">No</string>
+    <string name="n25998">Don’t Know</string>
+    <string name="n25999">Refused to Answer</string>
+
+    <string name="Q_n260">n260</string>
+    <string name="n2260">N2260:	What did the health worker say ?</string>
+
+    <string name="Q_n271">n271</string>
+    <string name="n271">Was a death certificate issued ?</string>
+    <string name="n271a">Yes</string>
+    <string name="n271b">No</string>
+    <string name="n27198">Don’t Know</string>
+    <string name="n27199">Refused to Answer</string>
+
+    <string name="Q_n272">n272</string>
+    <string name="n272">Can I see the death certificate ?</string>
+    <string name="n2729a">Yes</string>
+    <string name="n2729b">No</string>
+
+    <string name="Q_n273">n273</string>
+    <string name="n273">Record the immediate cause of death from the death certificate</string>
+
+    <string name="Q_n274">n274</string>
+    <string name="n274">Duration (1a)</string>
+
+    <string name="Q_n275">n275</string>
+    <string name="n275">Record the first underlying cause of death from the death certificate</string>
+
+    <string name="Q_n276">n276</string>
+    <string name="n2276">Duration (1b)</string>
+
+    <string name="Q_n277">n277</string>
+    <string name="n2277">Record the second underlying cause of death from the death certificate	</string>
+
+    <string name="Q_n278">n278</string>
+    <string name="n2278">Duration (1c)</string>
+
+    <string name="Q_n283">n283</string>
+    <string name="n283">Was the Death Registered ?</string>
+    <string name="n283a">Yes, Card Seen</string>
+    <string name="n283b">Yes, Card Not Seen</string>
+    <string name="n283c">No Registration</string>
+    <string name="n28398">Don’t Know</string>
+    <string name="n28399">Refused to Answer</string>
+
+    <string name="Q_n284">n284</string>
+    <string name="n284">Record the death registration number</string>
+
+    <string name="Q_n291">n291</string>
+    <string name="n291">How old (is the child’s mother / was the child’s mother when she died) ?</string>
+
+    <string name="Q_n292">n292</string>
+    <string name="n292">Did the child’s mother ever attend school ?</string>
+    <string name="n292a">Yes</string>
+    <string name="n292b">No</string>
+    <string name="n29298">Don’t Know</string>
+
+    <string name="Q_n293">n293</string>
+    <string name="n293">What is the highest level of school she attended: primary, secondary, or higher ?</string>
+    <string name="n293a">Primary</string>
+    <string name="n293b">Secondary</string>
+    <string name="n293c">Higher</string>
+    <string name="n29398">Don’t Know</string>
+
+    <string name="Q_n294">n294</string>
+    <string name="n294">What is the highest [GRADE/YEAR] she completed at that level ?</string>
+
+    <string name="Q_n295">n295</string>
+    <string name="n295">At the time of the child’s death, (were you / was the child’s mother) married or living together with a man as if married ?</string>
+    <string name="n295a">Yes, married</string>
+    <string name="n295b">Yes, living with a man</string>
+    <string name="n295c">No, not in union</string>
+    <string name="n295d">No, mother was deceased then</string>
+    <string name="n29598">Don’t Know</string>
+
+    <string name="Q_n296">n296</string>
+    <string name="n296">How old (were you when you / was she when she) first married (or lived with a man) ?</string>
+
+    <string name="Q_n297">n297</string>
+    <string name="n297">Did (your / the mother’s) (husband/partner) ever attend school ?</string>
+    <string name="n297a">Yes</string>
+    <string name="n297b">No</string>
+    <string name="n29798">Don’t Know</string>
+
+    <string name="Q_n298">n298</string>
+    <string name="n298">What was the highest level of school he attended: primary, secondary, or higher ?</string>
+    <string name="n298a">Primary</string>
+    <string name="n298b">Secondary</string>
+    <string name="n298c">Higher</string>
+    <string name="n29898">Don’t Know</string>
+
+    <string name="Q_n299">n299</string>
+    <string name="n2299">What was the highest [GRADE/FORM/YEAR] he completed at that level ?</string>
+
+    <string name="Q_n300">n300</string>
+    <string name="n300">Is this the house (where we are now) where (you / the mother) stayed during the (last days of the pregnancy ) ?</string>
+    <string name="n300a">Yes</string>
+    <string name="n300b">No</string>
+    <string name="n30098">Don’t Know</string>
+
+    <string name="Q_n301">n301</string>
+    <string name="n301">Where did (you / the mother) stay at that time ?</string>
+    <string name="n301a">Her/His own home at that time (different from the current location)</string>
+    <string name="n301b">Her/His in-law’s home</string>
+    <string name="n301c">Her/His parent’s home</string>
+    <string name="n301d">Her/His brother’s home</string>
+    <string name="n30196">Other (specify) </string>
+    <string name="n30198">Don’t Know</string>
+
+    <string name="Q_n302">n302</string>
+    <string name="n302">What is the address of the place where (you / she) stayed ?</string>
+
+    <string name="Q_n303">n303</string>
+    <string name="n303">At the time of the illness events, how long had (you / the mother / your \'RELATIVES\' / the mother’s \'RELATIVES\') been living continuously in (this / that) community ?</string>
+
+    <string name="Q_n304">n304</string>
+    <string name="n304">In an emergency, how long would it take to reach the nearest health facility from (this / that) location ?</string>
+
+    <string name="Q_n311">n311</string>
+    <string name="n311">In the 12 months before (s) death, did the people in the (village / neighborhood) work together on any of the following issues that affect the entire community or part of the community ?</string>
+    <string name="n311a">Education / Schools ?</string>
+    <string name="n311aa">Yes</string>
+    <string name="n311ab">No</string>
+    <string name="n311a98">Don’t Know</string>
+    <string name="n311b">Health Services / Clinics ?</string>
+    <string name="n311ba">Yes</string>
+    <string name="n311bb">No</string>
+    <string name="n311b98">Don’t Know</string>
+    <string name="n311c">Paid Job Opportunities ?</string>
+    <string name="n311ca">Yes</string>
+    <string name="n311cb">No</string>
+    <string name="n311c98">Don’t Know</string>
+    <string name="n311d">Credit / Finance ?</string>
+    <string name="n311da">Yes</string>
+    <string name="n311db">No</string>
+    <string name="n311d98">Don’t Know</string>
+    <string name="n311e">Roads ?</string>
+    <string name="n311ea">Yes</string>
+    <string name="n311eb">No</string>
+    <string name="n311e98">Don’t Know</string>
+    <string name="n311f">Public Transportation ?</string>
+    <string name="n311fa">Yes</string>
+    <string name="n311fb">No</string>
+    <string name="n311f98">Don’t Know</string>
+    <string name="n311g">Water Distribution ?</string>
+    <string name="n311ga">Yes</string>
+    <string name="n311gb">No</string>
+    <string name="n311g98">Don’t Know</string>
+    <string name="n311h">Sanitation Services ?</string>
+    <string name="n311ha">Yes</string>
+    <string name="n311hb">No</string>
+    <string name="n311h98">Don’t Know</string>
+    <string name="n311i">Agriculture ?</string>
+    <string name="n311ia">Yes</string>
+    <string name="n311ib">No</string>
+    <string name="n311i98">Don’t Know</string>
+    <string name="n311j">Justice / Conflict Resolution ?</string>
+    <string name="n311ja">Yes</string>
+    <string name="n311jb">No</string>
+    <string name="n311j98">Don’t Know</string>
+    <string name="n311k">Security / Police Services ?</string>
+    <string name="n311ka">Yes</string>
+    <string name="n311kb">No</string>
+    <string name="n311k98">Don’t Know</string>
+    <string name="n311l">Mosque / Church / Temple ?</string>
+    <string name="n311la">Yes</string>
+    <string name="n311lb">No</string>
+    <string name="n311l98">Don’t Know</string>
+    <string name="n311m">Other (Specify) ? </string>
+    <string name="n311ma">Yes</string>
+    <string name="n311mb">No</string>
+    <string name="n311m98">Don’t Know</string>
+    <string name="n311n">Any of the following issues that affect the entire community or part of the community ?</string>
+    <string name="n311na">One or more issues identified</string>
+    <string name="n311nb">No issue identified</string>
+
+    <string name="n312">In the 12 months before (s) death, (were you / was the mother) an active participant in any of the following types of groups in the community?</string>
+    <string name="n312_1">N2312_1: Vocational training group?</string>
+    <string name="n312_2">N2312_2: Savings group or microcredit program?</string>
+    <string name="n312_3">N2312_3: Community cooperative, such as an agricultural cooperative?</string>
+    <string name="n312_4">N2312_4: Political group?</string>
+    <string name="n312_5">N2312_5: Religious group?</string>
+    <string name="n312_6">N2312_6: Sports club?</string>
+    <string name="n312_7">N2312_7: Youth / student club?</string>
+    <string name="n312_8">N2312_8: Women’s group?</string>
+    <string name="n312_OT">N2312_OT: Other (specify)?</string>
+    <string name="n312_10">N2312_10: Any of the following issues that affect the entire community or part of the community?</string>
 
 
     <string name="n231_1">N231_1: Religious group</string>
@@ -1279,7 +1481,6 @@
     <string name="n231_11">N231_11: Police</string>
 
 
-    <string name="n2312">N2312: In the 12 months before (s) death, (were you / was the mother) an active participant in any of the following types of groups in the community?</string>
     <string name="n2313">N2313: Did (you / she) turn to any of the following people or groups in the community for help during (the pregnancy / (or) the child’s fatal illness )?</string>
 
 
@@ -1306,135 +1507,6 @@
 
 
     <!-- Responcestxt_ XML .....................  -->
-
-    <string name="rb_N2251_1">Yes</string>
-    <string name="rb_N2251_2">No</string>
-    <string name="rb_N2251_DK">Don’t know</string>
-    <string name="rb_N2251_RA">Refused to Answer</string>
-    <string name="rb_N2252_1_1">Yes</string>
-    <string name="rb_N2252_1_2">No</string>
-    <string name="rb_N2252_1_DK">Don’t know</string>
-    <string name="rb_N2252_1_RA">Refused to Answer</string>
-    <string name="rb_N2252_2_1">Yes</string>
-    <string name="rb_N2252_2_2">No</string>
-    <string name="rb_N2252_2_DK">Don’t know</string>
-    <string name="rb_N2252_2_RA">Refused to Answer</string>
-    <string name="rb_N2252_3_1">Yes</string>
-    <string name="rb_N2252_3_2">No</string>
-    <string name="rb_N2252_3_DK">Don’t know</string>
-    <string name="rb_N2252_3_RA">Refused to Answer</string>
-    <string name="rb_N2252_4_1">Yes</string>
-    <string name="rb_N2252_4_2">No</string>
-    <string name="rb_N2252_4_DK">Don’t know</string>
-    <string name="rb_N2252_4_RA">Refused to Answer</string>
-    <string name="rb_N2252_5_1">Yes</string>
-    <string name="rb_N2252_5_2">No</string>
-    <string name="rb_N2252_5_DK">Don’t know</string>
-    <string name="rb_N2252_5_RA">Refused to Answer</string>
-    <string name="rb_N2252_6_1">Yes</string>
-    <string name="rb_N2252_6_2">No</string>
-    <string name="rb_N2252_6_DK">Don’t know</string>
-    <string name="rb_N2252_6_RA">Refused to Answer</string>
-    <string name="rb_N2252_7_1">Yes</string>
-    <string name="rb_N2252_7_2">No</string>
-    <string name="rb_N2252_7_DK">Don’t know</string>
-    <string name="rb_N2252_7_RA">Refused to Answer</string>
-    <string name="rb_N2253_1">Yes</string>
-    <string name="rb_N2253_2">No</string>
-    <string name="rb_N2253_DK">Don’t know</string>
-    <string name="rb_N2253_RA">Refused to Answer</string>
-    <string name="rb_N2254_1">Yes</string>
-    <string name="rb_N2254_2">No</string>
-    <string name="rb_N2255_1check_1">Yes</string>
-    <string name="rb_N2255_1check_2">No</string>
-    <string name="rb_N2255_2check_1">Yes</string>
-    <string name="rb_N2255_2check_2">No</string>
-    <string name="rb_N2259_1">Yes</string>
-    <string name="rb_N2259_2">No</string>
-    <string name="rb_N2259_DK">Don’t know</string>
-    <string name="rb_N2259_RA">Refused to Answer</string>
-    <string name="rb_N2271_1">Yes</string>
-    <string name="rb_N2271_2">No</string>
-    <string name="rb_N2271_DK">Don’t know</string>
-    <string name="rb_N2271_RA">Refused to Answer</string>
-    <string name="rb_N2272_1">Yes</string>
-    <string name="rb_N2272_2">No</string>
-    <string name="rb_N2283_1">Yes, card seen</string>
-    <string name="rb_N2283_2">Yes, card not seen</string>
-    <string name="rb_N2283_3">No registration</string>
-    <string name="rb_N2283_DK">Don’t know</string>
-    <string name="rb_N2283_RA">Refused to Answer</string>
-    <string name="rb_N2292_1">Yes</string>
-    <string name="rb_N2292_2">No</string>
-    <string name="rb_N2292_DK">Don’t know</string>
-    <string name="rb_N2293_1">Primary</string>
-    <string name="rb_N2293_2">Secondary</string>
-    <string name="rb_N2293_3">Higher</string>
-    <string name="rb_N2293_DK">Don’t know</string>
-    <string name="rb_N2295_1">Yes, married</string>
-    <string name="rb_N2295_2">Yes, living with a man</string>
-    <string name="rb_N2295_3">No, not in union</string>
-    <string name="rb_N2295_4">No, mother was deceased then</string>
-    <string name="rb_N2295_DK">Don’t know</string>
-    <string name="rb_N2297_1">Yes</string>
-    <string name="rb_N2297_2">No</string>
-    <string name="rb_N2297_DK">Don’t know</string>
-    <string name="rb_N2298_1">Primary</string>
-    <string name="rb_N2298_2">Secondary</string>
-    <string name="rb_N2298_3">Higher</string>
-    <string name="rb_N2298_DK">Don’t know</string>
-    <string name="rb_N2300_1">Yes</string>
-    <string name="rb_N2300_2">No</string>
-    <string name="rb_N2300_DK">Don’t know</string>
-    <string name="rb_N2301_1">Her/His own home at that time (different from the current location)</string>
-    <string name="rb_N2301_2">Her/His in-law’s home</string>
-    <string name="rb_N2301_3">Her/His parent’s home</string>
-    <string name="rb_N2301_4">Her/His brother’s home</string>
-    <string name="ed_N2301_OT">Other (specify) </string>
-    <string name="rb_N2301_DK">Don’t know</string>
-
-    <string name="rb_N2311_1_1">Yes</string>
-    <string name="rb_N2311_1_2">No</string>
-    <string name="rb_N2311_1_DK">Don’t know</string>
-    <string name="rb_N2311_2_1">Yes</string>
-    <string name="rb_N2311_2_2">No</string>
-    <string name="rb_N2311_2_DK">Don’t know</string>
-    <string name="rb_N2311_3_1">Yes</string>
-    <string name="rb_N2311_3_2">No</string>
-    <string name="rb_N2311_3_DK">Don’t know</string>
-    <string name="rb_N2311_4_1">Yes</string>
-    <string name="rb_N2311_4_2">No</string>
-    <string name="rb_N2311_4_DK">Don’t know</string>
-    <string name="rb_N2311_5_1">Yes</string>
-    <string name="rb_N2311_5_2">No</string>
-    <string name="rb_N2311_5_DK">Don’t know</string>
-    <string name="rb_N2311_6_1">Yes</string>
-    <string name="rb_N2311_6_2">No</string>
-    <string name="rb_N2311_6_DK">Don’t know</string>
-    <string name="rb_N2311_7_1">Yes</string>
-    <string name="rb_N2311_7_2">No</string>
-    <string name="rb_N2311_7_DK">Don’t know</string>
-    <string name="rb_N2311_8_1">Yes</string>
-    <string name="rb_N2311_8_2">No</string>
-    <string name="rb_N2311_8_DK">Don’t know</string>
-    <string name="rb_N2311_9_1">Yes</string>
-    <string name="rb_N2311_9_2">No</string>
-    <string name="rb_N2311_9_DK">Don’t know</string>
-    <string name="rb_N2311_10_1">Yes</string>
-    <string name="rb_N2311_10_2">No</string>
-    <string name="rb_N2311_10_DK">Don’t know</string>
-    <string name="rb_N2311_11_1">Yes</string>
-    <string name="rb_N2311_11_2">No</string>
-    <string name="rb_N2311_11_DK">Don’t know</string>
-    <string name="rb_N2311_12_1">Yes</string>
-    <string name="rb_N2311_12_2">No</string>
-    <string name="rb_N2311_12_DK">Don’t know</string>
-    <string name="rb_N2311_OT_1">Yes</string>
-    <string name="rb_N2311_OT_2">No</string>
-    <string name="rb_N2311_OT_DK">Don’t know</string>
-    <string name="ed_N2311_OT">Other (Specify)</string>
-    <string name="rb_N2311_14_1">One or more issues identified</string>
-    <string name="rb_N2311_14_2">No issue identified</string>
 
     <string name="rb_N2312_1_1">Yes</string>
     <string name="rb_N2312_1_2">No</string>
