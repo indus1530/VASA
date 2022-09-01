@@ -1918,26 +1918,6 @@
     <string name="rb_N2181_2">No</string>
     <string name="rb_N2181_DK">Don’t know</string>
     <string name="rb_N2181_RA">Refused to Answer</string>
-    <string name="rb_N2182_1">Yes</string>
-    <string name="rb_N2182_2">No</string>
-    <string name="rb_N2182_DK">Don’t know</string>
-    <string name="rb_N2182_RA">Refused to Answer</string>
-    <string name="rb_N2183_1">Yes</string>
-    <string name="rb_N2183_2">No</string>
-    <string name="rb_N2183_DK">Don’t know</string>
-    <string name="rb_N2183_RA">Refused to Answer</string>
-    <string name="rb_N2185_1">Yes</string>
-    <string name="rb_N2185_2">No</string>
-    <string name="rb_N2185_DK">Don’t know</string>
-    <string name="rb_N2185_RA">Refused to Answer</string>
-    <string name="rb_N2188_1">Yes</string>
-    <string name="rb_N2188_2">No</string>
-    <string name="rb_N2188_DK">Don’t know</string>
-    <string name="rb_N2188_RA">Refused to Answer</string>
-    <string name="rb_N2189_1">Yes</string>
-    <string name="rb_N2189_2">No</string>
-    <string name="rb_N2189_DK">Don’t know</string>
-    <string name="rb_N2189_RA">Refused to Answer</string>
 
     <string name="n143">Did the baby have convulsions starting more than 24 hours after birth ?</string>
     <string name="n143a">Yes</string>
@@ -1982,24 +1962,63 @@
     <string name="n2170">N2170:	During the illness that led to death, did the baby have breathlessness?	</string>
     <string name="n2171">N2171:	For how many days did the breathlessness last?	</string>
     <string name="n2172">N2172:	During the illness that led to death, did you see the lower chest wall/ribs being pulled in as the baby breathed? 	</string>
+
     <string name="n2173">N2173:	During the illness that led to death, did her/his breathing sound like any of the following?	</string>
+
     <string name="n2174">N2174:	Stridor	</string>
+
     <string name="n2175">N2175:	Grunting	</string>
+
     <string name="n2176">N2176:	Wheezing	</string>
+
     <string name="n2177a">N2177a: Did ?NAME? have a bulging or raised fontanelle during the illness that led to death?	</string>
+
     <string name="n2177">N2177:	Did s/he have a sunken fontanelle during the illness that led to death?	</string>
+
     <string name="n2178">N2178:	During the illness that led to death, did s/he have yellow skin, palms (hand) or soles (foot)?	</string>
+
     <string name="n2179">N2179:	During the illness that led to death, did the baby have yellow discoloration of the eyes?	</string>
+
     <string name="n2180">N2180:	During the illness that led to death, did the baby have any skin rash?	</string>
+
     <string name="n2181">N2181:	During the illness that led to death, did the baby have an area(s) of skin with redness and swelling?	</string>
+
     <string name="n2182">N2182:	During the illness that led to death, did s/he have areas of the skin that turned black?	</string>
+    <string name="rb_N2182_1">Yes</string>
+    <string name="rb_N2182_2">No</string>
+    <string name="rb_N2182_DK">Don’t know</string>
+    <string name="rb_N2182_RA">Refused to Answer</string>
+
     <string name="n2183">N2183:	During the illness that led to death, did the baby bleed from anywhere?	</string>
+    <string name="rb_N2183_1">Yes</string>
+    <string name="rb_N2183_2">No</string>
+    <string name="rb_N2183_DK">Don’t know</string>
+    <string name="rb_N2183_RA">Refused to Answer</string>
+
     <string name="n2184">N2184:	Record from where the baby bled:	</string>
+
     <string name="n2185">N2185:	During the illness that led to death, did s/he have more frequent loose or liquid stools than usual?	</string>
+    <string name="rb_N2185_1">Yes</string>
+    <string name="rb_N2185_2">No</string>
+    <string name="rb_N2185_DK">Don’t know</string>
+    <string name="rb_N2185_RA">Refused to Answer</string>
+
     <string name="n2186">N2186:	How many stools did the baby have on the day that loose liquid stools were most frequent?	</string>
+
     <string name="n2187">N2187:	How many days before death did the frequent loose or liquid stools start?	</string>
+
     <string name="n2188">N2188:	At any time during the fatal illness was there blood in the stools?	</string>
+    <string name="rb_N2188_1">Yes</string>
+    <string name="rb_N2188_2">No</string>
+    <string name="rb_N2188_DK">Don’t know</string>
+    <string name="rb_N2188_RA">Refused to Answer</string>
+
     <string name="n2189">N2189:	During the illness that led to death, did the baby vomit everything?	</string>
+    <string name="rb_N2189_1">Yes</string>
+    <string name="rb_N2189_2">No</string>
+    <string name="rb_N2189_DK">Don’t know</string>
+    <string name="rb_N2189_RA">Refused to Answer</string>
+
     <string name="n2189a">N2189a: Did s/he vomit in the week preceding death?	</string>
     <string name="rb_N2189a_1">Yes</string>
     <string name="rb_N2189a_2">No</string>
