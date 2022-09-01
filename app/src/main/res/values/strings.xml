@@ -1455,398 +1455,353 @@
     <string name="n311na">One or more issues identified</string>
     <string name="n311nb">No issue identified</string>
 
+    <string name="Q_n312">n312</string>
     <string name="n312">In the 12 months before (s) death, (were you / was the mother) an active participant in any of the following types of groups in the community?</string>
-    <string name="n312_1">N2312_1: Vocational training group?</string>
-    <string name="n312_2">N2312_2: Savings group or microcredit program?</string>
-    <string name="n312_3">N2312_3: Community cooperative, such as an agricultural cooperative?</string>
-    <string name="n312_4">N2312_4: Political group?</string>
-    <string name="n312_5">N2312_5: Religious group?</string>
-    <string name="n312_6">N2312_6: Sports club?</string>
-    <string name="n312_7">N2312_7: Youth / student club?</string>
-    <string name="n312_8">N2312_8: Women’s group?</string>
-    <string name="n312_OT">N2312_OT: Other (specify)?</string>
-    <string name="n312_10">N2312_10: Any of the following issues that affect the entire community or part of the community?</string>
+    <string name="n312a">Vocational Training Group ?</string>
+    <string name="n312aa">Yes</string>
+    <string name="n312ab">No</string>
+    <string name="n312a98">Don’t Know</string>
+    <string name="n312b">Savings Group or Microcredit Program ?</string>
+    <string name="n312ba">Yes</string>
+    <string name="n312bb">No</string>
+    <string name="n312b98">Don’t Know</string>
+    <string name="n312c">Community Cooperative, Such As An Agricultural Cooperative ?</string>
+    <string name="n312ca">Yes</string>
+    <string name="n312cb">No</string>
+    <string name="n312c98">Don’t Know</string>
+    <string name="n312d">Political Group ?</string>
+    <string name="n312da">Yes</string>
+    <string name="n312db">No</string>
+    <string name="n312d98">Don’t Know</string>
+    <string name="n312e">Religious Group ?</string>
+    <string name="n312ea">Yes</string>
+    <string name="n312eb">No</string>
+    <string name="n312e98">Don’t Know</string>
+    <string name="n312f">Sports Club ?</string>
+    <string name="n312fa">Yes</string>
+    <string name="n312fb">No</string>
+    <string name="n312f98">Don’t Know</string>
+    <string name="n312g">Youth / Student Club ?</string>
+    <string name="n312ga">Yes</string>
+    <string name="n312gb">No</string>
+    <string name="n312g98">Don’t Know</string>
+    <string name="n312h">Women’s Group ?</string>
+    <string name="n312ha">Yes</string>
+    <string name="n312hb">No</string>
+    <string name="n312h98">Don’t Know</string>
+    <string name="n31296">Other (specify)?</string>
+    <string name="n31296a">Yes</string>
+    <string name="n31296b">No</string>
+    <string name="n3129698">Don’t Know</string>
+    <string name="n312i">Any of the following issues that affect the entire community or part of the community ?</string>
+    <string name="n312ia">Yes</string>
+    <string name="n312ib">No</string>
+    <string name="n312i98">Don’t Know</string>
 
+    <string name="Q_n313">n313</string>
+    <string name="n313">Did (you / she) turn to any of the following people or groups in the community for help during (the pregnancy / (or) the child’s fatal illness )?</string>
+    <string name="n313a">Religious group</string>
+    <string name="n313aa">Yes</string>
+    <string name="n313ab">No</string>
+    <string name="n313a98">Don’t Know</string>
+    <string name="n313b">Women’s group</string>
+    <string name="n313ba">Yes</string>
+    <string name="n313bb">No</string>
+    <string name="n313b98">Don’t Know</string>
+    <string name="n313c">Savings group or microcredit program</string>
+    <string name="n313ca">Yes</string>
+    <string name="n313cb">No</string>
+    <string name="n313c98">Don’t Know</string>
+    <string name="n313d">Any other community group, such as a vocational training group, community cooperative, political group, sports club, youth or student group</string>
+    <string name="n313da">Yes</string>
+    <string name="n313db">No</string>
+    <string name="n313d98">Don’t Know</string>
+    <string name="n313e">Community or political leader</string>
+    <string name="n313ea">Yes</string>
+    <string name="n313eb">No</string>
+    <string name="n313e98">Don’t Know</string>
+    <string name="n313f">Religious leader</string>
+    <string name="n313fa">Yes</string>
+    <string name="n313fb">No</string>
+    <string name="n313f98">Don’t Know</string>
+    <string name="n313g">Family</string>
+    <string name="n313ga">Yes</string>
+    <string name="n313gb">No</string>
+    <string name="n313g98">Don’t Know</string>
+    <string name="n313h">Neighbors</string>
+    <string name="n313ha">Yes</string>
+    <string name="n313hb">No</string>
+    <string name="n313h98">Don’t Know</string>
+    <string name="n313i">Friends</string>
+    <string name="n313ia">Yes</string>
+    <string name="n313ib">No</string>
+    <string name="n313i98">Don’t Know</string>
+    <string name="n313j">Patron/employer/benefactor</string>
+    <string name="n313ja">Yes</string>
+    <string name="n313jb">No</string>
+    <string name="n313j98">Don’t Know</string>
+    <string name="n313k">Police</string>
+    <string name="n313ka">Yes</string>
+    <string name="n313kb">No</string>
+    <string name="n313k98">Don’t Know</string>
+    <string name="n31396">Other (specify)</string>
+    <string name="n31396a">Yes</string>
+    <string name="n31396b">No</string>
+    <string name="n3139698">Don’t Know</string>
 
-    <string name="n231_1">N231_1: Religious group</string>
-    <string name="n231_2">N231_2: Women’s group</string>
-    <string name="n231_3">N231_3: Savings group or microcredit program</string>
-    <string name="n231_4">N231_4: Any other community group, such as a vocational training group, community cooperative, political group, sports club, youth or student group</string>
-    <string name="n231_5">N231_5: Community or political leader</string>
-    <string name="n231_6">N231_6: Religious leader</string>
-    <string name="n231_7">N231_7: Family</string>
-    <string name="n231_8">N231_8: Neighbors</string>
-    <string name="n231_9">N231_9: Friends</string>
-    <string name="n231_10">N231_10: Patron/employer/benefactor</string>
-    <string name="n231_11">N231_11: Police</string>
+    <string name="n314">Did the child ever have a positive HIV test ?</string>
 
-
-    <string name="n2313">N2313: Did (you / she) turn to any of the following people or groups in the community for help during (the pregnancy / (or) the child’s fatal illness )?</string>
-
-
-    <string name="n2313_1">N2313_1: Religious group</string>
-    <string name="n2313_2">N2313_2: Women’s group</string>
-    <string name="n2313_3">N2313_3: Savings group or microcredit program</string>
-    <string name="n2313_4">N2313_4: Any other community group, such as a vocational training group, community cooperative, political group, sports club, youth or student group</string>
-    <string name="n2313_5">N2313_5: Community or political leader</string>
-    <string name="n2313_6">N2313_6: Religious leader</string>
-    <string name="n2313_7">N2313_7: Family</string>
-    <string name="n2313_8">N2313_8: Neighbors</string>
-    <string name="n2313_9">N2313_9: Friends</string>
-    <string name="n2313_10">N2313_10: Patron/employer/benefactor</string>
-    <string name="n2313_11">N2313_11: Police</string>
-    <string name="n2313_OT">N2313_OT: Other (specify)</string>
-
-
-    <string name="n2314">N2314:  Did the child ever have a positive HIV test?	</string>
-    <string name="n2315">N2315:  Was there any diagnosis by a health professional that the child had AIDS?	</string>
+    <string name="n2315">N2315:  Was there any diagnosis by a health professional that the child had AIDS ?</string>
     <string name="n2316">N2316:  Did (you / the child’s biological mother) ever have a positive HIV test?	</string>
     <string name="n2317">N2317:  Was there any diagnosis by a health professional that (you / the child’s biological mother) had AIDS?	</string>
     <string name="n2321">N2321:  Write the respondent’s exact words. After s/he has finished, read this back and ask her to correct any errors in what you wrote.	</string>
     <string name="n2322">N2322:  Are any of the following words of interest mentioned in the above narrative?	</string>
 
-
-    <!-- Responcestxt_ XML .....................  -->
-
-    <string name="rb_N2312_1_1">Yes</string>
-    <string name="rb_N2312_1_2">No</string>
-    <string name="rb_N2312_1_DK">Don’t know</string>
-    <string name="rb_N2312_2_1">Yes</string>
-    <string name="rb_N2312_2_2">No</string>
-    <string name="rb_N2312_2_DK">Don’t know</string>
-    <string name="rb_N2312_3_1">Yes</string>
-    <string name="rb_N2312_3_2">No</string>
-    <string name="rb_N2312_3_DK">Don’t know</string>
-    <string name="rb_N2312_4_1">Yes</string>
-    <string name="rb_N2312_4_2">No</string>
-    <string name="rb_N2312_4_DK">Don’t know</string>
-    <string name="rb_N2312_5_1">Yes</string>
-    <string name="rb_N2312_5_2">No</string>
-    <string name="rb_N2312_5_DK">Don’t know</string>
-    <string name="rb_N2312_6_1">Yes</string>
-    <string name="rb_N2312_6_2">No</string>
-    <string name="rb_N2312_6_DK">Don’t know</string>
-    <string name="rb_N2312_7_1">Yes</string>
-    <string name="rb_N2312_7_2">No</string>
-    <string name="rb_N2312_7_DK">Don’t know</string>
-    <string name="rb_N2312_8_1">Yes</string>
-    <string name="rb_N2312_8_2">No</string>
-    <string name="rb_N2312_8_DK">Don’t know</string>
-    <string name="rb_N2312_OT_1">Yes</string>
-    <string name="rb_N2312_OT_2">No</string>
-    <string name="rb_N2312_OT_DK">Don’t know</string>
-    <string name="ed_N2312_OT">Other (Specify)</string>
-    <string name="rb_N2312_10_1">Yes</string>
-    <string name="rb_N2312_10_2">No</string>
-    <string name="rb_N2312_10_DK">Don’t know</string>
-
-
-    <!-- quesiotn txt_starts-->
-
     <string name="n2110">N2110:	What tool was used for cutting the cord?	</string>
-    <string name="n2111">N2111:	What material was used for tying the cord?	</string>
-    <string name="n2112">N2112:	Was anything applied to the umbilical cord stump after birth?	</string>
-    <string name="n2113">N2113:	What was it?	</string>
-    <string name="n2114">N2114:	Were there any bruises or signs of injury on the baby’s body at birth?	</string>
-    <string name="n2115">N2115:	Was any part of the baby physically abnormal at the time of delivery? (for example: body part too large or too small, additional growth on body) 	</string>
-    <string name="n2116_1">N2116_1:	Did the baby/ child have a swelling or defect on the back at time of birth?	</string>
-    <string name="n2116_2">N2116_2:	Did the baby/ child have a very large head at time of birth?	</string>
-    <string name="n2116_3">N2116_3:	Did the baby/ child have a very small head at time of birth?	</string>
-    <string name="n2117">N2117:	Was the baby blue in color at birth?	</string>
-    <string name="n2118">N2118:	Did the baby breathe immediately after birth, even a little?	</string>
-    <string name="n2119">N2119:	Did the baby have difficulty breathing? 	</string>
-    <string name="n2120">N2120:	Was anything done to try to help the baby breathe at birth?	</string>
-    <string name="n2121">N2121:	Did the baby cry immediately after birth, even if only a little bit? 	</string>
-    <string name="n2122">N2122:	How many minutes after birth did the baby first cry?	</string>
-    <string name="n2123">N2123:	Did the baby stop being able to cry? 	</string>
-    <string name="n2124">N2124:	How many hours before death did the baby stop crying?	</string>
-    <string name="n2125">N2125:	Was the baby put in an incubator after the birth?	</string>
-    <string name="n2126">N2126:	After the birth, was the baby put directly on the bare skin of (your / the mother’s) chest?	</string>
-    <string name="n2127">N2127:	How long after the birth was the baby put on the bare skin of (your / the mother’s) chest?	</string>
-    <string name="n2128">N2128:	Before being placed on the bare skin of (your / the mother’s) chest, was the baby wrapped up?	</string>
-    <string name="n2129">N2129:	For babies delivered preterm (N2066=1 or N2067&lt;9 months) in a health facility (N2006=3-10), ask: For how many hours each day was the baby directly on the bare skin of (your / the mother’s) chest?	</string>
-    <string name="n2130">N2130:	For babies delivered preterm (N2066=1 or N2067&lt;9 months) in a health facility (N2006=3-10), ask: For how many days was the baby put directly on the bare skin of (your / the mother’s) chest?	</string>
-    <string name="n2131">N2131:	How long after birth was the baby first bathed?	</string>
-    <string name="n2132">N2132:	Did (you / the mother) or a wet nurse ever breastfeed the baby?	</string>
-    <string name="n2133">N2133:	How long after birth was the baby first put to the breast?	</string>
-    <string name="n2134">N2134:	On the day before the fatal illness began, was the baby being breastfed?	</string>
-
-
-    <string name="n2135">N2135: On the day before the illness began, was the baby given any…? </string>
-
-    <string name="n2135_1">N2135_1: Milk (other than breast milk) </string>
-    <string name="n2135_2">N2135_2: Plain water </string>
-    <string name="n2135_3">N2135_3: Sugar or glucose water </string>
-    <string name="n2135_4">N2135_4: Gripe water </string>
-    <string name="n2135_5">N2135_5: Sugar-salt-water solution </string>
-    <string name="n2135_6">N2135_6: Fruit juice </string>
-    <string name="n2135_7">N2135_7: Infant formula </string>
-    <string name="n2135_8">N2135_8: Tea / Infusions </string>
-    <string name="n2135_9">N2135_9: Honey </string>
-    <string name="n2135_10">N2135_10: Semisolid or soft foods such as yogurt, cereal or mashed vegetables </string>
-    <string name="n2135_11">N2135_11: Any other liquid or semisolid or soft food </string>
-    <string name="n2135_12">N2135_12: (Specify other liquid, semisolid, soft food) </string>
-
-    <string name="n2136">N2136:	Was the baby able to suckle or bottle-feed in a normal way during the first day of life?	</string>
-    <string name="n2137">N2137:	Did the baby ever suckle in a normal way? 	</string>
-    <string name="n2138">N2138:	Did the baby stop being able to suckle in a normal way? 	</string>
-    <string name="n2139">N2139:	How many days after birth did the baby stop suckling?	</string>
-    <string name="n2140">N2140:	Was the baby able to open her/his mouth at the time s/he stopped suckling?	</string>
-    <string name="n2141">N2141:	During the illness that led to death, did the baby have spasms or convulsions?	</string>
-    <string name="n2142">N2142:	Did the baby have convulsions in the first 24 hours of life?	</string>
-    <string name="n2143">N2143:	Did the baby have convulsions starting more than 24 hours after birth?	</string>
-    <string name="n2144">N2144:	Did the baby’s body become stiff, with the head arched backwards?	</string>
-    <string name="n2145">N2145:	During the illness that led to death, did the baby become unresponsive or unconscious?	</string>
-    <string name="n2146">N2146:	Did the baby become unresponsive or unconscious soon after birth, within less than 24 hours?	</string>
-    <string name="n2147">N2147:	Did the baby become unresponsive or unconscious more than 24 hours after birth?	</string>
-    <string name="n2148">N2148:	Was s/he unconscious for more than 24 hours before death?	</string>
-    <string name="n2149">N2149:	During the illness that led to death, did the baby become lethargic, after a period of normal activity?	</string>
-    <string name="n2150">N2150:	During the illness that led to death, did the baby have pus drainage from the umbilical cord stump?	</string>
-    <string name="n2151">N2151:	During the illness that led to death, did the baby have redness of the umbilical cord stump?	</string>
-    <string name="n2152">N2152:	Did the redness of the umbilical cord stump extend onto the abdominal skin?	</string>
-    <string name="n2153">N2153:	During the illness that led to death, did the baby have skin bumps containing pus or a single large area with pus?	</string>
-    <string name="n2154">N2154:	During the illness that led to death, did the baby have skin ulcer(s) (pit(s))?	</string>
-    <string name="n2155">N2155:	During the illness that led to death, did the baby have fever?	</string>
-    <string name="n2156">N2156:	At what age did the fever start?	</string>
-    <string name="n2157">N2157:	How many days did the fever last?	</string>
-    <string name="n2158">N2158:	Did the fever continue until death?	</string>
-    <string name="n2159">N2159:	During the illness that led to death, did the baby become cold to touch?	</string>
-    <string name="n2160">N2160:	How many days old was the baby when s/he started feeling cold to touch?	</string>
-    <string name="n2161">N2161:	How many days did the baby feel cold to touch?	</string>
-    <string name="n2162">N2162:	Did the baby have a cough?	</string>
-    <string name="n2163">N2163:	Did s/he make a whooping sound when coughing?	</string>
-    <string name="n2164">N2164:	Did the child vomit after s/he coughed? 	</string>
-    <string name="n2165">N2165:	During the illness that led to death, did the baby have difficulty breathing?	</string>
-    <string name="n2166">N2166:	At what age did the difficult breathing start?	</string>
-    <string name="n2166_1">N2166_1:	For how many days did the difficult breathing last?	</string>
-    <string name="n2167">N2167:	During the illness that led to death, did the baby have fast breathing?	</string>
-    <string name="n2168">N2168:	At what age did the fast breathing start? 	</string>
-    <string name="n2169">N2169:	For how many days did the fast breathing last?	</string>
-    <string name="n2170">N2170:	During the illness that led to death, did the baby have breathlessness?	</string>
-    <string name="n2171">N2171:	For how many days did the breathlessness last?	</string>
-    <string name="n2172">N2172:	During the illness that led to death, did you see the lower chest wall/ribs being pulled in as the baby breathed? 	</string>
-    <string name="n2173">N2173:	During the illness that led to death, did her/his breathing sound like any of the following?	</string>
-    <string name="n2174">N2174:	Stridor	</string>
-    <string name="n2175">N2175:	Grunting	</string>
-    <string name="n2176">N2176:	Wheezing	</string>
-    <string name="n2177a">N2177a: Did ?NAME? have a bulging or raised fontanelle during the illness that led to death?	</string>
-    <string name="n2177">N2177:	Did s/he have a sunken fontanelle during the illness that led to death?	</string>
-    <string name="n2178">N2178:	During the illness that led to death, did s/he have yellow skin, palms (hand) or soles (foot)?	</string>
-    <string name="n2179">N2179:	During the illness that led to death, did the baby have yellow discoloration of the eyes?	</string>
-    <string name="n2180">N2180:	During the illness that led to death, did the baby have any skin rash?	</string>
-    <string name="n2181">N2181:	During the illness that led to death, did the baby have an area(s) of skin with redness and swelling?	</string>
-    <string name="n2182">N2182:	During the illness that led to death, did s/he have areas of the skin that turned black?	</string>
-    <string name="n2183">N2183:	During the illness that led to death, did the baby bleed from anywhere?	</string>
-    <string name="n2184">N2184:	Record from where the baby bled:	</string>
-    <string name="n2185">N2185:	During the illness that led to death, did s/he have more frequent loose or liquid stools than usual?	</string>
-    <string name="n2186">N2186:	How many stools did the baby have on the day that loose liquid stools were most frequent?	</string>
-    <string name="n2187">N2187:	How many days before death did the frequent loose or liquid stools start?	</string>
-    <string name="n2188">N2188:	At any time during the fatal illness was there blood in the stools?	</string>
-    <string name="n2189">N2189:	During the illness that led to death, did the baby vomit everything?	</string>
-    <string name="n2189a">N2189a: Did s/he vomit in the week preceding death?	</string>
-    <string name="n2190">N2190:	Did ?NAME? suffer from any injury or accident that led to her/his death?	</string>
-    <string name="n2190_1">N2190_1:	Was it a road traffic accident?	</string>
-    <string name="n2190_2">N2190_2:	What was her/his role in the road traffic accident?	</string>
-    <string name="n2190_3">N2190_3:	What was the counterpart that was hit during the road traffic accident?	</string>
-    <string name="n2190_4">N2190_4:	Was (s)he injured in a non-road transport accident?	</string>
-    <string name="n2190_5">N2190_5:	Was (s)he injured in a fall?	</string>
-    <string name="n2190_6">N2190_6:	Was there any poisoning?	</string>
-    <string name="n2190_7">N2190_7:	Did (s)he die of drowning?	</string>
-    <string name="n2190_8">N2190_8:	Was (s)he injured by a bite or sting by venomous animal?	</string>
-    <string name="n2190_9">N2190_9:	Was (s)he injured by an animal or insect (non-venomous)?	</string>
-    <string name="n2190_10">N2190_10: What was the animal/insect?	</string>
-    <string name="n2190_11">N2190_11: Was (s)he injured by burns/fire? 	</string>
-    <string name="n2190_12">N2190_12: Was (s)he subject to violence (homicide, abuse)?	</string>
-    <string name="n2190_13">N2190_13: Was (s)he injured by a firearm?	</string>
-    <string name="n2190_14">N2190_14: Was (s)he stabbed, cut or pierced?	</string>
-    <string name="n2190_15">N2190_15: Was (s)he strangled?	</string>
-    <string name="n2190_16">N2190_16: Was (s)he injured by a blunt force?	</string>
-    <string name="n2190_17">N2190_17: Was (s)he injured by a force of nature?	</string>
-    <string name="n2190_18">N2190_18: Was it electrocution?	</string>
-    <string name="n2190_19">N2190_19: Did (s)he encounter any other injury?	</string>
-    <string name="n2190_20">N2190_20: Was the injury accidental?	</string>
-    <string name="n2190_21">N2190_21: Was the injury self-inflicted?	</string>
-    <string name="n2190_22">N2190_22: Was the injury intentionally inflicted by someone else?	</string>
-    <string name="n2191">N2191:	How long did ?NAME? survive after the injury?	</string>
-    <string name="n2192">N2192:	Check N2006 to determine if the baby was born in a health facility (codes 3-10): </string>
-    <string name="n2193">N2193:	Did the baby leave the delivery facility alive or did s/he die in the facility?	</string>
-    <string name="n2194">N2194:	How long after birth did the baby leave the facility?	</string>
-    <string name="n2195">N2195:	Before leaving the facility, did anyone physically examine the baby, for example, check the temperature or check the cord?	</string>
-    <string name="n2196">N2196:	Prior to being discharged, did a health worker counsel (you / the mother) on breastfeeding the baby?	</string>
-    <string name="n2197">N2197:	Prior to being discharged, (were you / was the mother) told about signs and symptoms for which the baby needs immediate care? 	</string>
-
-    <string name="n2198">N2198:	After discharge, before the fatal illness began, was the baby ever seen by a trained health worker or nurse at home or in the community, or by a doctor or nurse at a health facility?	</string>
-    <string name="n2199">N2199:	After the birth, did the delivery attendant examine the baby, for example, check the temperature or check the cord?	</string>
-    <string name="n2200">N2200:	After the birth of the baby, did the delivery attendant counsel (you / the mother) on breastfeeding the baby?	</string>
-    <string name="n2201">N2201:	After the birth of the baby, did the delivery attendant tell (you / the mother) about signs and symptoms for which the baby needs immediate care?	</string>
-    <string name="n2202">N2202:	In the days after delivery, before the fatal illness began, was the baby ever seen by a trained health worker or nurse at home or in the community, or by a doctor or nurse at a health facility?	</string>
-
-
-    <!-- responces starts -->
-
-
     <string name="rb_N2110_1">New/from delivery kit/boiled razor blade</string>
     <string name="rb_N2110_2">Old razor blade</string>
     <string name="rb_N2110_3">Scissors</string>
     <string name="rb_N2110_OT">Other (specify) </string>
     <string name="rb_N2110_DK">Don’t know  </string>
+
+    <string name="n2111">N2111:	What material was used for tying the cord?	</string>
     <string name="rb_N2111_1">Clean/from delivery kit/boiled piece of thread</string>
     <string name="rb_N2111_2">Unclean piece of thread</string>
     <string name="rb_N2111_3">Cord clamp</string>
     <string name="rb_N2111_OT">Other (specify) </string>
     <string name="rb_N2111_DK">Don’t know  </string>
+
+    <string name="n2112">N2112:	Was anything applied to the umbilical cord stump after birth?	</string>
     <string name="rb_N2112_1">Yes</string>
     <string name="rb_N2112_2">No</string>
     <string name="rb_N2112_DK">Don’t know</string>
+
+    <string name="n2113">N2113:	What was it?	</string>
     <string name="cb_N2113_1">Alcohol/other antiseptic </string>
     <string name="cb_N2113_2">Antibiotic ointment/cream/powder </string>
     <string name="cb_N2113_3">Castor oil, mustard oil or shea butter </string>
     <string name="cb_N2113_4">Animal dung or dirt/mud/ash </string>
     <string name="cb_N2113_OT">Other (specify) </string>
     <string name="cb_N2113_DK">Don’t know </string>
+
+    <string name="n2114">N2114:	Were there any bruises or signs of injury on the baby’s body at birth?	</string>
     <string name="rb_N2114_1">Yes</string>
     <string name="rb_N2114_2">No</string>
     <string name="rb_N2114_DK">Don’t know</string>
     <string name="rb_N2114_RA">Refused to Answer</string>
+
+    <string name="n2115">N2115:	Was any part of the baby physically abnormal at the time of delivery? (for example: body part too large or too small, additional growth on body) 	</string>
     <string name="rb_N2115_1">Yes</string>
     <string name="rb_N2115_2">No</string>
     <string name="rb_N2115_DK">Don’t know</string>
     <string name="rb_N2115_RA">Refused to Answer</string>
+
+    <string name="n2116_1">N2116_1:	Did the baby/ child have a swelling or defect on the back at time of birth?	</string>
     <string name="rb_N2116_1_1">Yes</string>
     <string name="rb_N2116_1_2">No</string>
     <string name="rb_N2116_1_DK">Don’t know</string>
     <string name="rb_N2116_1_RA">Refused to Answer</string>
+
+    <string name="n2116_2">N2116_2:	Did the baby/ child have a very large head at time of birth?	</string>
     <string name="rb_N2116_2_1">Yes</string>
     <string name="rb_N2116_2_2">No</string>
     <string name="rb_N2116_2_DK">Don’t know</string>
     <string name="rb_N2116_2_RA">Refused to Answer</string>
+
+    <string name="n2116_3">N2116_3:	Did the baby/ child have a very small head at time of birth?	</string>
     <string name="rb_N2116_3_1">Yes</string>
     <string name="rb_N2116_3_2">No</string>
     <string name="rb_N2116_3_DK">Don’t know</string>
     <string name="rb_N2116_3_RA">Refused to Answer</string>
+
+    <string name="n2117">N2117:	Was the baby blue in color at birth?	</string>
     <string name="rb_N2117_1">Yes</string>
     <string name="rb_N2117_2">No</string>
     <string name="rb_N2117_DK">Don’t know</string>
     <string name="rb_N2117_RA">Refused to Answer</string>
+
+    <string name="n2118">N2118:	Did the baby breathe immediately after birth, even a little?	</string>
     <string name="rb_N2118_1">Yes</string>
     <string name="rb_N2118_2">No</string>
     <string name="rb_N2118_DK">Don’t know</string>
     <string name="rb_N2118_RA">Refused to Answer</string>
+
+    <string name="n2119">N2119:	Did the baby have difficulty breathing? 	</string>
     <string name="rb_N2119_1">Yes</string>
     <string name="rb_N2119_2">No</string>
     <string name="rb_N2119_DK">Don’t know</string>
     <string name="rb_N2119_RA">Refused to Answer</string>
+
+    <string name="n2120">N2120:	Was anything done to try to help the baby breathe at birth?	</string>
     <string name="rb_N2120_1">Yes</string>
     <string name="rb_N2120_2">No</string>
     <string name="rb_N2120_DK">Don’t know</string>
     <string name="rb_N2120_RA">Refused to Answer</string>
+
+    <string name="n2121">N2121:	Did the baby cry immediately after birth, even if only a little bit? 	</string>
     <string name="rb_N2121_1">Yes</string>
     <string name="rb_N2121_2">No</string>
     <string name="rb_N2121_DK">Don’t know</string>
     <string name="rb_N2121_RA">Refused to Answer</string>
+
+    <string name="n2122">N2122:	How many minutes after birth did the baby first cry?	</string>
+
+    <string name="n2123">N2123:	Did the baby stop being able to cry? 	</string>
     <string name="rb_N2123_1">Yes</string>
     <string name="rb_N2123_2">No</string>
     <string name="rb_N2123_DK">Don’t know</string>
     <string name="rb_N2123_RA">Refused to Answer</string>
+
+    <string name="n2124">N2124:	How many hours before death did the baby stop crying?	</string>
+
+    <string name="n2125">N2125:	Was the baby put in an incubator after the birth?	</string>
     <string name="rb_N2125_1">Yes</string>
     <string name="rb_N2125_2">No</string>
     <string name="rb_N2125_DK">Don’t know</string>
+
+    <string name="n2126">N2126:	After the birth, was the baby put directly on the bare skin of (your / the mother’s) chest?	</string>
     <string name="rb_N2126_1">Yes</string>
     <string name="rb_N2126_2">No</string>
     <string name="rb_N2126_DK">Don’t know</string>
+
+    <string name="n2127">N2127:	How long after the birth was the baby put on the bare skin of (your / the mother’s) chest?	</string>
     <string name="rb_N2127_1">Immediately </string>
     <string name="rb_N2127_2">Less than 1 hour </string>
     <string name="rb_N2127_3">1 hour or more </string>
     <string name="rb_N2127_DK">Don’t know </string>
+
+    <string name="n2128">N2128:	Before being placed on the bare skin of (your / the mother’s) chest, was the baby wrapped up?	</string>
     <string name="rb_N2128_1">Yes</string>
     <string name="rb_N2128_2">No</string>
     <string name="rb_N2128_DK"> Don’t know</string>
-    <string name="rb_N2131_1">1-6 hours</string>
-    <string name="rb_N2131_2">7-23 hours</string>
+
+    <string name="n2129"><![CDATA[For babies delivered preterm (N2066=1 or N2067<9 months) in a health facility (N2006=3–10), ask: For how many hours each day was the baby directly on the bare skin of (your / the mother’s) chest?	]]></string>
+
+    <string name="n2130"><![CDATA[For babies delivered preterm (N2066=1 or N2067<9 months) in a health facility (N2006=3–10), ask: For how many days was the baby put directly on the bare skin of (your / the mother’s) chest?	]]></string>
+
+    <string name="n2131">N2131:	How long after birth was the baby first bathed?	</string>
+    <string name="rb_N2131_1">1–6 hours</string>
+    <string name="rb_N2131_2">7–23 hours</string>
     <string name="rb_N2131_3">24 hours or more </string>
     <string name="rb_N2131_4">Not bathed before death</string>
     <string name="rb_N2131_DK">Don’t know</string>
+
+    <string name="n2132">N2132:	Did (you / the mother) or a wet nurse ever breastfeed the baby?	</string>
     <string name="rb_N2132_1">Yes</string>
     <string name="rb_N2132_2">No</string>
     <string name="rb_N2132_DK">Don’t know</string>
+
+    <string name="n2133">N2133:	How long after birth was the baby first put to the breast?	</string>
     <string name="rb_N2133_1">Immediately </string>
     <string name="rb_N2133_2">Less than 1 hour </string>
     <string name="rb_N2133_3">1 hour or more </string>
     <string name="rb_N2133_4">1 day or more </string>
     <string name="rb_N2133_DK"> Don’t know </string>
+
+    <string name="n2134">N2134:	On the day before the fatal illness began, was the baby being breastfed?	</string>
     <string name="rb_N2134_1">Yes</string>
     <string name="rb_N2134_2">No</string>
     <string name="rb_N2134_DK">Don’t know</string>
 
-    <string name="rb_N2135_1_1">Yes</string>
-    <string name="rb_N2135_1_2">No</string>
-    <string name="rb_N2135_1_DK">Don’t know</string>
-    <string name="rb_N2135_2_1">Yes</string>
-    <string name="rb_N2135_2_2">No</string>
-    <string name="rb_N2135_2_DK">Don’t know</string>
-    <string name="rb_N2135_3_1">Yes</string>
-    <string name="rb_N2135_3_2">No</string>
-    <string name="rb_N2135_3_DK">Don’t know</string>
-    <string name="rb_N2135_4_1">Yes</string>
-    <string name="rb_N2135_4_2">No</string>
-    <string name="rb_N2135_4_DK">Don’t know</string>
-    <string name="rb_N2135_5_1">Yes</string>
-    <string name="rb_N2135_5_2">No</string>
-    <string name="rb_N2135_5_DK">Don’t know</string>
-    <string name="rb_N2135_6_1">Yes</string>
-    <string name="rb_N2135_6_2">No</string>
-    <string name="rb_N2135_6_DK">Don’t know</string>
-    <string name="rb_N2135_7_1">Yes</string>
-    <string name="rb_N2135_7_2">No</string>
-    <string name="rb_N2135_7_DK">Don’t know</string>
-    <string name="rb_N2135_8_1">Yes</string>
-    <string name="rb_N2135_8_2">No</string>
-    <string name="rb_N2135_8_DK">Don’t know</string>
-    <string name="rb_N2135_9_1">Yes</string>
-    <string name="rb_N2135_9_2">No</string>
-    <string name="rb_N2135_9_DK">Don’t know</string>
-    <string name="rb_N2135_10_1">Yes</string>
-    <string name="rb_N2135_10_2">No</string>
-    <string name="rb_N2135_10_DK">Don’t know</string>
-    <string name="rb_N2135_11_1">Yes</string>
-    <string name="rb_N2135_11_2">No</string>
-    <string name="rb_N2135_11_DK">Don’t know</string>
-    <string name="rb_N2135_12_1">Yes</string>
-    <string name="rb_N2135_12_2">No</string>
-    <string name="rb_N2135_12_DK">Don’t know</string>
 
-    <string name="rb_N2136_1">Yes</string>
-    <string name="rb_N2136_2">No</string>
-    <string name="rb_N2136_DK">Don’t know</string>
-    <string name="rb_N2136_RA">Refused to Answer</string>
-    <string name="rb_N2137_1">Yes</string>
-    <string name="rb_N2137_2">No</string>
-    <string name="rb_N2137_DK">Don’t know</string>
-    <string name="rb_N2137_RA">Refused to Answer</string>
-    <string name="rb_N2138_1">Yes</string>
-    <string name="rb_N2138_2">No</string>
-    <string name="rb_N2138_DK">Don’t know</string>
-    <string name="rb_N2138_RA">Refused to Answer</string>
-    <string name="rb_N2140_1">Yes</string>
-    <string name="rb_N2140_2">No</string>
-    <string name="rb_N2140_DK">Don’t know</string>
-    <string name="rb_N2140_RA">Refused to Answer</string>
-    <string name="rb_N2141_1">Yes</string>
-    <string name="rb_N2141_2">No</string>
-    <string name="rb_N2141_DK">Don’t know</string>
-    <string name="rb_N2141_RA">Refused to Answer</string>
-    <string name="rb_N2142_1">Yes</string>
-    <string name="rb_N2142_2">No</string>
-    <string name="rb_N2142_DK">Don’t know</string>
-    <string name="rb_N2142_RA">Refused to Answer</string>
-    <string name="rb_N2143_1">Yes</string>
-    <string name="rb_N2143_2">No</string>
-    <string name="rb_N2143_DK">Don’t know</string>
-    <string name="rb_N2143_RA">Refused to Answer</string>
-    <string name="rb_N2144_1">Yes</string>
-    <string name="rb_N2144_2"> No</string>
-    <string name="rb_N2144_DK">Don’t know</string>
-    <string name="rb_N2144_RA">Refused to Answer</string>
+    <string name="n135">On the day before the illness began, was the baby given any…? </string>
+    <string name="n135a">Milk (other than breast milk)</string>
+    <string name="n135aa">Yes</string>
+    <string name="n135ab">No</string>
+    <string name="n135a98">Don’t Know</string>
+
+    <string name="n135b">Plain Water</string>
+    <string name="n135ba">Yes</string>
+    <string name="n135bb">No</string>
+    <string name="n135b98">Don’t Know</string>
+
+    <string name="n135c">Sugar or Glucose Water</string>
+    <string name="n135ca">Yes</string>
+    <string name="n135cb">No</string>
+    <string name="n135c98">Don’t Know</string>
+
+    <string name="n135d">Gripe Water</string>
+    <string name="n135da">Yes</string>
+    <string name="n135db">No</string>
+    <string name="n135d98">Don’t Know</string>
+
+    <string name="n135e">Sugar-salt-water solution</string>
+    <string name="n135ea">Yes</string>
+    <string name="n135eb">No</string>
+    <string name="n135e98">Don’t Know</string>
+
+    <string name="n135f">Fruit juice</string>
+    <string name="n135fa">Yes</string>
+    <string name="n135fb">No</string>
+    <string name="n135f98">Don’t Know</string>
+
+    <string name="n135g">Infant formula</string>
+    <string name="n135ga">Yes</string>
+    <string name="n135gb">No</string>
+    <string name="n135g98">Don’t Know</string>
+
+    <string name="n135h">Tea / Infusions</string>
+    <string name="n135ha">Yes</string>
+    <string name="n135hb">No</string>
+    <string name="n135h98">Don’t Know</string>
+
+    <string name="n135i">Honey</string>
+    <string name="n135ia">Yes</string>
+    <string name="n135ib">No</string>
+    <string name="n135i98">Don’t Know</string>
+
+    <string name="n135j">Semisolid or soft foods such as yogurt, cereal or mashed vegetables </string>
+    <string name="n135ja">Yes</string>
+    <string name="n135jb">No</string>
+    <string name="n135j98">Don’t Know</string>
+
+    <string name="n135k">Any other liquid or semisolid or soft food </string>
+    <string name="n135ka">Yes</string>
+    <string name="n135kb">No</string>
+    <string name="n135k98">Don’t Know</string>
+
+    <string name="n136">Was the baby able to suckle or bottle-feed in a normal way during the first day of life ?</string>
+    <string name="n136a">Yes</string>
+    <string name="n136b">No</string>
+    <string name="n13698">Don’t Know</string>
+    <string name="n13699">Refused to Answer</string>
+
+    <string name="n137">Did the baby ever suckle in a normal way? 	</string>
+    <string name="n137a">Yes</string>
+    <string name="n137b">No</string>
+    <string name="n13798">Don’t Know</string>
+    <string name="n13799">Refused to Answer</string>
+
+    <string name="n2138">N2138:	Did the baby stop being able to suckle in a normal way? 	</string>
+    <string name="n138a">Yes</string>
+    <string name="n138b">No</string>
+    <string name="n13898">Don’t Know</string>
+    <string name="n13899">Refused to Answer</string>
+
+    <string name="n139">N2139:	How many days after birth did the baby stop suckling?	</string>
+
+    <string name="n140">Was the baby able to open her/his mouth at the time s/he stopped suckling?	</string>
+    <string name="n140a">Yes</string>
+    <string name="n140b">No</string>
+    <string name="n14098">Don’t Know</string>
+    <string name="n14099">Refused to Answer</string>
+
+    <string name="n2141">N2141:	During the illness that led to death, did the baby have spasms or convulsions?	</string>
+    <string name="n141a">Yes</string>
+    <string name="n141b">No</string>
+    <string name="n14198">Don’t Know</string>
+    <string name="n14199">Refused to Answer</string>
+
+    <string name="n2142">N2142:	Did the baby have convulsions in the first 24 hours of life?	</string>
+    <string name="rb_N2142a">Yes</string>
+    <string name="rb_N2142b">No</string>
+    <string name="rb_N214298">Don’t Know</string>
+    <string name="rb_N214299">Refused to Answer</string>
+
+    <string name="rb_N2144a">Yes</string>
+    <string name="rb_N2144b">No</string>
+    <string name="rb_N214498">Don’t Know</string>
+    <string name="rb_N214499">Refused to Answer</string>
     <string name="rb_N2145_1">Yes</string>
     <string name="rb_N2145_2">No</string>
     <string name="rb_N2145_DK">Don’t know</string>
@@ -1983,19 +1938,123 @@
     <string name="rb_N2189_2">No</string>
     <string name="rb_N2189_DK">Don’t know</string>
     <string name="rb_N2189_RA">Refused to Answer</string>
+
+    <string name="n143">Did the baby have convulsions starting more than 24 hours after birth ?</string>
+    <string name="n143a">Yes</string>
+    <string name="n143b">No</string>
+    <string name="n14398">Don’t Know</string>
+    <string name="n14399">Refused to Answer</string>
+
+    <string name="n2144">N2144:	Did the baby’s body become stiff, with the head arched backwards?	</string>
+
+    <string name="n2145">N2145:	During the illness that led to death, did the baby become unresponsive or unconscious?	</string>
+
+    <string name="n2146">N2146:	Did the baby become unresponsive or unconscious soon after birth, within less than 24 hours?	</string>
+
+    <string name="n2147">N2147:	Did the baby become unresponsive or unconscious more than 24 hours after birth?	</string>
+
+    <string name="n2148">N2148:	Was s/he unconscious for more than 24 hours before death?	</string>
+
+    <string name="n2149">N2149:	During the illness that led to death, did the baby become lethargic, after a period of normal activity?	</string>
+
+    <string name="n2150">N2150:	During the illness that led to death, did the baby have pus drainage from the umbilical cord stump?	</string>
+
+    <string name="n2151">N2151:	During the illness that led to death, did the baby have redness of the umbilical cord stump?	</string>
+    <string name="n2152">N2152:	Did the redness of the umbilical cord stump extend onto the abdominal skin?	</string>
+    <string name="n2153">N2153:	During the illness that led to death, did the baby have skin bumps containing pus or a single large area with pus?	</string>
+    <string name="n2154">N2154:	During the illness that led to death, did the baby have skin ulcer(s) (pit(s))?	</string>
+    <string name="n2155">N2155:	During the illness that led to death, did the baby have fever?	</string>
+    <string name="n2156">N2156:	At what age did the fever start?	</string>
+    <string name="n2157">N2157:	How many days did the fever last?	</string>
+    <string name="n2158">N2158:	Did the fever continue until death?	</string>
+    <string name="n2159">N2159:	During the illness that led to death, did the baby become cold to touch?	</string>
+    <string name="n2160">N2160:	How many days old was the baby when s/he started feeling cold to touch?	</string>
+    <string name="n2161">N2161:	How many days did the baby feel cold to touch?	</string>
+    <string name="n2162">N2162:	Did the baby have a cough?	</string>
+    <string name="n2163">N2163:	Did s/he make a whooping sound when coughing?	</string>
+    <string name="n2164">N2164:	Did the child vomit after s/he coughed? 	</string>
+    <string name="n2165">N2165:	During the illness that led to death, did the baby have difficulty breathing?	</string>
+    <string name="n2166">N2166:	At what age did the difficult breathing start?	</string>
+    <string name="n2166_1">N2166_1:	For how many days did the difficult breathing last?	</string>
+    <string name="n2167">N2167:	During the illness that led to death, did the baby have fast breathing?	</string>
+    <string name="n2168">N2168:	At what age did the fast breathing start? 	</string>
+    <string name="n2169">N2169:	For how many days did the fast breathing last?	</string>
+    <string name="n2170">N2170:	During the illness that led to death, did the baby have breathlessness?	</string>
+    <string name="n2171">N2171:	For how many days did the breathlessness last?	</string>
+    <string name="n2172">N2172:	During the illness that led to death, did you see the lower chest wall/ribs being pulled in as the baby breathed? 	</string>
+    <string name="n2173">N2173:	During the illness that led to death, did her/his breathing sound like any of the following?	</string>
+    <string name="n2174">N2174:	Stridor	</string>
+    <string name="n2175">N2175:	Grunting	</string>
+    <string name="n2176">N2176:	Wheezing	</string>
+    <string name="n2177a">N2177a: Did ?NAME? have a bulging or raised fontanelle during the illness that led to death?	</string>
+    <string name="n2177">N2177:	Did s/he have a sunken fontanelle during the illness that led to death?	</string>
+    <string name="n2178">N2178:	During the illness that led to death, did s/he have yellow skin, palms (hand) or soles (foot)?	</string>
+    <string name="n2179">N2179:	During the illness that led to death, did the baby have yellow discoloration of the eyes?	</string>
+    <string name="n2180">N2180:	During the illness that led to death, did the baby have any skin rash?	</string>
+    <string name="n2181">N2181:	During the illness that led to death, did the baby have an area(s) of skin with redness and swelling?	</string>
+    <string name="n2182">N2182:	During the illness that led to death, did s/he have areas of the skin that turned black?	</string>
+    <string name="n2183">N2183:	During the illness that led to death, did the baby bleed from anywhere?	</string>
+    <string name="n2184">N2184:	Record from where the baby bled:	</string>
+    <string name="n2185">N2185:	During the illness that led to death, did s/he have more frequent loose or liquid stools than usual?	</string>
+    <string name="n2186">N2186:	How many stools did the baby have on the day that loose liquid stools were most frequent?	</string>
+    <string name="n2187">N2187:	How many days before death did the frequent loose or liquid stools start?	</string>
+    <string name="n2188">N2188:	At any time during the fatal illness was there blood in the stools?	</string>
+    <string name="n2189">N2189:	During the illness that led to death, did the baby vomit everything?	</string>
+    <string name="n2189a">N2189a: Did s/he vomit in the week preceding death?	</string>
     <string name="rb_N2189a_1">Yes</string>
     <string name="rb_N2189a_2">No</string>
     <string name="rb_N2189a_DK">Don’t know</string>
     <string name="rb_N2189a_RA">Refused</string>
 
-    <string name="rb_N2190_1">Yes</string>
-    <string name="rb_N2190_2">No</string>
-    <string name="rb_N2190_DK">Don’t know</string>
-    <string name="rb_N2190_RA">Refused to Answer</string>
-    <string name="rb_N2190_1_1">Yes</string>
-    <string name="rb_N2190_1_2">No</string>
-    <string name="rb_N2190_1_DK">Don’t know</string>
-    <string name="rb_N2190_1_RA">Refused to Answer</string>
+    <string name="n190">Did (NAME) suffer from any injury or accident that led to her/his death ? </string>
+    <string name="n190a1">Yes</string>
+    <string name="n190b1">No</string>
+    <string name="n19098">Don’t Know</string>
+    <string name="n19099">Refused to Answer</string>
+
+    <string name="n190a">Was it a road traffic accident ?</string>
+    <string name="n190aa">Yes</string>
+    <string name="n190ab">No</string>
+    <string name="n190a98">Don’t Know</string>
+    <string name="n190a99">Refused to Answer</string>
+
+    <string name="n2190_2">N2190_2:	What was her/his role in the road traffic accident?	</string>
+    <string name="n2190_3">N2190_3:	What was the counterpart that was hit during the road traffic accident?	</string>
+    <string name="n2190_4">N2190_4:	Was (s)he injured in a non-road transport accident?	</string>
+    <string name="n2190_5">N2190_5:	Was (s)he injured in a fall?	</string>
+    <string name="n2190_6">N2190_6:	Was there any poisoning?	</string>
+    <string name="n2190_7">N2190_7:	Did (s)he die of drowning?	</string>
+    <string name="n2190_8">N2190_8:	Was (s)he injured by a bite or sting by venomous animal?	</string>
+    <string name="n2190_9">N2190_9:	Was (s)he injured by an animal or insect (non-venomous)?	</string>
+    <string name="n2190_10">N2190_10: What was the animal/insect?	</string>
+    <string name="n2190_11">N2190_11: Was (s)he injured by burns/fire? 	</string>
+    <string name="n2190_12">N2190_12: Was (s)he subject to violence (homicide, abuse)?	</string>
+    <string name="n2190_13">N2190_13: Was (s)he injured by a firearm?	</string>
+    <string name="n2190_14">N2190_14: Was (s)he stabbed, cut or pierced?	</string>
+    <string name="n2190_15">N2190_15: Was (s)he strangled?	</string>
+    <string name="n2190_16">N2190_16: Was (s)he injured by a blunt force?	</string>
+    <string name="n2190_17">N2190_17: Was (s)he injured by a force of nature?	</string>
+    <string name="n2190_18">N2190_18: Was it electrocution?	</string>
+    <string name="n2190_19">N2190_19: Did (s)he encounter any other injury?	</string>
+    <string name="n2190_20">N2190_20: Was the injury accidental?	</string>
+    <string name="n2190_21">N2190_21: Was the injury self-inflicted?	</string>
+    <string name="n2190_22">N2190_22: Was the injury intentionally inflicted by someone else?	</string>
+    <string name="n2191">N2191:	How long did ?NAME? survive after the injury?	</string>
+    <string name="n2192">N2192:	Check N2006 to determine if the baby was born in a health facility (codes 3-10): </string>
+    <string name="n2193">N2193:	Did the baby leave the delivery facility alive or did s/he die in the facility?	</string>
+    <string name="n2194">N2194:	How long after birth did the baby leave the facility?	</string>
+    <string name="n2195">N2195:	Before leaving the facility, did anyone physically examine the baby, for example, check the temperature or check the cord?	</string>
+    <string name="n2196">N2196:	Prior to being discharged, did a health worker counsel (you / the mother) on breastfeeding the baby?	</string>
+    <string name="n2197">N2197:	Prior to being discharged, (were you / was the mother) told about signs and symptoms for which the baby needs immediate care? 	</string>
+
+    <string name="n2198">N2198:	After discharge, before the fatal illness began, was the baby ever seen by a trained health worker or nurse at home or in the community, or by a doctor or nurse at a health facility?	</string>
+    <string name="n2199">N2199:	After the birth, did the delivery attendant examine the baby, for example, check the temperature or check the cord?	</string>
+    <string name="n2200">N2200:	After the birth of the baby, did the delivery attendant counsel (you / the mother) on breastfeeding the baby?	</string>
+    <string name="n2201">N2201:	After the birth of the baby, did the delivery attendant tell (you / the mother) about signs and symptoms for which the baby needs immediate care?	</string>
+    <string name="n2202">N2202:	In the days after delivery, before the fatal illness began, was the baby ever seen by a trained health worker or nurse at home or in the community, or by a doctor or nurse at a health facility?	</string>
+
+
+    <!-- responces starts -->
     <string name="rb_N2190_2_1">Pedestrian</string>
     <string name="rb_N2190_2_2">Driver or passenger in car or light vehicle</string>
     <string name="rb_N2190_2_3">Driver or passenger in bus or heavy vehicle</string>
@@ -2158,9 +2217,7 @@
 
     <string name="n2216">N2216: What concerns or problems did you have?</string>
 
-    <string name="n2217">N2217: Refer to N2230 for the first health provider and related symptoms:
-You mentioned that you took (NAME) to the (first) health provider, I mean the (FIRST HEALTH PROVIDER) with (SYMPTOM). How long had (NAME) had (this / these) symptom(s) when it was decided to go to the (FIRST HEALTH PROVIDER)?
-</string>
+    <string name="n2217">N2217: Refer to N2230 for the first health provider and related symptoms: You mentioned that you took (NAME) to the (first) health provider, I mean the (FIRST HEALTH PROVIDER) with (SYMPTOM). How long had (NAME) had (this / these) symptom(s) when it was decided to go to the (FIRST HEALTH PROVIDER) ?</string>
 
     <string name="n2218_1">N2218_1:	At the time of leaving the (&lt;FIRST HEALTH PROVIDER>, was &lt;NAME> Feeding normally, feeding poorly, or not feeding at all 	</string>
     <string name="n2218_2">N2218_2:	At the time of leaving the (&lt;FIRST HEALTH PROVIDER>, was &lt;NAME> Normally active, less active than normal, or not moving 	</string>
