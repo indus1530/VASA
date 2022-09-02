@@ -2204,18 +2204,12 @@ public class DatabaseHelper extends SQLiteOpenHelper {
         SQLiteDatabase db = this.getReadableDatabase(DATABASE_PASSWORD);
         Cursor c = null;
         String[] columns = null;
-
         String whereClause;
-        whereClause = FormsTable.COLUMN_CLUSTER_CODE + "=? AND " +
-                FormsTable.COLUMN_HHID + " =? ";
-
+        whereClause = FormsTable.COLUMN_CLUSTER_CODE + "=? AND " + FormsTable.COLUMN_HHID + " =? ";
         String[] whereArgs = {psuCode, hhid};
-
         String groupBy = null;
         String having = null;
-
         String orderBy = FormsTable.COLUMN_ID + " ASC";
-
         Forms form = null;
         try {
             c = db.query(
@@ -2227,36 +2221,25 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                     having,                    // don't filter by row groups
                     orderBy                    // The sort order
             );
-            while (c.moveToNext()) {
-                form = new Forms().Hydrate(c);
-            }
+            while (c.moveToNext()) form = new Forms().Hydrate(c);
         } finally {
-            if (c != null) {
-                c.close();
-            }
-            /*if (db != null) {
-                db.close();
-            }*/
+            if (c != null) c.close();
         }
         return form;
     }
 
     public Forms getFormByPSUHHNo(String psuCode, String hhid) throws JSONException {
-
         SQLiteDatabase db = this.getReadableDatabase(DATABASE_PASSWORD);
         Cursor c = null;
-
         Boolean distinct = false;
         String tableName = FormsTable.TABLE_NAME;
         String[] columns = null;
-        String whereClause = FormsTable.COLUMN_CLUSTER_CODE + "= ? AND " +
-                FormsTable.COLUMN_HHID + "= ? ";
+        String whereClause = FormsTable.COLUMN_CLUSTER_CODE + "= ? AND " + FormsTable.COLUMN_HHID + "= ? ";
         String[] whereArgs = {psuCode, hhid};
         String groupBy = null;
         String having = null;
         String orderBy = FormsTable.COLUMN_SYSDATE + " ASC";
         String limitRows = "1";
-
         c = db.query(
                 distinct,       // Distinct values
                 tableName,      // The table to query
@@ -2268,11 +2251,8 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 orderBy,
                 limitRows
         );
-
         Forms form = new Forms();
-        while (c.moveToNext()) {
-            form = (new Forms().Hydrate(c));
-        }
+        while (c.moveToNext()) form = new Forms().Hydrate(c);
         c.close();
         return form;
 
@@ -2299,9 +2279,7 @@ public class DatabaseHelper extends SQLiteOpenHelper {
                 having,                    // don't filter by row groups
                 orderBy                   // The sort order
         );
-        while (c.moveToNext()) {
-            adol = new Adolescent().Hydrate(c);
-        }
+        while (c.moveToNext()) adol = new Adolescent().Hydrate(c);
         return adol;
     }
 
