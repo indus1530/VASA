@@ -55,7 +55,7 @@
 
     <style name="AppThemeUrdu" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
-        <item name="android:textSize">18dp</item>
+        <item name="android:textSize">18sp</item>
 
         <item name="fontFamily">@font/jameel_noori_nastaleeq</item>
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -86,7 +86,7 @@
 
     <style name="AppThemeSindhi" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="android:windowFullscreen">true</item>
-        <item name="android:textSize">18dp</item>
+        <item name="android:textSize">18sp</item>
 
         <item name="fontFamily">sans-serif</item>
         <item name="colorPrimary">@color/colorPrimary</item>
